@@ -5,7 +5,6 @@ nav:
     - Pŕe-rastreabilidade:
       - RichPicture: pre-rastreabilidade/richpicture.md
 
-site_url: null
-repo_url: https://github.com/Requisitos2-2019/Twitter/Twitter_Wiki_Requirements
+repo_url: https://github.com/Requisitos2-2019/Twitter/
 
 theme: yeti
