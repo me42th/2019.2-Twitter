@@ -17,6 +17,6 @@ pip install mkdocs-bootswatch
 Como Executar:
 ```
 clone o repositório
-cd twitter_software_requirements
+cd Twitter_Wiki_Requirements
 mkdocs serve
 ```
