@@ -7,4 +7,7 @@ nav:
 
 repo_url: https://github.com/Requisitos2-2019/Twitter/
 
+docs_dir: twitter_docs/
+site_dir: docs/
+
 theme: yeti
