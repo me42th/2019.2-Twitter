@@ -20,6 +20,6 @@ pip install mkdocs-bootswatch
 Como Executar:
 ```
 clone o repositório
-cd Twitter_Wiki_Requirements
+cd 2019.2-Twitter
 mkdocs serve
 ```
