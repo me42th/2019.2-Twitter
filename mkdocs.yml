@@ -4,6 +4,9 @@ nav:
     - Home: index.md
     - Pŕe-rastreabilidade:
       - RichPicture: pre-rastreabilidade/richpicture.md
+    - Elicitação:
+      - Entrevistas: elicitacao/entrevistas/entrevistas.md
+      - Requisitos: elicitacao/requisitos.md
 
 repo_url: https://github.com/Requisitos2-2019/Twitter/
 
