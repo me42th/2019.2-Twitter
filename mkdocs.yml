@@ -1,7 +1,7 @@
 site_name: Twitter Requirements
 
 nav:
-    - Home: index.md
+    - Home: twitter_docs/index.md
     - Pŕe-rastreabilidade:
       - RichPicture: pre-rastreabilidade/richpicture.md
     - Elicitação:
