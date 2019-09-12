@@ -7,11 +7,11 @@
         
         
         
-        <link rel="shortcut icon" href="/img/favicon.ico">
-        <title>Twitter Requirements</title>
-        <link href="/css/bootstrap-custom.min.css" rel="stylesheet">
-        <link href="/css/font-awesome.min.css" rel="stylesheet">
-        <link href="/css/base.css" rel="stylesheet">
+        <link rel="shortcut icon" href="../../../img/favicon.ico">
+        <title>Entrevistas - Twitter Requirements</title>
+        <link href="../../../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../../../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../../../css/base.css" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/color-brewer.min.css">
         <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>
@@ -19,8 +19,8 @@
             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
         <![endif]-->
 
-        <script src="/js/jquery-1.10.2.min.js" defer></script>
-        <script src="/js/bootstrap-3.0.3.min.js" defer></script>
+        <script src="../../../js/jquery-1.10.2.min.js" defer></script>
+        <script src="../../../js/bootstrap-3.0.3.min.js" defer></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
         <script>hljs.initHighlightingOnLoad();</script> 
     </head>
@@ -39,7 +39,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="/.">Twitter Requirements</a>
+                    <a class="navbar-brand" href="../../..">Twitter Requirements</a>
                 </div>
 
                 <!-- Expanded navigation -->
@@ -47,27 +47,27 @@
                         <!-- Main navigation -->
                         <ul class="nav navbar-nav">
                             <li >
-                                <a href="/.">Home</a>
+                                <a href="../../..">Home</a>
                             </li>
                             <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pŕe-rastreabilidade <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     
 <li >
-    <a href="/pre-rastreabilidade/richpicture/">RichPicture</a>
+    <a href="../../../pre-rastreabilidade/richpicture/">RichPicture</a>
 </li>
                                 </ul>
                             </li>
-                            <li class="dropdown">
+                            <li class="dropdown active">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Elicitação <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     
-<li >
-    <a href="/elicitacao/entrevistas/entrevistas/">Entrevistas</a>
+<li class="active">
+    <a href="./">Entrevistas</a>
 </li>
                                     
 <li >
-    <a href="/elicitacao/requisitos/">Requisitos</a>
+    <a href="../../requisitos/">Requisitos</a>
 </li>
                                 </ul>
                             </li>
@@ -79,8 +79,18 @@
                                 <i class="fa fa-search"></i> Search
                             </a>
                         </li>
+                            <li >
+                                <a rel="next" href="../../../pre-rastreabilidade/richpicture/">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li >
+                                <a rel="prev" href="../../requisitos/">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
                             <li>
-                                <a href="https://github.com/Requisitos2-2019/Twitter/"><i class="fa fa-github"></i> GitHub</a>
+                                <a href="https://github.com/Requisitos2-2019/Twitter/edit/master/docs/elicitacao/entrevistas/entrevistas.md"><i class="fa fa-github"></i> Edit on GitHub</a>
                             </li>
                     </ul>
                 </div>
@@ -88,15 +98,77 @@
         </div>
 
         <div class="container">
+                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+        <li class="main active"><a href="#o-metodo-das-entrevistas">O método das Entrevistas</a></li>
+        <li class="main "><a href="#algumas-entrevistas">Algumas entrevistas</a></li>
+            <li><a href="#perguntas-base-utilizadas">Perguntas base utilizadas :</a></li>
+            <li><a href="#respostas">Respostas</a></li>
+            <li><a href="#versionamento-de-edicoes-desta-pagina">Versionamento de edições desta página</a></li>
+    </ul>
+</div></div>
+                <div class="col-md-9" role="main">
 
-    <div class="row-fluid">
-      <div id="main-content" class="span12">
-        <h1 id="404-page-not-found" style="text-align: center">404</h1>
-        <p style="text-align: center"><strong>Page not found</strong></p>
-      </div>
-    </div>
-
-
+<p><span style="margin-left: 40%;"><img alt="Twitter Logo" src="../../../images/twitter-logo-100px.png" /></span></p>
+<hr />
+<h1 id="o-metodo-das-entrevistas">O método das Entrevistas</h1>
+<p>A elicitação de requisitos tem diversas técnicas, e a entrevista é uma delas. Isso consiste em
+dialogar com um usuário sobre o sistema/software com a finalidade de, a partir das respostas
+dele, levantar os requisitos necessários para o produto/serviço de software.</p>
+<p>Cada integrante da nossa equipe de engenharia de requisitos entrevistou pelo menos um usuário. A partir disso, cada integrante redigiu um documento mostrando as perguntas feitas e as respostas dos usuários.</p>
+<p>Logo após isso, montamos uma planilha e, em conjunto, enumeramos e discutimos todos os requisitos levantados.</p>
+<p>Para ver os requisitos elicitados, visite a página <a href="../../requisitos/">Requisitos</a></p>
+<hr />
+<h1 id="algumas-entrevistas">Algumas entrevistas</h1>
+<h3 id="perguntas-base-utilizadas">Perguntas base utilizadas :</h3>
+<ol>
+<li>Qual funcionalidade do Twitter você mais gosta ? E qual você mais utiliza ? Qual você menos gosta? Qual você menos utiliza ?</li>
+<li>Você precisa de mais ou de menos tempo para fazer alguma ação no aplicativo ? Se sim, de quanto?</li>
+<li>Você já teve seus dados vazados de alguma forma a partir do Twitter ? Se não , conhece alguma história sobre isso ?</li>
+<li>Você utiliza alguma outra rede social ?</li>
+<li>Que tipo de conteúdo você consome exclusivamente no Twitter ?</li>
+<li>Qual o diferencial do Twitter em relação as outras redes Sociais, na sua opinião ?</li>
+<li>Você costuma interagir com os anúncios que aparecem pra você ?</li>
+<li>Você já realizaou alguma compra a partir de um anúncio do twitter ?</li>
+</ol>
+<h3 id="respostas">Respostas</h3>
+<h4 id="entrevistado-do-eugenio">Entrevistado do Eugênio</h4>
+<ol>
+<li>Mais gosto: Twittar, mais utilizo: Twittar, menos gosto: Explorar, menos utilizo: Explorar;</li>
+<li>Menos de 1 minuto ;</li>
+<li>Não, não conheço ;</li>
+<li>Sim, facebook e instagram ;</li>
+<li>Não costumo postar em outras redes sociais, utilizo o twitter também para notícias rápidas, como de esportes etc ;</li>
+<li>Ele é voltado para postagens curtas, rápidas, semelhantes a um diário. Torna mais conveniente de twittar algo pois é a finalidade do aplicativo, e todos os outros estão fazendo o mesmo, ao contrário do facebook, por exemplo, que normalmente os textos são acompanhados de fotos etc ;</li>
+<li>Não ;</li>
+<li>Não .</li>
+</ol>
+<hr />
+<h2 id="versionamento-de-edicoes-desta-pagina">Versionamento de edições desta página</h2>
+<table>
+<thead>
+<tr>
+<th>Data</th>
+<th>Autor</th>
+<th>Descrição</th>
+<th>Versão</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11/09/2019</td>
+<td>Erick Giffoni</td>
+<td>Criação e edição inicial da página.</td>
+<td>0.1</td>
+</tr>
+<tr>
+<td>11/09/2019</td>
+<td>Erick Giffoni</td>
+<td>Adição inicial das entrevistas</td>
+<td>0.1.2</td>
+</tr>
+</tbody>
+</table></div>
         </div>
 
         <footer class="col-md-12">
@@ -104,11 +176,11 @@
             <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
         </footer>
         <script>
-            var base_url = "/",
+            var base_url = "../../..",
                 shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
         </script>
-        <script src="/js/base.js" defer></script>
-        <script src="/search/main.js" defer></script>
+        <script src="../../../js/base.js" defer></script>
+        <script src="../../../search/main.js" defer></script>
 
         <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
     <div class="modal-dialog">
