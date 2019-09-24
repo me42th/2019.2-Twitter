@@ -8,7 +8,7 @@ dele, levantar os requisitos necessários para o produto/serviço de software.
 
 Cada integrante da nossa equipe de engenharia de requisitos entrevistou pelo menos um usuário. A partir disso, cada integrante redigiu um documento mostrando as perguntas feitas e as respostas dos usuários.
 
-Logo após isso, montamos uma planilha e, em conjunto, enumeramos e discutimos todos os requisitos levantados.
+Logo após isso, montamos uma planilha e, em conjunto, enumeramos e discutimos todos os requisitos levantados, passando por um processo de introspecção.
 
 Para ver os requisitos elicitados, visite a página [Requisitos](../requisitos.md)
 
@@ -25,7 +25,8 @@ Para ver os requisitos elicitados, visite a página [Requisitos](../requisitos.m
 8. **Você já realizaou alguma compra a partir de um anúncio do Twitter?**
 
 ## Respostas
-### Entrevistado da Aline
+### Amanda Carvalho - 21 anos
+###### Entrevistadora : Aline
 1. A funcionalidade que eu mais gosto é a do retweet. O que eu mais utilizo são as funcionalidades de dar like e de dar retweet. A funcionalidade que eu menos gosto e utilizo é a de Direct Message.
 2. Gasto pouco tempo para fazer o que eu quiser no Twitter. A ação mais demorada que faço é a de escrever um tweet e ainda assim, levo no máximo 5 minutos para criar um novo tweet.
 3. Não e eu também não conheço nenhuma história sobre isso.
@@ -35,7 +36,8 @@ Para ver os requisitos elicitados, visite a página [Requisitos](../requisitos.m
 7. Sim.
 8. Não.
 
-### Entrevistado da Bruno
+### Harissane Luana - 17 anos
+###### Entrevistador : Bruno
 1. Eu gosto das enquetes, utilizo mais o "fav", não tem uma funcionalidade que eu goste menos e utilizo menos o silenciador de palavras/pessoas
 2. Não.
 3. Não e não conheço nenhuma história sobre.
@@ -45,7 +47,8 @@ Para ver os requisitos elicitados, visite a página [Requisitos](../requisitos.m
 7. Não, nem os promovidos.
 8. Não.
 
-### Entrevistado do Erick
+### Maria Eduarda - 15 anos
+###### Entrevistador : Erick
 1. O Twitter serve pra eu poder me distrair, ver memes muito engraçados e saber de várias notícias, além de poder desabafar lá. Eu vejo mais memes. Não há nada que eu não goste nem que menos utilize.
 2. Menos. Cerca de segundos.
 3. Não, apenas se forem os que eu postei e não são de demasiada importância. Não.
@@ -55,7 +58,8 @@ Para ver os requisitos elicitados, visite a página [Requisitos](../requisitos.m
 7. Não.
 8. Não.
 
-### Entrevistado do Eugênio
+### Mateus Oliverira - 23 anos
+###### Entrevistador : Eugênio
 1. Mais gosto: Twittar, mais utilizo: Twittar, menos gosto: Explorar, menos utilizo: Explorar.
 2. Menos de 1 minuto.
 3. Não, não conheço.
@@ -65,7 +69,8 @@ Para ver os requisitos elicitados, visite a página [Requisitos](../requisitos.m
 7. Não.
 8. Não.
 
-### Entrevistado 02 d0 Fernando
+### Yago - 24 anos
+###### Entrevistador : Fernando
 1. Retweet, o que menos utilizo é o like. O que eu menos gosto também é o like.
 2. Acho que está tranquilo o tempo que já tem.
 3. Não.
@@ -75,7 +80,8 @@ Para ver os requisitos elicitados, visite a página [Requisitos](../requisitos.m
 7. Não.
 8. Não.
 
-### Entrevistado 03 d0 Fernando
+### Luana - 19 anos
+###### Entrevistador : Fernando
 1. Uma das que eu mais gosto é a seleção e sugestão de tweets depois de um certo tempo fora da plataforma. A que eu menos utilizo é hashtags e trending topics. Mas principalmente hashtags.
 2.  Não, acho que no twitter é tudo bem rápido. Uma das coisas boas é que as informações correm muito rápido, e como os tweets são curtos você também absorve informação muito rápido.
 3. Não.
@@ -85,7 +91,8 @@ Para ver os requisitos elicitados, visite a página [Requisitos](../requisitos.m
 7. Não.
 8. Não.
 
-### Entrevistado da Lorrany
+### Marlon Mendes - 24 anos
+###### Entrevistadora : Lorrany
 1.  A de explorar novas notícias e novidades, não cobrir conteúdos explícitos que algumas pessoas possam ser sensíveis, encontrar novos amigos.
 2. 15 minutos.
 3. Nunca tive e nunca ouvi falar.
@@ -102,3 +109,4 @@ Para ver os requisitos elicitados, visite a página [Requisitos](../requisitos.m
 | 11/09/2019 | Erick Giffoni | Criação e edição inicial da página. | 0.1 |
 | 11/09/2019 | Erick Giffoni | Adição inicial de uma entrevista. | 0.2 |
 | 11/09/2019 | Aline Laureano | Adição de mais entrevistas. | 0.3 |
+| 13/09/2019 | Erick Giffoni | Correção dos títulos das entrevistas e revisão ortográfica | 0.4

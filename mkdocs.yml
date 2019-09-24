@@ -7,6 +7,9 @@ nav:
       - Entrevistas: elicitacao/entrevistas/entrevistas.md
       - Storytelling: elicitacao/storytelling.md
       - Requisitos & MoSCoW: elicitacao/requisitos.md
+    - Outros artefatos:
+      - 5W2H: outros_artefatos/5w2h.md
+      - SWOT: outros_artefatos/swot.md
 
 repo_url: https://github.com/Requisitos2-2019/Twitter/
 
