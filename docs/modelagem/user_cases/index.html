@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../../img/favicon.ico">
-        <title>Requisitos & MoSCoW - Twitter Requirements</title>
+        <title>Casos de uso - Twitter Requirements</title>
         <link href="../../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../../css/font-awesome.min.css" rel="stylesheet">
         <link href="../../css/base.css" rel="stylesheet">
@@ -55,29 +55,29 @@
 </li>
                                 </ul>
                             </li>
-                            <li class="dropdown active">
+                            <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Elicitação <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     
 <li >
-    <a href="../entrevistas/entrevistas/">Entrevistas</a>
+    <a href="../../elicitacao/entrevistas/entrevistas/">Entrevistas</a>
 </li>
                                     
 <li >
-    <a href="../storytelling/">Storytelling</a>
+    <a href="../../elicitacao/storytelling/">Storytelling</a>
 </li>
                                     
-<li class="active">
-    <a href="./">Requisitos & MoSCoW</a>
+<li >
+    <a href="../../elicitacao/requisitos/">Requisitos & MoSCoW</a>
 </li>
                                 </ul>
                             </li>
-                            <li class="dropdown">
+                            <li class="dropdown active">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Modelagem <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     
-<li >
-    <a href="../../modelagem/user_cases/">Casos de uso</a>
+<li class="active">
+    <a href="./">Casos de uso</a>
 </li>
                                 </ul>
                             </li>
@@ -103,17 +103,17 @@
                             </a>
                         </li>
                             <li >
-                                <a rel="next" href="../storytelling/">
+                                <a rel="next" href="../../elicitacao/requisitos/">
                                     <i class="fa fa-arrow-left"></i> Previous
                                 </a>
                             </li>
                             <li >
-                                <a rel="prev" href="../../modelagem/user_cases/">
+                                <a rel="prev" href="../../outros_artefatos/5w2h/">
                                     Next <i class="fa fa-arrow-right"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://github.com/Requisitos2-2019/Twitter/edit/master/docs/elicitacao/requisitos.md"><i class="fa fa-github"></i> Edit on GitHub</a>
+                                <a href="https://github.com/Requisitos2-2019/Twitter/edit/master/docs/modelagem/user_cases.md"><i class="fa fa-github"></i> Edit on GitHub</a>
                             </li>
                     </ul>
                 </div>
@@ -123,8 +123,8 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#requisitos-priorizacao-moscow">Requisitos &amp; Priorização MoSCoW</a></li>
-            <li><a href="#tabela-de-requisitos">Tabela de requisitos</a></li>
+        <li class="main active"><a href="#casos-de-uso">Casos de Uso</a></li>
+            <li><a href="#caso-de-uso-sistema-geral">Caso de uso: Sistema geral</a></li>
             <li><a href="#versionamento-de-edicoes-desta-pagina">Versionamento de edições desta página</a></li>
     </ul>
 </div></div>
@@ -132,268 +132,12 @@
 
 <p><span style="margin-left: 40%;"><img alt="Twitter Logo" src="../../images/twitter-logo-100px.png" /></span></p>
 <hr />
-<h1 id="requisitos-priorizacao-moscow">Requisitos &amp; Priorização MoSCoW</h1>
-<p><p>A partir do desenvolvimento de artefatos utilizando técnicas de elicitação, levantamos requisitos funcionais e não-funcionais para o Twitter.</p>
-<p>Já a priorização MoSCoW foi aplicada nos requisitos levantados para, de acordo com a sua prioridade no sistema virtual Twitter, classificar os requisitos levantados com os termos: Must (tem que ter), Should (deveria ter), Could (pode ter) e Would (interessante ter).</p></p>
+<h1 id="casos-de-uso">Casos de Uso</h1>
 <hr />
-<h2 id="tabela-de-requisitos">Tabela de requisitos</h2>
-<p><strong>Autor(es):</strong> Todos os integrantes do grupo. </br>
-<strong>Legenda para a coluna "Tipo":</strong></p>
-<ul>
-<li>F = Requisito Funcional;</li>
-<li>NF = Requisito Não-funcional.</li>
-</ul>
-<table>
-<thead>
-<tr>
-<th>Código</th>
-<th>Requisito</th>
-<th>Rastro</th>
-<th>MoSCoW</th>
-<th>Tipo</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>R001</td>
-<td>O usuário deve ser capaz de retweetar, ou seja, copiar o tweet para o seu próprio perfil.</td>
-<td>Entrevista 02 do Fernando, Entrevista da Aline</td>
-<td>MUST</td>
-<td>F</td>
-</tr>
-<tr>
-<td>R002</td>
-<td>Liberdade para o usuário postar o que quiser. - censura parcial.</td>
-<td>Entrevista do Erick, Entrevista da Aline, Entrevista do Erick</td>
-<td>SHOULD</td>
-<td>NF</td>
-</tr>
-<tr>
-<td>R003</td>
-<td>Rapidez na realização de tarefas.</td>
-<td>Entrevista do Erick, Entrevista 01 do Fernando, Entrevista da Aline</td>
-<td>COULD</td>
-<td>NF</td>
-</tr>
-<tr>
-<td>R004</td>
-<td>Permitir a interação da aplicação com outros aplicativos.</td>
-<td>Entrevista do Erick</td>
-<td>WOULD</td>
-<td>F</td>
-</tr>
-<tr>
-<td>R005</td>
-<td>Segurança e proteção de dados.</td>
-<td>Entrevista do Erick, Entrevista da Lorrany</td>
-<td>MUST</td>
-<td>F</td>
-</tr>
-<tr>
-<td>R006</td>
-<td>Permitir a troca de informações entre usuários - numero comentarios, chats, retweet.</td>
-<td>Entrevista do Erick</td>
-<td>MUST</td>
-<td>F</td>
-</tr>
-<tr>
-<td>R007</td>
-<td>Ter um espaço destinado a anúncios.</td>
-<td>Entrevista do Erick</td>
-<td>COULD</td>
-<td>F</td>
-</tr>
-<tr>
-<td>R008</td>
-<td>O usuário deve ser capaz de curtir um tweet, mostrando que tem interesse naquele conteúdo.</td>
-<td>Entrevista 02 do Fernando, Entrevista da Aline</td>
-<td>MUST</td>
-<td>F</td>
-</tr>
-<tr>
-<td>R009</td>
-<td>Permitir que o usuário saia da aplicação a partir de um anúncio.</td>
-<td>Entrevista do Erick</td>
-<td>WOULD</td>
-<td>F</td>
-</tr>
-<tr>
-<td>R010</td>
-<td>O sistema deve ser capaz de indentificar e sugerir conteúdo das pessoas que você mais interage na plataforma, ou seja, amigos mais próximos.</td>
-<td>Entrevista 02 do Fernando</td>
-<td>SHOULD</td>
-<td>F</td>
-</tr>
-<tr>
-<td>R011</td>
-<td>Que o site tenha uma funcionalidade que sugira notícias e conteúdos novos.</td>
-<td>Entrevista 01 Lorrany</td>
-<td>SHOULD</td>
-<td>F</td>
-</tr>
-<tr>
-<td>R012</td>
-<td>Que o site tenha cuidado ao exibir conteúdos violentos ou que possam ser ofensivos para algumas pessoas.</td>
-<td>Entrevista 01 Lorrany</td>
-<td>MUST</td>
-<td>F</td>
-</tr>
-<tr>
-<td>R013</td>
-<td>Que o site seja mais atrativo que os concorrentes.</td>
-<td>Entrevista 01 Lorrany</td>
-<td>WOULD</td>
-<td>NF</td>
-</tr>
-<tr>
-<td>R014</td>
-<td>Pensar em uma forma inteligente de lucro.</td>
-<td>Entrevista 01 Lorrany</td>
-<td>COULD</td>
-<td>F</td>
-</tr>
-<tr>
-<td>R015</td>
-<td>Diminuir ads.</td>
-<td>Entrevista 01 Lorrany</td>
-<td>WOULD</td>
-<td>NF</td>
-</tr>
-<tr>
-<td>R016</td>
-<td>O sistema deve realizar sugestões de conteúdo para o usuário após um certo período ausente da plataforma.</td>
-<td>Entrevista 03 do Fernando</td>
-<td>SHOULD</td>
-<td>F</td>
-</tr>
-<tr>
-<td>R017</td>
-<td>O site deve possuir um sistema de hashtags com agrupamento de tópicos de acordo com uma marca (#) antecipando a palavra.</td>
-<td>Entrevista 03 do Fernando</td>
-<td>MUST</td>
-<td>F</td>
-</tr>
-<tr>
-<td>R018</td>
-<td>O sistema deve mostrar para o usuário quais são os assuntos que estão em alta popularidade no momento - Trending Topics.</td>
-<td>Entrevista 03 do Fernando, Entrevista 01 Eugênio</td>
-<td>COULD</td>
-<td>F</td>
-</tr>
-<tr>
-<td>R019</td>
-<td>O sistema deve manter uma velocidade de atualização do feed mais rápida do que o normal da internet.</td>
-<td>Entrevista 03 do Fernando</td>
-<td>SHOULD</td>
-<td>NF</td>
-</tr>
-<tr>
-<td>R020</td>
-<td>O usuário deve ser capaz de silenciar perfis indesejados.</td>
-<td>Entrevista 01 Bruno</td>
-<td>MUST</td>
-<td>F</td>
-</tr>
-<tr>
-<td>R021</td>
-<td>"Liberdade do usuário em relação aos anúncios promovidos pela plataforma."</td>
-<td>Entrevista 01 Bruno</td>
-<td>SHOULD</td>
-<td>NF</td>
-</tr>
-<tr>
-<td>R022</td>
-<td>Filtragem ou limitação de conteúdo.</td>
-<td>Entrevista 01 Bruno</td>
-<td>COULD</td>
-<td>F</td>
-</tr>
-<tr>
-<td>R023</td>
-<td>Permitir postagem de conteúdo curto para redirecionamento para outros links.</td>
-<td>Entrevista 02 Eugênio</td>
-<td>SHOULD</td>
-<td>F</td>
-</tr>
-<tr>
-<td>R024</td>
-<td>Permitir Tweets curtos como um diário pessoal sem necessariamente ter imagens.</td>
-<td>Entrevista 02 Eugênio</td>
-<td>MUST</td>
-<td>F</td>
-</tr>
-<tr>
-<td>R025</td>
-<td>O usuário deve ser capaz de buscar informações em um campo de pesquisa.</td>
-<td>Entrevista da Aline</td>
-<td>MUST</td>
-<td>F</td>
-</tr>
-<tr>
-<td>R026</td>
-<td>O usuário deve ser capaz de seguir outros usuários.</td>
-<td>Entrevista da Aline</td>
-<td>MUST</td>
-<td>F</td>
-</tr>
-<tr>
-<td>R027</td>
-<td>O usuário deve ser capaz de visualizar todos os tweets postados de outros usuários.</td>
-<td>Entrevista da Aline</td>
-<td>MUST</td>
-<td>F</td>
-</tr>
-<tr>
-<td>R028</td>
-<td>O usuário deve ser capaz de criar um tweet com no máximo 280 caracteres.</td>
-<td>Entrevista da Aline, Entrevista 01 Eugênio</td>
-<td>MUST</td>
-<td>F</td>
-</tr>
-<tr>
-<td>R029</td>
-<td>O usuário deve ser capaz de enviar mensagens diretas (Direct Message) para outros usuários.</td>
-<td>Entrevista da Aline</td>
-<td>SHOULD</td>
-<td>F</td>
-</tr>
-<tr>
-<td>R030</td>
-<td>O usuário deve ser capaz de criar uma conta no Twitter.</td>
-<td>Entrevista da Aline</td>
-<td>MUST</td>
-<td>F</td>
-</tr>
-<tr>
-<td>R031</td>
-<td>O usuário deve possuir um nome de usuário único iniciado pelo caractere “@”.</td>
-<td>Entrevista da Aline</td>
-<td>MUST</td>
-<td>F</td>
-</tr>
-<tr>
-<td>R032</td>
-<td>O usuário deve ser capaz de inserir imagens, gifs e/ou vídeos durante a criação de um tweet.</td>
-<td>Entrevista da Aline</td>
-<td>SHOULD</td>
-<td>F</td>
-</tr>
-<tr>
-<td>R033</td>
-<td>O usuário deve ser capaz de denunciar posts que contém conteudos imprórios e/ou prejudiciais.</td>
-<td>Entrevista do Bruno</td>
-<td>SHOULD</td>
-<td>F</td>
-</tr>
-<tr>
-<td>R034</td>
-<td>O usuário deve ser capaz de criar uma sequência de tweets.</td>
-<td>Entrevista da Aline</td>
-<td>MUST</td>
-<td>F</td>
-</tr>
-</tbody>
-</table>
+<h2 id="caso-de-uso-sistema-geral">Caso de uso: Sistema geral</h2>
+<p><strong>Autores:</strong> Todos os integrantes. </br>
+<strong>Versão:</strong> 0.1</p>
+<p><img alt="Caso de uso: Sistema geral" src="../images/UC-SistemaGeral.jpg" /></p>
 <hr />
 <h2 id="versionamento-de-edicoes-desta-pagina">Versionamento de edições desta página</h2>
 <table>
@@ -407,9 +151,9 @@
 </thead>
 <tbody>
 <tr>
-<td>11/09/2019</td>
-<td>Aline Laureano</td>
-<td>Criação da página, adição da descrição da página e da tabela de requisitos com a priorização MoSCoW.</td>
+<td>24/09/2019</td>
+<td>Aline Laureano, Lorrany Azevedo</td>
+<td>Criação da página e inserção do Caso de uso SISTEMA GERAL.</td>
 <td>0.1</td>
 </tr>
 </tbody>

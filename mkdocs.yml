@@ -7,6 +7,8 @@ nav:
       - Entrevistas: elicitacao/entrevistas/entrevistas.md
       - Storytelling: elicitacao/storytelling.md
       - Requisitos & MoSCoW: elicitacao/requisitos.md
+    - Modelagem:
+      - Casos de uso: modelagem/user_cases.md
     - Outros artefatos:
       - 5W2H: outros_artefatos/5w2h.md
       - SWOT: outros_artefatos/swot.md
