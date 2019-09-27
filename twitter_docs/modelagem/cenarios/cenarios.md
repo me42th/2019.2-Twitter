@@ -14,6 +14,14 @@ Nossa equipe optou por utilizar a ferramenta C&L, disponível [aqui](http://pes.
 
 **Autor** : Erick Giffoni </br>
 **Versão:** 0.1
+
+## Login
+<span style="margin-left: 0%;">![Login](./images/login.png)</span>
+
+**Autor** : Bruno Duarte </br>
+**Versão:** 0.1
+***
+
 ***
 ## Versionamento de edições desta página
 | Data | Autor | Descrição | Versão |
