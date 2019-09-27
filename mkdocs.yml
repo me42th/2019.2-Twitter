@@ -8,6 +8,8 @@ nav:
       - Storytelling: elicitacao/storytelling.md
       - Requisitos & MoSCoW: elicitacao/requisitos.md
     - Modelagem:
+      - Cenários: modelagem/cenarios/cenarios.md
+      - Léxicos: modelagem/lexicos/lexicos.md
       - Casos de uso: modelagem/user_cases.md
       - Caso de uso Trending Topics: modelagem/use_cases_specifications/trending_topics.md
     - Outros artefatos:
