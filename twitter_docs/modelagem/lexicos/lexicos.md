@@ -26,11 +26,13 @@ Símbolos também possuem uma classificação, que pode ser : estado ; verbo ; o
 
 ## Login
 <span style="margin-left: 0%;">![Login](./images/login.png)</span>
+
 **Autor** : Bruno Duarte </br>
 **Versão:** 0.1
 
 ## Interações do Usuário com Postagens
 <span style="margin-left: 0%;">![Login](./images/user_interactions.png)</span>
+
 **Autor** : Bruno Duarte </br>
 **Versão:** 0.1
 ***
