@@ -5,6 +5,8 @@ Trata-se da atividade de elaborar modelos capazes de representar característica
 ***
 # Sobre os Cenários
 Um cenário é uma estratégia reconhecida para compreender as interações entre ambiente e sistema,</br>bem como elicitar a parte comportamental do software, sua dinâmica e/ou seu fluxo.
+
+Nossa equipe optou por utilizar a ferramenta C&L, disponível [aqui](http://pes.inf.puc-rio.br/cel/aplicacao/), para projetar cenários para o Twitter.
 ***
 # Alguns cenários para o app Twitter
 ## Trending Topics
