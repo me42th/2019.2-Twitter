@@ -9,6 +9,7 @@ nav:
       - Requisitos & MoSCoW: elicitacao/requisitos.md
     - Modelagem:
       - Casos de uso: modelagem/user_cases.md
+      - Caso de uso Trending Topics: modelagem/use_cases_specifications/trending_topics.md
     - Outros artefatos:
       - 5W2H: outros_artefatos/5w2h.md
       - SWOT: outros_artefatos/swot.md
