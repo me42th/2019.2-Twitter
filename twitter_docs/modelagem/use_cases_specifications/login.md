@@ -1,5 +1,8 @@
+<span style="margin-left: 40%;">![Twitter Logo](../../images/twitter-logo-100px.png)</span>
+
 ***
 # Caso de Uso - Efetuar Login
+<span style="margin-left: 30%;">![Login Use Case](https://i.imgur.com/48PfupK.png)</span>
 
 ## Especificações
 
@@ -17,9 +20,7 @@ UC01 - Efetuar Login
 | **Fluxo(s) de exceção** | 1. O ator abre o aplicativo do twitter <br/> 2. O sistema fornece a página de login <br/>3. O ator não se recorda de suas credenciais de acesso<br/>4. O sistema oferece suporte de recuperação de credenciais <br/> 5. O sistema fornece refatoração dos daos<br/> 6. O sistema autentica o usuário e seus dados |
 ||
 
-***
 
-## Caso de uso: Efetuar Login
 **Autores:** Bruno, Eugênio </br>
 **Versão:** 0.1
 ***
@@ -29,3 +30,4 @@ UC01 - Efetuar Login
 |------|-------|-----------|--------|
 | 27/09/2019 | Bruno Henrique | Adição descrição e atores| 0.1 |
 | 27/09/2019 | Eugênio Sales | Adição de fluxos alternativos e excessão | 0.2 |
+| 27/09/2019 | Erick Giffoni | Melhorias na edição da página | 0.2.1 |
