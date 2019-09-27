@@ -1,5 +1,6 @@
 ***
 # Caso de Uso - Efetuar Login
+![Login Use Case](https://i.imgur.com/48PfupK.png)
 
 ## Especificações
 
