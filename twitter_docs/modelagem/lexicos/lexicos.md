@@ -28,15 +28,29 @@ Símbolos também possuem uma classificação, que pode ser : estado ; verbo ; o
 <span style="margin-left: 0%;">![Login](./images/login.png)</span>
 
 **Autor** : Bruno Duarte </br>
-**Versão:** 0.1
+**Versão:** 0.2
 
 ## Interações do Usuário com Postagens
 <span style="margin-left: 0%;">![Login](./images/user_interactions.png)</span>
 
 **Autor** : Bruno Duarte </br>
-**Versão:** 0.1
+**Versão:** 0.2
+
+## Notificações
+<span style="margin-left: 0%;">![Login](./images/notifications.png)</span>
+
+**Autor** : Eugênio Sales </br>
+**Versão:** 0.3
+
+## Seguidor
+<span style="margin-left: 0%;">![Login](./images/follower.png)</span>
+
+**Autor** : Eugênio Sales </br>
+**Versão:** 0.3
 ***
 ## Versionamento de edições desta página
 | Data | Autor | Descrição | Versão |
 |------|-------|-----------|--------|
 | 27/09/2019 | Erick Giffoni | Criação da página | 0.1 |
+| 27/09/2019 | Bruno Duarte | Adição de lexicos: Login e Interações de usuário com postagem | 0.2 |
+| 27/09/2019 | Eugênio Sales | Adição de Léxicos: Notificações e Seguidor | 0.3 |
