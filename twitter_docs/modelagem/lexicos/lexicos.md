@@ -5,8 +5,9 @@
 
 Trata-se de uma técnica que compõe os [cenários](../cenarios/cenarios.md) de forma a descrever os símbolos de uma linguagem. </br> Nesse caso, essa técnica descreve alguns termos relacionados ao software em questão.
 
-Cada símbolo tem um nome, uma noção e um impacto, sendo que :
-- noção : é o que significa o símbolo (denotação);
+Cada símbolo tem um nome, uma noção e um impacto, sendo que : </br>
+
+- noção : é o que significa o símbolo (denotação); </br>
 - impacto : é o efeito do símbolo na aplicação ou o efeito de algo na aplicação sobre o símbolo (conotação).
 
 Símbolos também possuem uma classificação, que pode ser : estado ; verbo ; objeto ; sujeito.
@@ -24,7 +25,7 @@ Símbolos também possuem uma classificação, que pode ser : estado ; verbo ; o
 **Autor** : Erick Giffoni </br>
 **Versão:** 0.1
 
-## Login
+## Efetuar login
 <span style="margin-left: 0%;">![Login](./images/login.png)</span>
 
 **Autor** : Bruno Duarte </br>
@@ -54,3 +55,4 @@ Símbolos também possuem uma classificação, que pode ser : estado ; verbo ; o
 | 27/09/2019 | Erick Giffoni | Criação da página | 0.1 |
 | 27/09/2019 | Bruno Duarte | Adição de lexicos: Login e Interações de usuário com postagem | 0.2 |
 | 27/09/2019 | Eugênio Sales | Adição de Léxicos: Notificações e Seguidor | 0.3 |
+| 30/09/2019 | Erick Giffoni | Edição do texto sobre léxicos e correção do título Efetuar login| 0.3.1 |
