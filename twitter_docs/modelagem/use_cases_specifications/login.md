@@ -14,8 +14,7 @@ UC01 - Efetuar Login
 |------|-------|
 | **Descrição** | Autenticar o acesso do usuário a rede social, tendo acesso a todo conteúdo relacionado a suas especificações e interações. |
 | **Ator(es)** | Usuário |
-| **Pré-Condições** | * Possuir cadastro/conta no Twitter </br> * Acesso a Internet <br/> * Aplicativo mobile ou desktop
- |
+| **Pré-Condições** | * Possuir cadastro/conta no Twitter </br> * Acesso a Internet <br/> * Aplicativo mobile ou desktop|
 | **Pós-Condições** | Acesso a homepage e funcionalidades existentes no sistema |
 | **Fluxo Princtipal** |[FP01] Este fluxo é necessário para o usuário utilizar/acessar o sistema<br/>1. O ator abre o aplicativo do twitter </br> 2. O sistema fornece a página de login </br> 3.  O ator fornece os campos de username e senha<br/> 4. O ator clica em "Entrar" <br/> 5. O sistema autentica o usuário e seus dados|
 | **Fluxo(s) Alternativos** | [FA01] Este fluxo relata o primeiro contato do usuário com a plataforma<br/>1. O ator abre o aplicativo do twitter </br> 2. O sistema fornece a página de login e sing up </br> 3. O sistema fornece parte de cadastro(sing up) <br/> 4. O ator cadastra seus dados <br/> 5. O sistema busca identificar e confirmar a identidade do futuro usuário<br/>6. O sistema autentica o usuário e seus dados |
