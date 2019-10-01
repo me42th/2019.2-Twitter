@@ -14,63 +14,75 @@ Símbolos também possuem uma classificação, que pode ser : estado ; verbo ; o
 ***
 # Alguns léxicos para o app Twitter
 ## Trending
-<span style="margin-left: 0%;">![Trending Topics](./images/trending.png)</span>
+![Trending Topics](./images/trending.png)
 
 **Autor** : Erick Giffoni </br>
 **Versão:** 0.1
 
 ## Tweet
-<span style="margin-left: 0%;">![Trending Topics](./images/tweet.png)</span>
+![Trending Topics](./images/tweet.png)
 
 **Autor** : Erick Giffoni </br>
 **Versão:** 0.1
 
 ## Efetuar login
-<span style="margin-left: 0%;">![Login](./images/login.png)</span>
+![Login](./images/login.png)
 
 **Autor** : Bruno Duarte </br>
 **Versão:** 0.
 
 ## Interações do Usuário com Postagens
-<span style="margin-left: 0%;">![Login](./images/user_interactions.png)</span>
+![Login](./images/user_interactions.png)
 
 **Autor** : Bruno Duarte </br>
 **Versão:** 0.1
 
 ## Notificações
-<span style="margin-left: 0%;">![Login](./images/notifications.png)</span>
+![Login](./images/notifications.png)
 
 **Autor** : Eugênio Sales </br>
 **Versão:** 0.1
 
 ## Seguidor
-<span style="margin-left: 0%;">![Login](./images/follower.png)</span>
+![Login](./images/follower.png)
 
 **Autor** : Eugênio Sales </br>
 **Versão:** 0.1
 
-## Direct Message 
-<span style="margin-left: 0%;">![DM](./images/dm.jpg)</span>
+## Direct Message
+![DM](./images/dm.jpg)
 
 **Autor** : Lorrany Azevedo </br>
 **Versão:** 0.1
 
-## Tweetar 
-<span style="margin-left: 0%;">![Twettar](./images/tweetar.jpg)</spanTwettar>
+## Tweetar
+![Twettar](./images/tweetar.jpg)
 
 **Autor** : Lorrany Azevedo </br>
 **Versão:** 0.1
 
-## Perfil 
-<span style="margin-left: 0%;">![Twettar](./images/perfil.png)</spanTwettar>
+## Perfil
+![Twettar](./images/perfil.png)
 
 **Autor** : Fernando Aguilar </br>
 **Versão:** 0.1
 
-## Para Voce 
-<span style="margin-left: 0%;">![Twettar](./images/para-voce.png)</spanTwettar>
+## Para Voce
+![Twettar](./images/para-voce.png)
 
 **Autor** : Fernando Aguilar </br>
+**Versão:** 0.1
+
+## Twitter
+![Twitter](./images/twitter-lexico.png)
+
+**Autor** : Aline Laureano </br>
+**Versão:** 0.1
+
+## Hashtag
+![Hashtag](./images/hashtag-lexico.png)
+
+**Autor** : Aline Laureano </br>
 **Versão:** 0.1
 
 ***
@@ -79,8 +91,8 @@ Símbolos também possuem uma classificação, que pode ser : estado ; verbo ; o
 |------|-------|-----------|--------|
 | 27/09/2019 | Erick Giffoni | Criação da página | 0.1 |
 | 27/09/2019 | Bruno Duarte | Adição de lexicos: Login e Interações de usuário com postagem | 0.2 |
-| 27/09/2019 | Eugênio Sales | Adição de Léxicos: Notificações e Seguidor | 0.1 |
-| 30/09/2019 | Erick Giffoni | Edição do texto sobre léxicos e correção do título Efetuar login| 0.3.1 |
-| 30/09/2019 | Lorrany Azevedo | Adição de léxicos: Tweetar e DM| 0.1 |
-| 30/09/2019 | Fernando Aguilar | Adição de léxicos: Perfil e Para Voce| 0.1 |
-
+| 27/09/2019 | Eugênio Sales | Adição de Léxicos: Notificações e Seguidor | 0.3 |
+| 30/09/2019 | Erick Giffoni | Edição do texto sobre léxicos e correção do título Efetuar login| 0.4 |
+| 30/09/2019 | Lorrany Azevedo | Adição de léxicos: Tweetar e DM| 0.5 |
+| 30/09/2019 | Fernando Aguilar | Adição de léxicos: Perfil e Para Voce| 0.6 |
+| 30/09/2019 | Aline Laureano | Adição de léxicos: Hashtag & Twitter | 0.7 |
