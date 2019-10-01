@@ -19,13 +19,20 @@ Nossa equipe optou por utilizar a ferramenta C&L, disponível [aqui](http://pes.
 <span style="margin-left: 0%;">![Login](./images/login.png)</span>
 
 **Autor** : Bruno Duarte </br>
-**Versão:** 0.2
+**Versão:** 0.1
 
 ## Enviar Mensagem
 <span style="margin-left: 0%;">![Enviar Mensagem](./images/enviar_mensagem.png)</span>
 
 **Autor** : Eugênio Sales </br>
-**Versão:** 0.3
+**Versão:** 0.1
+
+## Criar Tweets
+<span style="margin-left: 0%;">![Criar tweets](./images/criar_tweets.jpg)</span>
+
+**Autor** : Lorrany Azevedo </br>
+**Versão:** 0.1
+
 ***
 
 ***
@@ -33,5 +40,7 @@ Nossa equipe optou por utilizar a ferramenta C&L, disponível [aqui](http://pes.
 | Data | Autor | Descrição | Versão |
 |------|-------|-----------|--------|
 | 27/09/2019 | Erick Giffoni | Criação da página | 0.1 |
-| 27/09/2019 | Bruno Duarte | Adição de cenário: Login | 0.2 |
-| 27/09/2019 | Bruno Duarte | Adição de enviar cenário: Enviar Mensagem | 0.3 |
+| 27/09/2019 | Bruno Duarte | Adição de cenário: Login | 0.1 |
+| 27/09/2019 | Bruno Duarte | Adição de cenário: Enviar Mensagem | 0.1 |
+| 30/09/2019 | Lorrany Azevedo | Adição de cenário: Criar Tweets | 0.1 |
+
