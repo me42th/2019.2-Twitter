@@ -56,9 +56,21 @@ Símbolos também possuem uma classificação, que pode ser : estado ; verbo ; o
 **Versão:** 0.1
 
 ## Tweetar 
-<span style="margin-left: 0%;">![Twettar](./images/tweetar.jpg)</spanTwettar
+<span style="margin-left: 0%;">![Twettar](./images/tweetar.jpg)</spanTwettar>
 
 **Autor** : Lorrany Azevedo </br>
+**Versão:** 0.1
+
+## Perfil 
+<span style="margin-left: 0%;">![Twettar](./images/perfil.png)</spanTwettar>
+
+**Autor** : Fernando Aguilar </br>
+**Versão:** 0.1
+
+## Para Voce 
+<span style="margin-left: 0%;">![Twettar](./images/para-voce.png)</spanTwettar>
+
+**Autor** : Fernando Aguilar </br>
 **Versão:** 0.1
 
 ***
@@ -70,4 +82,5 @@ Símbolos também possuem uma classificação, que pode ser : estado ; verbo ; o
 | 27/09/2019 | Eugênio Sales | Adição de Léxicos: Notificações e Seguidor | 0.1 |
 | 30/09/2019 | Erick Giffoni | Edição do texto sobre léxicos e correção do título Efetuar login| 0.3.1 |
 | 30/09/2019 | Lorrany Azevedo | Adição de léxicos: Tweetar e DM| 0.1 |
+| 30/09/2019 | Fernando Aguilar | Adição de léxicos: Perfil e Para Voce| 0.1 |
 

@@ -33,6 +33,12 @@ Nossa equipe optou por utilizar a ferramenta C&L, disponível [aqui](http://pes.
 **Autor** : Lorrany Azevedo </br>
 **Versão:** 0.1
 
+## Explorar
+<span style="margin-left: 0%;">![Explorar](./images/explorar.png)</span>
+
+**Autor** : Fernando Aguilar </br>
+**Versão:** 0.1
+
 ***
 
 ***
@@ -43,4 +49,6 @@ Nossa equipe optou por utilizar a ferramenta C&L, disponível [aqui](http://pes.
 | 27/09/2019 | Bruno Duarte | Adição de cenário: Login | 0.1 |
 | 27/09/2019 | Bruno Duarte | Adição de cenário: Enviar Mensagem | 0.1 |
 | 30/09/2019 | Lorrany Azevedo | Adição de cenário: Criar Tweets | 0.1 |
+| 30/09/2019 | Fernando Aguilar | Adição de cenário: Explorar | 0.1 |
+
 
