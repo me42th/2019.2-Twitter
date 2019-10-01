@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../../../img/favicon.ico">
-        <title>Entrevistas - Twitter Requirements</title>
+        <title>Caso de uso Trending Topics - Twitter Requirements</title>
         <link href="../../../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../../../css/font-awesome.min.css" rel="stylesheet">
         <link href="../../../css/base.css" rel="stylesheet">
@@ -55,45 +55,45 @@
 </li>
                                 </ul>
                             </li>
-                            <li class="dropdown active">
+                            <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Elicitação <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     
-<li class="active">
-    <a href="./">Entrevistas</a>
+<li >
+    <a href="../../../elicitacao/entrevistas/entrevistas/">Entrevistas</a>
 </li>
                                     
 <li >
-    <a href="../../storytelling/">Storytelling</a>
+    <a href="../../../elicitacao/storytelling/">Storytelling</a>
 </li>
                                     
 <li >
-    <a href="../../requisitos/">Requisitos & MoSCoW</a>
+    <a href="../../../elicitacao/requisitos/">Requisitos & MoSCoW</a>
 </li>
                                 </ul>
                             </li>
-                            <li class="dropdown">
+                            <li class="dropdown active">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Modelagem <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     
 <li >
-    <a href="../../../modelagem/cenarios/cenarios/">Cenários</a>
+    <a href="../../cenarios/cenarios/">Cenários</a>
 </li>
                                     
 <li >
-    <a href="../../../modelagem/lexicos/lexicos/">Léxicos</a>
+    <a href="../../lexicos/lexicos/">Léxicos</a>
 </li>
                                     
 <li >
-    <a href="../../../modelagem/user_cases/">Caso de uso Geral</a>
+    <a href="../../user_cases/">Caso de uso Geral</a>
+</li>
+                                    
+<li class="active">
+    <a href="./">Caso de uso Trending Topics</a>
 </li>
                                     
 <li >
-    <a href="../../../modelagem/use_cases_specifications/trending_topics/">Caso de uso Trending Topics</a>
-</li>
-                                    
-<li >
-    <a href="../../../modelagem/use_cases_specifications/login/">Caso de uso Login</a>
+    <a href="../login/">Caso de uso Login</a>
 </li>
                                 </ul>
                             </li>
@@ -119,17 +119,17 @@
                             </a>
                         </li>
                             <li >
-                                <a rel="next" href="../../../pre-rastreabilidade/richpicture/">
+                                <a rel="next" href="../../user_cases/">
                                     <i class="fa fa-arrow-left"></i> Previous
                                 </a>
                             </li>
                             <li >
-                                <a rel="prev" href="../../storytelling/">
+                                <a rel="prev" href="../login/">
                                     Next <i class="fa fa-arrow-right"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://github.com/Requisitos2-2019/Twitter/edit/master/docs/elicitacao/entrevistas/entrevistas.md"><i class="fa fa-github"></i> Edit on GitHub</a>
+                                <a href="https://github.com/Requisitos2-2019/Twitter/edit/master/docs/modelagem/use_cases_specifications/trending_topics.md"><i class="fa fa-github"></i> Edit on GitHub</a>
                             </li>
                     </ul>
                 </div>
@@ -139,9 +139,12 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#o-metodo-das-entrevistas">O método das Entrevistas</a></li>
-            <li><a href="#algumas-entrevistas">Algumas entrevistas</a></li>
-            <li><a href="#respostas">Respostas</a></li>
+        <li class="main active"><a href="#caso-de-uso-trending-topics">Caso de Uso - Trending Topics</a></li>
+        <li class="main "><a href="#especificacoes">Especificações</a></li>
+            <li><a href="#uc021-clicar-em-um-assunto">UC021 - Clicar em um Assunto</a></li>
+            <li><a href="#uc22-mudar-localizacao">UC22 - Mudar Localização</a></li>
+            <li><a href="#uc23-reportar">UC23 - Reportar</a></li>
+            <li><a href="#uc24-atualizar">UC24 - Atualizar</a></li>
             <li><a href="#versionamento-de-edicoes-desta-pagina">Versionamento de edições desta página</a></li>
     </ul>
 </div></div>
@@ -149,111 +152,170 @@
 
 <p><span style="margin-left: 40%;"><img alt="Twitter Logo" src="../../../images/twitter-logo-100px.png" /></span></p>
 <hr />
-<h1 id="o-metodo-das-entrevistas">O método das Entrevistas</h1>
-<p>A elicitação de requisitos tem diversas técnicas, e a entrevista é uma delas. Isso consiste em
-dialogar com um usuário sobre o sistema/software com a finalidade de, a partir das respostas
-dele, levantar os requisitos necessários para o produto/serviço de software.</p>
-<p>Cada integrante da nossa equipe de engenharia de requisitos entrevistou pelo menos um usuário. A partir disso, cada integrante redigiu um documento mostrando as perguntas feitas e as respostas dos usuários.</p>
-<p>Logo após isso, montamos uma planilha e, em conjunto, enumeramos e discutimos todos os requisitos levantados, passando por um processo de introspecção.</p>
-<p>Para ver os requisitos elicitados, visite a página <a href="../../requisitos/">Requisitos</a></p>
+<h1 id="caso-de-uso-trending-topics">Caso de Uso - Trending Topics</h1>
+<p><span style="margin-left: 30%;"><img alt="Trending Topics Use Case" src="../../images/TrendingTopics.png" /></span></p>
+<p><strong>Autores:</strong> Erick, Fernando </br>
+<strong>Versão:</strong> 0.1</p>
 <hr />
-<h2 id="algumas-entrevistas">Algumas entrevistas</h2>
-<h3 id="perguntas-base-utilizadas">Perguntas base utilizadas:</h3>
-<ol>
-<li><strong>Qual funcionalidade do Twitter você mais gosta? E qual você mais utiliza? Qual você menos gosta? Qual você menos utiliza?</strong></li>
-<li><strong>Você precisa de mais ou de menos tempo para fazer alguma ação no aplicativo? Se sim, de quanto?</strong></li>
-<li><strong>Você já teve seus dados vazados de alguma forma a partir do Twitter? Se não , conhece alguma história sobre isso?</strong></li>
-<li><strong>Você utiliza alguma outra rede social?</strong></li>
-<li><strong>Que tipo de conteúdo você consome exclusivamente no Twitter?</strong></li>
-<li><strong>Qual o diferencial do Twitter em relação as outras redes Sociais, na sua opinião?</strong></li>
-<li><strong>Você costuma interagir com os anúncios que aparecem pra você?</strong></li>
-<li><strong>Você já realizaou alguma compra a partir de um anúncio do Twitter?</strong></li>
-</ol>
-<h2 id="respostas">Respostas</h2>
-<h3 id="amanda-carvalho-21-anos">Amanda Carvalho - 21 anos</h3>
-<h6 id="entrevistadora-aline">Entrevistadora : Aline</h6>
-<ol>
-<li>A funcionalidade que eu mais gosto é a do retweet. O que eu mais utilizo são as funcionalidades de dar like e de dar retweet. A funcionalidade que eu menos gosto e utilizo é a de Direct Message.</li>
-<li>Gasto pouco tempo para fazer o que eu quiser no Twitter. A ação mais demorada que faço é a de escrever um tweet e ainda assim, levo no máximo 5 minutos para criar um novo tweet.</li>
-<li>Não e eu também não conheço nenhuma história sobre isso.</li>
-<li>Sim, eu utilizo o Facebook, Instagram e o Medium.</li>
-<li>As opiniões dos políticos e dos meus artistas preferidos do mundo todo.</li>
-<li>Como os tweets são curtos, é a rapidez de criar tweets, de ler eles e de buscar informações.</li>
-<li>Sim.</li>
-<li>Não.</li>
-</ol>
-<h3 id="harissane-luana-17-anos">Harissane Luana - 17 anos</h3>
-<h6 id="entrevistador-bruno">Entrevistador : Bruno</h6>
-<ol>
-<li>Eu gosto das enquetes, utilizo mais o "fav", não tem uma funcionalidade que eu goste menos e utilizo menos o silenciador de palavras/pessoas</li>
-<li>Não.</li>
-<li>Não e não conheço nenhuma história sobre.</li>
-<li>Não.</li>
-<li>Conteúdo de entretenimento esportivo (futebol, principalmente), político ou social (nada especificamente).</li>
-<li>Ser mais prático, simples e bem mais informativo .</li>
-<li>Não, nem os promovidos.</li>
-<li>Não.</li>
-</ol>
-<h3 id="maria-eduarda-15-anos">Maria Eduarda - 15 anos</h3>
-<h6 id="entrevistador-erick">Entrevistador : Erick</h6>
-<ol>
-<li>O Twitter serve pra eu poder me distrair, ver memes muito engraçados e saber de várias notícias, além de poder desabafar lá. Eu vejo mais memes. Não há nada que eu não goste nem que menos utilize.</li>
-<li>Menos. Cerca de segundos.</li>
-<li>Não, apenas se forem os que eu postei e não são de demasiada importância. Não.</li>
-<li>Sim.</li>
-<li>Nenhum é exclusivo.</li>
-<li>A proximidade  das pessoas em falarem o que estão pensando no mesmo momento, é uma plataforma livre.</li>
-<li>Não.</li>
-<li>Não.</li>
-</ol>
-<h3 id="mateus-oliverira-23-anos">Mateus Oliverira - 23 anos</h3>
-<h6 id="entrevistador-eugenio">Entrevistador : Eugênio</h6>
-<ol>
-<li>Mais gosto: Twittar, mais utilizo: Twittar, menos gosto: Explorar, menos utilizo: Explorar.</li>
-<li>Menos de 1 minuto.</li>
-<li>Não, não conheço.</li>
-<li>Sim, facebook e instagram.</li>
-<li>Não costumo postar em outras redes sociais, utilizo o twitter também para notícias rápidas, como de esportes etc.</li>
-<li>Ele é voltado para postagens curtas, rápidas, semelhantes a um diário. Torna mais conveniente de twittar algo pois é a finalidade do aplicativo, e todos os outros estão fazendo o mesmo, ao contrário do facebook, por exemplo, que normalmente os textos são acompanhados de fotos etc.</li>
-<li>Não.</li>
-<li>Não.</li>
-</ol>
-<h3 id="yago-24-anos">Yago - 24 anos</h3>
-<h6 id="entrevistador-fernando">Entrevistador : Fernando</h6>
-<ol>
-<li>Retweet, o que menos utilizo é o like. O que eu menos gosto também é o like.</li>
-<li>Acho que está tranquilo o tempo que já tem.</li>
-<li>Não.</li>
-<li>Sim, Instagram e Facebook.</li>
-<li>Informações diárias dos meus amigos pessoais.</li>
-<li>É mais rápido, o conteúdo chega mais rápido.</li>
-<li>Não.</li>
-<li>Não.</li>
-</ol>
-<h3 id="luana-19-anos">Luana - 19 anos</h3>
-<h6 id="entrevistador-fernando_1">Entrevistador : Fernando</h6>
-<ol>
-<li>Uma das que eu mais gosto é a seleção e sugestão de tweets depois de um certo tempo fora da plataforma. A que eu menos utilizo é hashtags e trending topics. Mas principalmente hashtags.</li>
-<li>Não, acho que no twitter é tudo bem rápido. Uma das coisas boas é que as informações correm muito rápido, e como os tweets são curtos você também absorve informação muito rápido.</li>
-<li>Não.</li>
-<li>Sim, Instagram por que acho que é uma rede melhor para mídia visual.</li>
-<li>Para texto e consumir notícias e besteiras, como memes e etc.</li>
-<li>As pessoas que utilizam o Twitter. É um nicho diferente. É um nicho no qual eu me enxergo. E também a rapidez, como são coisas curtinhas me identifico nisso.</li>
-<li>Não.</li>
-<li>Não.</li>
-</ol>
-<h3 id="marlon-mendes-24-anos">Marlon Mendes - 24 anos</h3>
-<h6 id="entrevistadora-lorrany">Entrevistadora : Lorrany</h6>
-<ol>
-<li>A de explorar novas notícias e novidades, não cobrir conteúdos explícitos que algumas pessoas possam ser sensíveis, encontrar novos amigos.</li>
-<li>15 minutos.</li>
-<li>Nunca tive e nunca ouvi falar.</li>
-<li>Sim, o Reddit.</li>
-<li>Nenhum.</li>
-<li>Não.</li>
-<li>Não.</li>
-<li>Que o site tenha uma funcionalidade que sugira notícias e conteúdos novos. Que o site tenha cuidado ao exibir conteúdos violentos ou que possam ser ofensivos para algumas pessoas.</li>
-</ol>
+<h1 id="especificacoes">Especificações</h1>
+<h2 id="uc021-clicar-em-um-assunto">UC021 - Clicar em um Assunto</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>O usuário é capaz de abrir um tópico em destaque</td>
+</tr>
+<tr>
+<td><strong>Ator(es)</strong></td>
+<td>Usuário</td>
+</tr>
+<tr>
+<td><strong>Pré-Condições</strong></td>
+<td>* Deve haver tópicos </br> * O tópico deve estar entre os mais populares na localização</td>
+</tr>
+<tr>
+<td><strong>Pós-Condições</strong></td>
+<td>O sistema abrirá a página com <a href="https://requisitos-de-software.github.io/2019.2-Twitter/modelagem/lexicos/lexicos/#tweet">tweets</a> relacionados ao tópico</td>
+</tr>
+<tr>
+<td><strong>Fluxo Principal</strong></td>
+<td>[FP21] Este fluxo se inicia quando o usuário escolhe um dos tópicos </br> 1. Ele abre o aplicativo do twitter </br> 2. Ele clica na aba buscar </br> 3. Ele seleciona <a href="https://requisitos-de-software.github.io/2019.2-Twitter/modelagem/lexicos/lexicos/#trending">trending</a> <br> 4. Ele clica no tópico</td>
+</tr>
+<tr>
+<td><strong>Fluxo(s) Alternativos</strong></td>
+<td>* [FA21-A] O usuário não clica em nenhum tópico </br> * [FA21-B] O usuário <a href="#uc23-reportar">reporta</a> o tópico</td>
+</tr>
+<tr>
+<td><strong>Fluxo(s) de exceção</strong></td>
+<td>[FE21] O sistema apresenta uma mensagem de erros e <a href="#uc24-atualizar">atualiza</a> a página</td>
+</tr>
+</tbody>
+</table>
+<h2 id="uc22-mudar-localizacao">UC22 - Mudar Localização</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário pode mudar a localização dele no aplicativo para conseguir visualizar <a href="https://requisitos-de-software.github.io/2019.2-Twitter/modelagem/use_cases_specifications/trending_topics/#caso-de-uso-trending-topics">trending topics</a> relevantes </br>daquela região</td>
+</tr>
+<tr>
+<td>Ator(es)</td>
+<td>Usuário</td>
+</tr>
+<tr>
+<td>Pré-Condições</td>
+<td>* Sistema está funcionando</td>
+</tr>
+<tr>
+<td>Pós-Condições</td>
+<td>* O app volta para a tela anterior </br> * O usuário clica em "done"</td>
+</tr>
+<tr>
+<td>Fluxo Principal</td>
+<td>[FP22] Esse fluxo se inicia quando o usuário, a partir da tela "trending", clica no ícone de engrenagem no </br>canto superior direito e seleciona a opção de mudar localização. A partir daí ele escolhe o novo local e depois </br>conclui a tarefa clicando no ícone de concluído</td>
+</tr>
+<tr>
+<td>Fluxo(s) Alternativos</td>
+<td>* [FA22-A] O usuário seleciona o ícone da engrenagem, mas em seguida clica em voltar </br> * [FA22-B] O usuário seleciona a engrenagem, depois clica em mudar localização mas não muda efetivamente, </br>e volta para a aba anterior</td>
+</tr>
+<tr>
+<td>Fluxo(s) de exceção</td>
+<td>FE22] O sistema apresenta uma mensagem de erros e <a href="#uc24-atualizar">atualiza</a> a página</td>
+</tr>
+</tbody>
+</table>
+<h2 id="uc23-reportar">UC23 - Reportar</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário pode reportar um <a href="https://requisitos-de-software.github.io/2019.2-Twitter/modelagem/lexicos/lexicos/#trending">trend</a>(assunto) de forma a classificá-lo como spam, abusivo, réplica ,não relevante </br> ou baixa qualidade</td>
+</tr>
+<tr>
+<td>Ator(es)</td>
+<td>Usuário</td>
+</tr>
+<tr>
+<td>Pré-Condições</td>
+<td>* Existir um tweet </br> * Sistema deve estar no ar</td>
+</tr>
+<tr>
+<td>Pós-Condições</td>
+<td>* O tweet será investigado pelo Twitter </br> * Usuário continua a navegar </br> * Usuário pode bloquear o autor do tweet</td>
+</tr>
+<tr>
+<td>Fluxo Principal</td>
+<td>[FP23] Esse fluxo se inicia quando o usuário seleciona a opção de reportar um assunto, a partir da tela "trending", </br>então escolhe a categoria a qual quer reportar</td>
+</tr>
+<tr>
+<td>Fluxo(s) Alternativos</td>
+<td>[FA23] O usuário seleciona a opção de reportar mas, logo em seguida, volta à tela anterior</td>
+</tr>
+<tr>
+<td>Fluxo(s) de exceção</td>
+<td>[FE23] O sistema apresenta uma mensagem de erros e <a href="#uc24-atualizar">atualiza</a> a página</td>
+</tr>
+</tbody>
+</table>
+<h2 id="uc24-atualizar">UC24 - Atualizar</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário pode deslizar a tela para baixo e, dessa forma, forçar a atualização da tela "trending"</td>
+</tr>
+<tr>
+<td>Ator(es)</td>
+<td>Usuário</td>
+</tr>
+<tr>
+<td>Pré-Condições</td>
+<td>* App está funcionando</td>
+</tr>
+<tr>
+<td>Pós-Condições</td>
+<td>* A tela está atualizada </br>* Usuário continua a navegação</td>
+</tr>
+<tr>
+<td>Fluxo Principal</td>
+<td>[FP24] O usuário desliza a tela para baixo e a tela é atualizada</td>
+</tr>
+<tr>
+<td>Fluxo(s) Alternativos</td>
+<td>[FA24] O usuário não atualiza a tela porque o sistema faz isso automaticamente</td>
+</tr>
+<tr>
+<td>Fluxo(s) de exceção</td>
+<td>[FE24] O sistema apresenta uma mensagem de erros e <a href="#uc24-atualizar">atualiza</a> a página</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Autores:</strong> Erick, Fernando </br>
+<strong>Versão:</strong> 0.1</p>
 <hr />
 <h2 id="versionamento-de-edicoes-desta-pagina">Versionamento de edições desta página</h2>
 <table>
@@ -267,28 +329,22 @@ dele, levantar os requisitos necessários para o produto/serviço de software.</
 </thead>
 <tbody>
 <tr>
-<td>11/09/2019</td>
-<td>Erick Giffoni</td>
-<td>Criação e edição inicial da página.</td>
+<td>26/09/2019</td>
+<td>Fernando Aguilar</td>
+<td>Criação da página</td>
 <td>0.1</td>
 </tr>
 <tr>
-<td>11/09/2019</td>
+<td>27/09/2019</td>
 <td>Erick Giffoni</td>
-<td>Adição inicial de uma entrevista.</td>
+<td>- Melhorias na página </br> - Adição de mais especificações</td>
 <td>0.2</td>
 </tr>
 <tr>
-<td>11/09/2019</td>
-<td>Aline Laureano</td>
-<td>Adição de mais entrevistas.</td>
+<td>27/09/2019</td>
+<td>Erick Giffoni e Fernando Aguilar</td>
+<td>Adição de mais especificações</td>
 <td>0.3</td>
-</tr>
-<tr>
-<td>13/09/2019</td>
-<td>Erick Giffoni</td>
-<td>Correção dos títulos das entrevistas e revisão ortográfica</td>
-<td>0.4</td>
 </tr>
 </tbody>
 </table></div>
