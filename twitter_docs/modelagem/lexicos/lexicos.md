@@ -13,77 +13,86 @@ Cada símbolo tem um nome, uma noção e um impacto, sendo que : </br>
 Símbolos também possuem uma classificação, que pode ser : estado ; verbo ; objeto ; sujeito.
 ***
 # Alguns léxicos para o app Twitter
+
 ## Trending
+
+**Autor** : Erick Giffoni </br>
+**Versão:** 0.1 </br>
+
 ![Trending Topics](./images/trending.png)
 
-**Autor** : Erick Giffoni </br>
-**Versão:** 0.1
 
 ## Tweet
-![Trending Topics](./images/tweet.png)
-
 **Autor** : Erick Giffoni </br>
-**Versão:** 0.1
+**Versão:** 0.1 </br>
+
+![Tweet](./images/tweet.png)
+
 
 ## Efetuar login
+**Autor** : Bruno Duarte </br>
+**Versão:** 0.1 </br>
+
 ![Login](./images/login.png)
 
-**Autor** : Bruno Duarte </br>
-**Versão:** 0.
 
-## Interações do Usuário com Postagens
-![Login](./images/user_interactions.png)
-
+## Interações com Postagens
 **Autor** : Bruno Duarte </br>
-**Versão:** 0.1
+**Versão:** 0.1 </br>
+
+![Postagens](./images/user_interactions.png)
+
 
 ## Notificações
-![Login](./images/notifications.png)
-
 **Autor** : Eugênio Sales </br>
-**Versão:** 0.1
+**Versão:** 0.1 </br>
+
+![Notificações](./images/notifications.png)
+ |
 
 ## Seguidor
+**Autor** : Eugênio Sales </br>
+**Versão:** 0.1 </br>
+
 ![Login](./images/follower.png)
 
-**Autor** : Eugênio Sales </br>
-**Versão:** 0.1
-
 ## Direct Message
-![DM](./images/dm.jpg)
-
 **Autor** : Lorrany Azevedo </br>
-**Versão:** 0.1
+**Versão:** 0.1 </br>
+
+![DM](images/dm_lexico.png)
 
 ## Tweetar
+**Autor** : Lorrany Azevedo </br>
+**Versão:** 0.1 </br>
+
 ![Twettar](./images/tweetar.jpg)
 
-**Autor** : Lorrany Azevedo </br>
-**Versão:** 0.1
 
 ## Perfil
+**Autor** : Fernando Aguilar </br>
+**Versão:** 0.1 </br>
+
 ![Twettar](./images/perfil.png)
 
-**Autor** : Fernando Aguilar </br>
-**Versão:** 0.1
-
 ## Para Voce
+**Autor** : Fernando Aguilar </br>
+**Versão:** 0.1 </br>
+
 ![Twettar](./images/para-voce.png)
 
-**Autor** : Fernando Aguilar </br>
-**Versão:** 0.1
-
 ## Twitter
+**Autor** : Aline Laureano </br>
+**Versão:** 0.1 </br>
+
 ![Twitter](./images/twitter-lexico.png)
 
-**Autor** : Aline Laureano </br>
-**Versão:** 0.1
 
 ## Hashtag
-![Hashtag](./images/hashtag-lexico.png)
-
 **Autor** : Aline Laureano </br>
-**Versão:** 0.1
+**Versão:** 0.1 </br>
+
+![Hashtag](./images/hashtag-lexico.png)
 
 ***
 ## Versionamento de edições desta página

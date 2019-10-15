@@ -10,40 +10,40 @@ Nossa equipe optou por utilizar a ferramenta C&L, disponível [aqui](http://pes.
 ***
 # Alguns cenários para o app Twitter
 ### Trending Topics
+**Autor** : Erick Giffoni </br>
+**Versão:** 0.1  </br>
+
 <span style="margin-left: 0%;">![Trending Topics](./images/trending_topics.png)</span>
 
-**Autor** : Erick Giffoni </br>
-**Versão:** 0.1
-
 ### Login
+**Autor** : Bruno Duarte </br>
+**Versão:** 0.1  </br>
+
 <span style="margin-left: 0%;">![Login](./images/login.png)</span>
 
-**Autor** : Bruno Duarte </br>
-**Versão:** 0.1
-
 ### Enviar Mensagem
+**Autor** : Eugênio Sales </br>
+**Versão:** 0.1  </br>
+
 <span style="margin-left: 0%;">![Enviar Mensagem](./images/enviar_mensagem.png)</span>
 
-**Autor** : Eugênio Sales </br>
-**Versão:** 0.1
-
 ### Criar Tweets
+**Autor** : Lorrany Azevedo </br>
+**Versão:** 0.1  </br>
+
 <span style="margin-left: 0%;">![Criar tweets](./images/criar_tweets.jpg)</span>
 
-**Autor** : Lorrany Azevedo </br>
-**Versão:** 0.1
-
 ### Explorar
+**Autor** : Fernando Aguilar </br>
+**Versão:** 0.1  </br>
+
 <span style="margin-left: 0%;">![Explorar](./images/explorar.png)</span>
 
-**Autor** : Fernando Aguilar </br>
-**Versão:** 0.1
-
 ### Comentar Tweets
-<span style="margin-left: 0%;">![Comentar Tweets](./images/ComentarTweets-cenario.png)</span>
-
 **Autor** : Aline Laureano </br>
-**Versão:** 0.1
+**Versão:** 0.1  </br>
+
+<span style="margin-left: 0%;">![Comentar Tweets](./images/ComentarTweets-cenario.png)</span>
 
 ***
 
@@ -57,3 +57,4 @@ Nossa equipe optou por utilizar a ferramenta C&L, disponível [aqui](http://pes.
 | 30/09/2019 | Lorrany Azevedo | Adição de cenário: Criar Tweets | 0.4 |
 | 30/09/2019 | Fernando Aguilar | Adição de cenário: Explorar | 0.5 |
 | 30/09/2019 | Aline Laureano | Adição de cenário: Comentar Tweets | 0.6 |
+| 11/10/2019 | Aline Laureano | Formatação do layout da página. | 0.7 |
