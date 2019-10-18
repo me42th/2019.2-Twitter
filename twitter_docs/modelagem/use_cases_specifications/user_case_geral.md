@@ -1,17 +1,26 @@
-<span style="margin-left: 40%;">![Twitter Logo](../images/twitter-logo-100px.png)</span>
+<span style="margin-left: 40%;">![Twitter Logo](../../images/twitter-logo-100px.png)</span>
 
 ***
 #Caso de Uso: Sistema Geral
 
 ***
 ##Diagrama
-**Autore(s):** Todos os integrantes. </br>
-**Versão:** 0.1
 
-![Caso de uso: Sistema geral](images/UC-SistemaGeral.jpg)
+***
+**Autore(s):** Lorrany Azevedo e Aline Laureano. </br>
+**Versão:** *0.2 (última versão)*
+
+![Caso de uso: Sistema geral](../images/UC-SistemaGeral-v2.jpg)
+
+***
+**Autore(s):** Lorrany Azevedo e Aline Laureano. </br>
+**Versão:** *0.1*
+
+![Caso de uso: Sistema geral](../images/UC-SistemaGeral.jpg)
 
 ***
 ##Especificações
+***
 
 ### UC01 - Efetuar Login
 
@@ -323,5 +332,7 @@
 |
 | 27/09/2019 | Lorrany Azevedo |Especificação dos requisitos UC11 até o UC20 | 0.2 |
 | 30/09/2019 | Aline Laureano |Especificação dos requisitos UC01 até o UC10 & adição dos autores e das versões das especificações. | 0.3 |
+| 18/10/2019 | Aline Laureano | Adição da versão 0.2 do diagrama de Caso de uso SISTEMA GERAL.  | 0.4 |
+
 
 ***

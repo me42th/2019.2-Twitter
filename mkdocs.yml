@@ -12,9 +12,9 @@ nav:
       - Cenários 0.1: modelagem/cenarios/cenarios.md
       - Léxicos 1.0: modelagem/lexicos/lexicos-1_0.md
       - Léxicos 0.1: modelagem/lexicos/lexicos.md
-      - Caso de uso Geral: modelagem/user_cases.md
-      - Caso de uso Trending Topics: modelagem/use_cases_specifications/trending_topics.md
-      - Caso de uso Login: modelagem/use_cases_specifications/login.md
+      - Caso de uso - Geral: modelagem/use_cases_specifications/user_case_geral.md
+      - Caso de uso - Trending Topics: modelagem/use_cases_specifications/trending_topics.md
+      - Caso de uso - Login: modelagem/use_cases_specifications/login.md
     - Outros artefatos:
       - 5W2H: outros_artefatos/5w2h.md
       - SWOT: outros_artefatos/swot.md
