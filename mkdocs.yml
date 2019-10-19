@@ -16,6 +16,7 @@ nav:
       - Caso de uso - Trending Topics: modelagem/use_cases_specifications/trending_topics.md
       - Caso de uso - Login: modelagem/use_cases_specifications/login.md
     - Outros artefatos:
+      - PDCA: outros_artefatos/PDCA.md
       - 5W2H: outros_artefatos/5w2h.md
       - SWOT: outros_artefatos/swot.md
 
