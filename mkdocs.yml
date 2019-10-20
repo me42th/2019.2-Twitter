@@ -12,6 +12,7 @@ nav:
       - Cenários 0.1: modelagem/cenarios/cenarios.md
       - Léxicos 1.0: modelagem/lexicos/lexicos-1_0.md
       - Léxicos 0.1: modelagem/lexicos/lexicos.md
+      - NFR Segurança: modelagem/NFR/nfr-seguranca.md
       - Caso de uso - Geral: modelagem/use_cases_specifications/user_case_geral.md
       - Caso de uso - Trending Topics: modelagem/use_cases_specifications/trending_topics.md
       - Caso de uso - Login: modelagem/use_cases_specifications/login.md
