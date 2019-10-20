@@ -43,7 +43,7 @@
 | R027 |	O usuário deve ser capaz de visualizar todos os tweets postados de outros usuários. |	Entrevista da Aline |	MUST |	F |
 | R028 |	O usuário deve ser capaz de criar um tweet com no máximo 280 caracteres. |	Entrevista da Aline, Entrevista 01 Eugênio |	MUST |	F |
 | R029 |	O usuário deve ser capaz de enviar mensagens diretas (Direct Message) para outros usuários. |	Entrevista da Aline |	SHOULD |	F |
-| R030 |	O usuário deve ser capaz de criar uma conta no Twitter. |	Entrevista da Aline |	MUST |	F |
+| <span id="R030"></span>R030 |	O usuário deve ser capaz de criar uma conta no Twitter. |	Entrevista da Aline |	MUST |	F |
 | R031 |	O usuário deve possuir um nome de usuário único iniciado pelo caractere “@”. |	Entrevista da Aline |	MUST |	F |
 | R032 |	O usuário deve ser capaz de inserir imagens, gifs e/ou vídeos durante a criação de um tweet. |	Entrevista da Aline |	SHOULD |	F |
 | R033 |	O usuário deve ser capaz de denunciar posts que contém conteudos imprórios e/ou prejudiciais. |	Entrevista do Bruno |	SHOULD |	F |

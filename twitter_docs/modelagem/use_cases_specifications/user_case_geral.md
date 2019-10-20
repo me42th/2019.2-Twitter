@@ -37,6 +37,7 @@
 | **Fluxo(s) Alternativos** |[FA01] No passo 3 do [FP01], caso o usuário esqueça a sua senha ele deve:</br>1. Clicar no link “Esqueceu sua senha?”;</br>2. Digitar o e-mail cadastrado na sua conta do Twitter;</br>3. Clicar em Buscar;</br>4. Escolher se o link de redefinição de senha será enviado para o seu celular ou para o seu e-mail;</br>5. Acessar o link de redefinição de senha;</br>6. Digitar a nova senha de acesso à sua conta no Twitter;</br>7. Digitar novamente a nova senha;</br>8. Clicar no botão “Confirmar”;</br>9. O usuário é redirecionado para a página inicial da aplicação com o login efetuado com a sua nova senha.|
 | **Fluxo(s) de exceção** | [FE01] Falha de conexão com a internet:</br>No passo 2 do [FP01] ocorre uma falha de conexão com a Internet. |
 
+<span id="UC02"></span>
 ### UC02 - Efetuar Cadastro
 
 **Autore(s):** Aline Laureano. </br>
@@ -307,6 +308,7 @@
 | **Fluxo(s) Alternativos** | [FA19]  </br> O usuário pode escolher o que modificar </br> O usuário pode escolher editar sua foto de perfil, localização, data de nascimento, biográfia e nome.|
 | **Fluxo(s) de exceção** | [FE19] O usuário pode não fazer nenhuma alteração em seu perfil apenas clicando em "salvar"|
 
+<span id="UC20"></span>
 ### UC20 - Acessar central de ajuda
 
 **Autore(s):** Lorrany Azevedo. </br>
