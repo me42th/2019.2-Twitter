@@ -24,13 +24,13 @@
 | R008 |	O usuário deve ser capaz de curtir um tweet, mostrando que tem interesse naquele conteúdo. |	Entrevista 02 do Fernando, Entrevista da Aline |	MUST |	F |
 | R009 |	Permitir que o usuário saia da aplicação a partir de um anúncio. |	Entrevista do Erick |	WOULD |	F |
 | R010 |	O sistema deve ser capaz de indentificar e sugerir conteúdo das pessoas que você mais interage na plataforma, ou seja, amigos mais próximos. |	Entrevista 02 do Fernando |	SHOULD |	F |
-| R011 |	Que o site tenha uma funcionalidade que sugira notícias e conteúdos novos. | 	Entrevista 01 Lorrany |	SHOULD |	F |
-| R012 |	Que o site tenha cuidado ao exibir conteúdos violentos ou que possam ser ofensivos para algumas pessoas. |	Entrevista 01 Lorrany |	MUST |	F |
-| R013 |	Que o site seja mais atrativo que os concorrentes. |	Entrevista 01 Lorrany |	WOULD |	NF |
+| R011 |	Que o app tenha uma funcionalidade que sugira notícias e conteúdos novos. | 	Entrevista 01 Lorrany |	SHOULD |	F |
+| R012 |	Que o app tenha cuidado ao exibir conteúdos violentos ou que possam ser ofensivos para algumas pessoas. |	Entrevista 01 Lorrany |	MUST |	F |
+| R013 |	Que o app seja mais atrativo que os concorrentes. |	Entrevista 01 Lorrany |	WOULD |	NF |
 | R014 |	Pensar em uma forma inteligente de lucro. |	Entrevista 01 Lorrany |	COULD |	F |
 | R015 |	Diminuir ads. |	Entrevista 01 Lorrany |	WOULD |	NF |
 | R016 |	O sistema deve realizar sugestões de conteúdo para o usuário após um certo período ausente da plataforma. |	Entrevista 03 do Fernando |	SHOULD |	F |
-| R017 |	O site deve possuir um sistema de hashtags com agrupamento de tópicos de acordo com uma marca (#) antecipando a palavra. |	Entrevista 03 do Fernando |	MUST |	F |
+| R017 |	O app deve possuir um sistema de hashtags com agrupamento de tópicos de acordo com uma marca (#) antecipando a palavra. |	Entrevista 03 do Fernando |	MUST |	F |
 | R018 |	O sistema deve mostrar para o usuário quais são os assuntos que estão em alta popularidade no momento - Trending Topics. |	Entrevista 03 do Fernando, Entrevista 01 Eugênio |	COULD |	F |
 | R019 |	O sistema deve manter uma velocidade de atualização do feed mais rápida do que o normal da internet. |	Entrevista 03 do Fernando |	SHOULD |	NF |
 | R020 |	O usuário deve ser capaz de silenciar perfis indesejados. |	Entrevista 01 Bruno |	MUST |	F |
