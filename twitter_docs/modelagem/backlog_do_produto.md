@@ -25,10 +25,10 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 |------|----|---------|--------|--------------------|----------------------------------|---------|
 |Cadastro | <a href="#US01">**[US01]**</a> | Visitante |	Realizar cadastro | 	Me tornar um usuário do Twitter. | <a href="#US01">**Link para a [US01]**</a> | <a href="../use_cases_specifications/user_case_geral/#UC02">**UC02;**</a> <a href="../use_cases_specifications/login/">**Caso de uso - Login;**</a> <a href="../../elicitacao/requisitos/#R030">**R030;**</a> |
 |Central de ajuda| <a href="#US02">**[US02]**</a> | Usuário |	Acessar a central de ajuda | 	Sanar dúvidas sobre o funcionamento e a utilização do Twitter. | <a href="#US02">**Link para a [US02]**</a> | <a href="../use_cases_specifications/user_case_geral/#UC20">**UC20;**</a> <a href="../../elicitacao/storytelling/#storytelling01">**Storytelling 01;**</a> |
-| Gerenciar perfil | <a href="#US03">**[US03]**</a> | Usuário |  |  | <a href="#US03">**Link para a [US03]**</a> |  |
-| Gerenciar perfil | <a href="#US04">**[US04]**</a> | Usuário |  |  | <a href="#US04">**Link para a [US04]**</a> |  |
-| Gerenciar perfil | <a href="#US05">**[US05]**</a> | Usuário |  |  | <a href="#US05">**Link para a [US05]**</a> |  |
-| Gerenciar perfil | <a href="#US06">**[US06]**</a> | Usuário |  |  | <a href="#US06">**Link para a [US06]**</a> |  |
+| Gerenciar perfil | <a href="#US03">**[US03]**</a> | Usuário | poder trocar minha foto de perfil | passar uma imagem sobre mim da maneira que eu preferir | <a href="#US03">**Link para a [US03]**</a> | <a href="../../elicitacao/requisitos/#R030">**R002**</a> |
+| Gerenciar perfil | <a href="#US04">**[US04]**</a> | Usuário | poder escolher outro nome de usuário (@) | para que eu tenha uma identificação única no Twitter | <a href="#US04">**Link para a [US04]**</a> | <a href="../../elicitacao/requisitos/#R031">**R031**</a> |
+| Gerenciar perfil | <a href="#US05">**[US05]**</a> | Usuário | ter uma descrição de perfil e que esta seja editável | para que eu possa dizer aos outros usuários o que eu desejo que saibam sobre mim em poucas palavras | <a href="#US05">**Link para a [US05]**</a> | <a href="../../elicitacao/requisitos/#R002">**R002**</a> |
+| Gerenciar perfil | <a href="#US06">**[US06]**</a> | Usuário | ter controle sobre quais usuários podem visualizar minhas informações (dados do perfil, tweets etc) | me sentir seguro em relação à confidencialidade dos meus dados | <a href="#US06">**Link para a [US06]**</a> | <a href="../../elicitacao/requisitos/#R020">**R020**</a> ; <a href="../../elicitacao/requisitos/#R005">**R005**</a> |
 
 ***
 
@@ -59,40 +59,55 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 - Caso exista(m) resultado(s), a barra de pesquisa retorna resultado(s) da Central de ajuda de acordo com a pesquisa feita pelo usuário.
 
 <span id="US03"></span>
-### <a href="#US03">**[US02]**</a> Eu, como usuário, desejo
+### <a href="#US03">**[US03]**</a> Eu, como usuário, desejo poder trocar minha foto de perfil.
 
 #### Tarefas:
 -
 
 #### Critérios de aceitação:
--
+- A opção de ter uma foto de perfil deve existir ;
+- O usuário pode mudar a foto no momento que quiser ;
+- Outros usuários não podem mudar a foto de perfil que não seja a deles mesmos ;
+- Ao mudar a foto de perfil, um <a href="../lexicos/lexicos-1_0/#lxTweet">Tweet</a> deve ser automaticamente postado pelo sistema.
 
 <span id="US04"></span>
-### <a href="#US04">**[US02]**</a> Eu, como usuário, desejo
+### <a href="#US04">**[US04]**</a> Eu, como usuário, desejo poder escolher outro nome de usuário (@).
 
 #### Tarefas:
 -
 
 #### Critérios de aceitação:
--
+- A opção de ter um nome de usuário deve existir ;
+- O usuário pode mudar o nome dele (@) a qualquer instante ;
+- O sistema deve verificar se o nome escolhido pelo usuário está disponível ;
+- O nome de usuário deve aparecer logo abaixo da foto de perfil ;
 
 <span id="US05"></span>
-### <a href="#US05">**[US02]**</a> Eu, como usuário, desejo
+### <a href="#US05">**[US05]**</a> Eu, como usuário, desejo ter uma descrição de perfil e que esta seja editável.
 
 #### Tarefas:
 -
 
 #### Critérios de aceitação:
--
+- A opção de ter uma descrição de perfil deve existir ;
+- A descrição de perfil não pode ultrapassar 160 caracteres ;
+- A descrição de perfil deve ser visível para qualquer outro usuário, mesmo que este não siga o perfil em questão;
+- A descrição de perfil deve estar localizada abaixo do nome de usuário ;
+- A descrição de perfil pode ser vazia ;
+- Bio deve ser uma outra maneira de falar "Descrição de perfil" ;
 
 <span id="US06"></span>
-### <a href="#US06">**[US02]**</a> Eu, como usuário, desejo
+### <a href="#US06">**[US06]**</a> Eu, como usuário, desejo ter controle sobre quais usuários podem visualizar minhas informações (dados do perfil, tweets etc).
 
 #### Tarefas:
 -
 
 #### Critérios de aceitação:
--
+- O usuário pode bloquear outro usuário ;
+- O usuário pode escolher, dentre as informações do perfil dele, quais são públicas (visíveis a todos) e quais são privadas (visíveis apenas para aqueles que o seguem) ;
+- O usuário deve ser capaz de escolher se o perfil dele será "público" ou "privado";
+- O usuário pode mudar, a qualquer instante, a confidencialidade do perfil dele como um todo (para "público" ou para "privado") ;
+- O usuário pode desbloquear outro usuário que estava outrora bloqueado.
 
 ***
 ## Referências
