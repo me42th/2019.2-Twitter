@@ -38,6 +38,9 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 |Tweet|<a href="#US13">**[US13]**</a>|Usuário|ser capaz de twittar posts através de caracteres e/ou outros tipos mídias|expressar/opinar|<a href="#US13">**Link para a [US13]**</a>|<a href="../../elicitacao/requisitos/#R032">**R032**</a> ; <a href="../use_cases_specifications/user_case_geral/#UC18">**UC18;**</a>|
 |Tweet|<a href="#US14">**[US14]**</a>|Usuário|reportar/denunciar tweets que detenham conteúdos que ferem as diretrizes do Twitter|retirar conteúdos que afetam negativamentos outros usuários|<a href="#US14">**Link para a [US14]**</a>|<a href="../../elicitacao/requisitos/#R033">**R033**</a> ; <a href="../use_cases_specifications/user_case_geral/#UC13">**UC13;**</a>|
 |Tweet|<a href="#US15">**[US15]**</a>|Usuário|Compartilhar tweets de outros usuários|divulgar/dividir com outras pessoas o conteúdo em questão|<a href="#US15">**Link para a [US15]**</a>|<a href="../../elicitacao/requisitos/#R023">**R023**</a> ; <a href="../use_cases_specifications/user_case_geral/#UC06">**UC06;**</a>||
+|Interagir Com Outro usuário|<a href="#US16">**[US16]**</a>|Usuário|Enviar mensagens diretas|comunicar no privado através de mensagens|<a href="#US16">**Link para a [US16]**</a>|<a href="../../elicitacao/requisitos/#R06">**R006**</a> ; <a href="../../elicitacao/requisitos/#R29">**R029**</a>||
+|Interagir Com Outro usuário|<a href="#US17">**[US17]**</a>|Usuário|Mencionar outros usuários|comunicar-se publicamente através de menções em tweets|<a href="#US17">**Link para a [US17]**</a>|<a href="../../elicitacao/requisitos/#R06">**R006**</a>||
+|Interagir Com Outro usuário|<a href="#US18">**[US18]**</a>|Usuário|curtir ou comentar o tweet de outro usuário|comunicar através de símbolos da plataforma|<a href="#US18">**Link para a [US18]**</a>|<a href="../../elicitacao/requisitos/#R06">**R006**</a> ; <a href="../../elicitacao/requisitos/#R08">**R008**</a>||
 
 ***
 
@@ -179,6 +182,32 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 - Possibilitar o usuário ter acesso a um link chave de um detrminado tweet.
 - Opção capaz de oferecer link externo para divulgar o tweet;
 
+<span id="US016"></span>
+### <a href="#US016">**[US016]**</a> Eu, como usuário, desejo enviar mensagens diretas para outro usuário
+
+#### Critérios de aceitação:
+- O usuário pode escolher uma mensagem entre as existentes ou iniciar uma nova.
+- O usuário pode enviar imagens ou gifs para outro usuário.
+- O usuário pode excluir a mensagem do seu perfil mas esta ainda estará disponível para o outro usuário.
+
+
+<span id="US017"></span>
+### <a href="#US017">**[US017]**</a> Eu, como usuário, desejo mencionar outro usuário em um tweet
+
+#### Critérios de aceitação:
+- O usuário pode enviar tweets públicos para outro usuário utilizando o seu handler (@)
+- O usuário pode enviar imagens ou gifs ou mencionar outro usuário em um comentário
+- Qualquer usuário pode enviar mensagens publicamente para outra pessoa.
+
+<span id="US018"></span>
+### <a href="#US018">**[US018]**</a> Eu, como usuário, desejo curtir ou comentar o tweet de outro usuário
+
+#### Critérios de aceitação:
+- O usuário pode dar like
+- O usuário pode interagir com outro usuário ao comentar em um tweet do mesmo
+
+
+
 ***
 ## Referências
 
@@ -198,3 +227,4 @@ Requisitos. <a href="http://livrodeengenhariaderequisitos.blogspot.com.br/">**ht
 | 21/10/2019 | Eugênio Sales | Adição das USs referentes ao épico de Pesquisa | 0.3 |
 | 21/10/2019 | Lorrany Azevedo | Adição das do épico notificações e US | 0.4 |
 | 21/10/2019 | Bruno Duarte | Adicionando Épicos e US sobre Tweet| 0.5 |
+| 21/10/2019 | Fernando Aguilar | Adicionando Épicos e US sobre Interagir com outro usuário| 0.6 |
