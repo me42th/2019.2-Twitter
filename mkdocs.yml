@@ -18,7 +18,8 @@ nav:
       - Backlog do produto: modelagem/backlog_do_produto.md
       - NFR Segurança: modelagem/NFR/nfr-seguranca.md
       - NFR Desempenho: modelagem/NFR/nfr-performance.md
-      - NFR Usabilidade: modelagem/NFR/nfr-usabilidade.md  
+      - NFR Usabilidade: modelagem/NFR/nfr-usabilidade.md
+      - NFR Geral: modelagem/NFR/nfr-geral.md  
     - Outros artefatos:
       - PDCA: outros_artefatos/PDCA.md
       - 5W2H: outros_artefatos/5w2h.md
