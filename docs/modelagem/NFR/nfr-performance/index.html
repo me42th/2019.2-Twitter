@@ -93,14 +93,6 @@
 </li>
                                     
 <li >
-    <a href="../nfr-seguranca/">NFR Segurança</a>
-</li>
-                                    
-<li class="active">
-    <a href="./">NFR Desempenho</a>
-</li>
-                                    
-<li >
     <a href="../../use_cases_specifications/user_case_geral/">Caso de uso - Geral</a>
 </li>
                                     
@@ -114,6 +106,22 @@
                                     
 <li >
     <a href="../../backlog_do_produto/">Backlog do produto</a>
+</li>
+                                    
+<li >
+    <a href="../nfr-seguranca/">NFR Segurança</a>
+</li>
+                                    
+<li class="active">
+    <a href="./">NFR Desempenho</a>
+</li>
+                                    
+<li >
+    <a href="../nfr-usabilidade/">NFR Usabilidade</a>
+</li>
+                                    
+<li >
+    <a href="../nfr-geral/">NFR Geral</a>
 </li>
                                 </ul>
                             </li>
@@ -148,7 +156,7 @@
                                 </a>
                             </li>
                             <li >
-                                <a rel="prev" href="../../use_cases_specifications/user_case_geral/">
+                                <a rel="prev" href="../nfr-usabilidade/">
                                     Next <i class="fa fa-arrow-right"></i>
                                 </a>
                             </li>
@@ -164,7 +172,7 @@
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
         <li class="main active"><a href="#nfr-framework">NFR Framework</a></li>
-            <li><a href="#desempenho">Desempenho</a></li>
+            <li><a href="#performance">Performance</a></li>
             <li><a href="#modelagem">Modelagem</a></li>
             <li><a href="#versionamento-de-edicoes-desta-pagina">Versionamento de edições desta página</a></li>
     </ul>
@@ -174,18 +182,21 @@
 <p><span style="margin-left: 40%;"><img alt="Twitter Logo" src="../../../images/twitter-logo-100px.png" /></span></p>
 <hr />
 <h1 id="nfr-framework">NFR Framework</h1>
-<h2 id="desempenho">Desempenho</h2>
+<h2 id="performance">Performance</h2>
 <ul>
-<li>Taxa de Transferência</li>
-<li>
-<p>MPLS</p>
+<li>Espaço<ul>
+<li>Datacenters</li>
+</ul>
 </li>
-<li>
-<p>Tempo Resposta</p>
+<li>Tempo de resposta<ul>
+<li>Taxa de transferência</li>
+</ul>
 </li>
-<li>MPLS</li>
+<li>Usar formato descompactado</li>
+<li>Usar indexação</li>
 </ul>
 <h2 id="modelagem">Modelagem</h2>
+<p><img alt="NFR Twitter Performance" src="../images/NFR-Performance.png" /></p>
 <h2 id="versionamento-de-edicoes-desta-pagina">Versionamento de edições desta página</h2>
 <table>
 <thead>
@@ -203,6 +214,12 @@
 <td>Base da Página</td>
 <td>0.1</td>
 </tr>
+<tr>
+<td>21/10/2019</td>
+<td>Eugênio Sales</td>
+<td>Base da Página</td>
+<td>0.2</td>
+</tr>
 </tbody>
 </table></div>
         </div>
@@ -213,7 +230,7 @@
         </footer>
         <script>
             var base_url = "../../..",
-                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+                shortcuts = {"help": 191, "previous": 80, "search": 83, "next": 78};
         </script>
         <script src="../../../js/base.js" defer></script>
         <script src="../../../search/main.js" defer></script>
