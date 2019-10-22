@@ -8,12 +8,17 @@ nav:
       - Storytelling: elicitacao/storytelling.md
       - Requisitos & MoSCoW: elicitacao/requisitos.md
     - Modelagem:
-      - Cenários: modelagem/cenarios/cenarios.md
-      - Léxicos: modelagem/lexicos/lexicos.md
-      - Caso de uso Geral: modelagem/user_cases.md
-      - Caso de uso Trending Topics: modelagem/use_cases_specifications/trending_topics.md
-      - Caso de uso Login: modelagem/use_cases_specifications/login.md
+      - Cenários 1.0: modelagem/cenarios/cenarios-1_0.md
+      - Cenários 0.1: modelagem/cenarios/cenarios.md
+      - Léxicos 1.0: modelagem/lexicos/lexicos-1_0.md
+      - Léxicos 0.1: modelagem/lexicos/lexicos.md
+      - Caso de uso - Geral: modelagem/use_cases_specifications/user_case_geral.md
+      - Caso de uso - Trending Topics: modelagem/use_cases_specifications/trending_topics.md
+      - Caso de uso - Login: modelagem/use_cases_specifications/login.md
+      - Backlog do produto: modelagem/backlog_do_produto.md
+      - NFR: modelagem/NFR/nfr_diagramas.md
     - Outros artefatos:
+      - PDCA: outros_artefatos/PDCA.md
       - 5W2H: outros_artefatos/5w2h.md
       - SWOT: outros_artefatos/swot.md
 

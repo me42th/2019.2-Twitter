@@ -1,17 +1,26 @@
-<span style="margin-left: 40%;">![Twitter Logo](../images/twitter-logo-100px.png)</span>
+<span style="margin-left: 40%;">![Twitter Logo](../../images/twitter-logo-100px.png)</span>
 
 ***
 #Caso de Uso: Sistema Geral
 
 ***
 ##Diagrama
-**Autore(s):** Todos os integrantes. </br>
-**Versão:** 0.1
 
-![Caso de uso: Sistema geral](images/UC-SistemaGeral.jpg)
+***
+**Autore(s):** Lorrany Azevedo e Aline Laureano. </br>
+**Versão:** *0.2 (última versão)*
+
+![Caso de uso: Sistema geral](../images/UC-SistemaGeral-v2.jpg)
+
+***
+**Autore(s):** Lorrany Azevedo e Aline Laureano. </br>
+**Versão:** *0.1*
+
+![Caso de uso: Sistema geral](../images/UC-SistemaGeral.jpg)
 
 ***
 ##Especificações
+***
 
 ### UC01 - Efetuar Login
 
@@ -28,6 +37,7 @@
 | **Fluxo(s) Alternativos** |[FA01] No passo 3 do [FP01], caso o usuário esqueça a sua senha ele deve:</br>1. Clicar no link “Esqueceu sua senha?”;</br>2. Digitar o e-mail cadastrado na sua conta do Twitter;</br>3. Clicar em Buscar;</br>4. Escolher se o link de redefinição de senha será enviado para o seu celular ou para o seu e-mail;</br>5. Acessar o link de redefinição de senha;</br>6. Digitar a nova senha de acesso à sua conta no Twitter;</br>7. Digitar novamente a nova senha;</br>8. Clicar no botão “Confirmar”;</br>9. O usuário é redirecionado para a página inicial da aplicação com o login efetuado com a sua nova senha.|
 | **Fluxo(s) de exceção** | [FE01] Falha de conexão com a internet:</br>No passo 2 do [FP01] ocorre uma falha de conexão com a Internet. |
 
+<span id="UC02"></span>
 ### UC02 - Efetuar Cadastro
 
 **Autore(s):** Aline Laureano. </br>
@@ -298,6 +308,7 @@
 | **Fluxo(s) Alternativos** | [FA19]  </br> O usuário pode escolher o que modificar </br> O usuário pode escolher editar sua foto de perfil, localização, data de nascimento, biográfia e nome.|
 | **Fluxo(s) de exceção** | [FE19] O usuário pode não fazer nenhuma alteração em seu perfil apenas clicando em "salvar"|
 
+<span id="UC20"></span>
 ### UC20 - Acessar central de ajuda
 
 **Autore(s):** Lorrany Azevedo. </br>
@@ -323,5 +334,7 @@
 |
 | 27/09/2019 | Lorrany Azevedo |Especificação dos requisitos UC11 até o UC20 | 0.2 |
 | 30/09/2019 | Aline Laureano |Especificação dos requisitos UC01 até o UC10 & adição dos autores e das versões das especificações. | 0.3 |
+| 18/10/2019 | Aline Laureano | Adição da versão 0.2 do diagrama de Caso de uso SISTEMA GERAL.  | 0.4 |
+
 
 ***

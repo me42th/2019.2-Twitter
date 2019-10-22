@@ -14,7 +14,7 @@ Adaptado de : A Look into the SWOT Analysis as a tool of Strategic Planning. FER
 ***
 # Para o Twitter :
 
-<span style="margin-right: 40%;">![SWOT](../images/swot.png)</span>
+<span style="margin-right: 40%;">![SWOT](images/swot.png)</span>
 
 Legenda:
 - Strengths - forças ;
