@@ -29,7 +29,9 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 | Gerenciar perfil | <a href="#US04">**[US04]**</a> | Usuário | poder escolher outro nome de usuário (@) | para que eu tenha uma identificação única no Twitter | <a href="#US04">**Link para a [US04]**</a> | <a href="../../elicitacao/requisitos/#R031">**R031**</a> |
 | Gerenciar perfil | <a href="#US05">**[US05]**</a> | Usuário | ter uma descrição de perfil e que esta seja editável | para que eu possa dizer aos outros usuários o que eu desejo que saibam sobre mim em poucas palavras | <a href="#US05">**Link para a [US05]**</a> | <a href="../../elicitacao/requisitos/#R002">**R002**</a> |
 | Gerenciar perfil | <a href="#US06">**[US06]**</a> | Usuário | ter controle sobre quais usuários podem visualizar minhas informações (dados do perfil, tweets etc) | me sentir seguro em relação à confidencialidade dos meus dados | <a href="#US06">**Link para a [US06]**</a> | <a href="../../elicitacao/requisitos/#R020">**R020**</a> ; <a href="../../elicitacao/requisitos/#R005">**R005**</a> |
-
+| Pesquisa | <a href="#US07">**[US07]**</a> | Usuário | buscar qualquer termo na barra de pesquisa | encontrar qualquer assunto ou tópico do meu interesse | <a href="#US07">**Link para a [US07]**</a> | <a href="../../elicitacao/requisitos/#R025">**R025**</a> ; <a href="../use_cases_specifications/user_case_geral/#UC10">**UC10;**</a>
+| Pesquisa | <a href="#US08">**[US08]**</a> | Usuário | buscar uma hashtag na barra de pesquisa | me atualizar a respeito dos tópicos mais em alta | <a href="#US08">**Link para a [US08]**</a> | <a href="../../elicitacao/requisitos/#R025">**R025**</a> ; <a href="../use_cases_specifications/user_case_geral/#UC11">**UC11;**</a>
+| Pesquisa | <a href="#US09">**[US09]**</a> | Usuário | conferir tópicos sugeridos baseados no meu interesse na barra de pesquisa | ter mais celeridade em buscas | <a href="#US09">**Link para a [US09]**</a> | <a href="../../elicitacao/requisitos/#R025">**R025**</a> ; <a href="../use_cases_specifications/user_case_geral/#UC12">**UC12;**</a>
 ***
 
 ## Lista das Histórias de usuário
@@ -109,6 +111,38 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 - O usuário pode mudar, a qualquer instante, a confidencialidade do perfil dele como um todo (para "público" ou para "privado") ;
 - O usuário pode desbloquear outro usuário que estava outrora bloqueado.
 
+<span id="US07"></span>
+### <a href="#US07">**[US07]**</a> Eu, como usuário, desejo buscar qualquer termo na barra de pesquisa
+
+#### Tarefas:
+-
+
+#### Critérios de aceitação:
+- O usuário pode inserir um texto de no máximo 500 caracteres
+- O usuário pode cometer erros de digitação e deve encontrar tópicos sugeridos
+
+<span id="US08"></span>
+### <a href="#US08">**[US08]**</a> Eu, como usuário, desejo buscar uma hashtag na barra de pesquisa
+
+#### Tarefas:
+-
+
+#### Critérios de aceitação:
+- O usuário pode inserir uma hashtag de no máximo 100 caracteres
+- O usuário pode cometer erros de digitação e deve encontrar hashtags sugeridas
+- O usuário deve visulizar as hashtags com maior engajamento de forma ordenada
+- O usuário pode filtrar a localização de busca da hashtag
+
+<span id="US09"></span>
+### <a href="#US09">**[US09]**</a> Eu, como usuário, desejo conferir tópicos sugeridos baseados no meu interesse na barra de pesquisa
+
+#### Tarefas:
+-
+
+#### Critérios de aceitação:
+- O usuário deve visualizar tópicos similares sugeridos ao buscados na barra de pesquisa
+- O usuário pode clicar em um tópico sugerido e ser redirecionado para o mesmo
+
 ***
 ## Referências
 
@@ -125,3 +159,4 @@ Requisitos. <a href="http://livrodeengenhariaderequisitos.blogspot.com.br/">**ht
 |------|-------|-----------|--------|
 | 20/10/2019 | Aline Laureano | Criação da página e dos textos descritivos, adição de algumas referências & inserção das US's relacionadas ao épico Cadastro e ao épico Central de ajuda com os links necessários. | 0.1 |
 | 21/10/2019 | Erick Giffoni | Adição das USs referentes ao épico Gerenciar Perfil e algumas correções | 0.2 |
+| 21/10/2019 | Eugênio Sales | Adição das USs referentes ao épico de Pesquisa | 0.3 |
