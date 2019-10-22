@@ -107,18 +107,12 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 <span id="US07"></span>
 ### <a href="#US07">**[US07]**</a> Eu, como usuário, desejo buscar qualquer termo na barra de pesquisa
 
-#### Tarefas:
--
-
 #### Critérios de aceitação:
 - O usuário pode inserir um texto de no máximo 500 caracteres
 - O usuário pode cometer erros de digitação e deve encontrar tópicos sugeridos
 
 <span id="US08"></span>
 ### <a href="#US08">**[US08]**</a> Eu, como usuário, desejo buscar uma hashtag na barra de pesquisa
-
-#### Tarefas:
--
 
 #### Critérios de aceitação:
 - O usuário pode inserir uma hashtag de no máximo 100 caracteres
@@ -128,9 +122,6 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 
 <span id="US09"></span>
 ### <a href="#US09">**[US09]**</a> Eu, como usuário, desejo conferir tópicos sugeridos baseados no meu interesse na barra de pesquisa
-
-#### Tarefas:
--
 
 #### Critérios de aceitação:
 - O usuário deve visualizar tópicos similares sugeridos ao buscados na barra de pesquisa
@@ -164,31 +155,29 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 
 <span id="US13"></span>
 ### <a href="#US13">**[US13]**</a> Eu, como usuário, desejo ser capaz de twittar(compartilhar) posts através de caracteres e/ou outros tipos mídias
-#### Tarefas:
-- Sistema de upload simples e eficiente;
-- O sistema de upload deve possuir compatibilidade com os diversos formatos de mídia.
+
 #### Critérios de Aceitação:
 - O usuário deve ser capaz de postar conteúdos em diferentes tipos de mídia;
 - O usuários pode deletar suas próprias postagens;
+- Sistema de upload simples e eficiente;
+- O sistema de upload deve possuir compatibilidade com os diversos formatos de mídia.
 
 <span id="US14"></span>
 ### <a href="#US14">**[US14]**</a> Eu, como usuário, desejo reportar/denunciar tweets que detenham conteúdos que ferem as diretrizes do Twitter
 
-#### Tarefas:
-- Funcionalidade capaz de denunciar o conteúdo a partir do tweet base.
 
 #### Critérios de Aceitação:
 - Sistema capaz de julgar a gravidade do tweet(se houver);
 - Ponderações de contexto do tweet com base em fatos e vertentes do contexto.
+- Funcionalidade capaz de denunciar o conteúdo a partir do tweet base.
 
 
 <span id="US15"></span>
 ### <a href="#US15">**[US15]**</a> Eu, como usuário, desejo Compartilhar tweets de outros usuários
-#### Tarefas:
-- Opção capaz de oferecer link externo para divulgar o tweet;
-### Critérios de Aceitação:
-- Possibilitar o usuário ter acesso a um link chave de um detrminado tweet.
 
+#### Critérios de Aceitação:
+- Possibilitar o usuário ter acesso a um link chave de um detrminado tweet.
+- Opção capaz de oferecer link externo para divulgar o tweet;
 
 ***
 ## Referências
