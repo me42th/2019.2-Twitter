@@ -48,6 +48,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 
 <span id="US01"></span>
 ### <a href="#US01">**[US01]**</a> Eu, como visitante, desejo realizar cadastro.
+**Autor: Aline**
 
 #### Critérios de aceitação:
 - Ter uma página de cadastro para o Twitter;
@@ -60,6 +61,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 
 <span id="US02"></span>
 ### <a href="#US02">**[US02]**</a> Eu, como usuário, desejo acessar a central de ajuda.
+**Autor: Aline**
 
 #### Critérios de aceitação:
 - O usuário deve ser capaz de acessar a página de Central de ajuda;
@@ -70,6 +72,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 
 <span id="US03"></span>
 ### <a href="#US03">**[US03]**</a> Eu, como usuário, desejo poder trocar minha foto de perfil.
+**Autor: Erick**
 
 #### Critérios de aceitação:
 - A opção de ter uma foto de perfil deve existir ;
@@ -79,6 +82,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 
 <span id="US04"></span>
 ### <a href="#US04">**[US04]**</a> Eu, como usuário, desejo poder escolher outro nome de usuário (@).
+**Autor: Erick**
 
 #### Critérios de aceitação:
 - A opção de ter um nome de usuário deve existir ;
@@ -88,6 +92,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 
 <span id="US05"></span>
 ### <a href="#US05">**[US05]**</a> Eu, como usuário, desejo ter uma descrição de perfil e que esta seja editável.
+**Autor: Erick**
 
 #### Critérios de aceitação:
 - A opção de ter uma descrição de perfil deve existir ;
@@ -99,6 +104,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 
 <span id="US06"></span>
 ### <a href="#US06">**[US06]**</a> Eu, como usuário, desejo ter controle sobre quais usuários podem visualizar minhas informações (dados do perfil, tweets etc).
+**Autor: Erick**
 
 #### Critérios de aceitação:
 - O usuário pode bloquear outro usuário ;
@@ -109,6 +115,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 
 <span id="US07"></span>
 ### <a href="#US07">**[US07]**</a> Eu, como usuário, desejo buscar qualquer termo na barra de pesquisa
+**Autor: Eugênio**
 
 #### Critérios de aceitação:
 - O usuário pode inserir um texto de no máximo 500 caracteres
@@ -116,6 +123,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 
 <span id="US08"></span>
 ### <a href="#US08">**[US08]**</a> Eu, como usuário, desejo buscar uma hashtag na barra de pesquisa
+**Autor: Eugênio**
 
 #### Critérios de aceitação:
 - O usuário pode inserir uma hashtag de no máximo 100 caracteres
@@ -125,6 +133,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 
 <span id="US09"></span>
 ### <a href="#US09">**[US09]**</a> Eu, como usuário, desejo conferir tópicos sugeridos baseados no meu interesse na barra de pesquisa
+**Autor: Eugênio**
 
 #### Critérios de aceitação:
 - O usuário deve visualizar tópicos similares sugeridos ao buscados na barra de pesquisa
@@ -132,6 +141,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 
 <span id="US10"></span>
 ### <a href="#US10">**[US10]**</a> Eu, como usuário, desejo receber notificações de interações
+**Autor: Lorrany**
 
 #### Critérios de aceitação:
 - O usuário recebe notificações do app na tela de seu celular ;
@@ -140,6 +150,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 
 <span id="US11"></span>
 ### <a href="#US11">**[US11]**</a> Eu, como usuário, desejo receber notificações de sugestão de conteúdo
+**Autor: Lorrany**
 
 #### Critérios de aceitação:
 - O usuário recebe notificações do app na tela de seu celular ;
@@ -149,6 +160,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 
 <span id="US12"></span>
 ### <a href="#US12">**[US12]**</a> Eu, como usuário, desejo receber notificações de mensagens
+**Autor: Lorrany**
 
 #### Critérios de aceitação:
 - O usuário recebe notificações do app na tela de seu celular ;
@@ -158,6 +170,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 
 <span id="US13"></span>
 ### <a href="#US13">**[US13]**</a> Eu, como usuário, desejo ser capaz de twittar(compartilhar) posts através de caracteres e/ou outros tipos mídias
+**Autor: Bruno**
 
 #### Critérios de Aceitação:
 - O usuário deve ser capaz de postar conteúdos em diferentes tipos de mídia;
@@ -167,7 +180,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 
 <span id="US14"></span>
 ### <a href="#US14">**[US14]**</a> Eu, como usuário, desejo reportar/denunciar tweets que detenham conteúdos que ferem as diretrizes do Twitter
-
+**Autor: Bruno**
 
 #### Critérios de Aceitação:
 - Sistema capaz de julgar a gravidade do tweet(se houver);
@@ -177,6 +190,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 
 <span id="US15"></span>
 ### <a href="#US15">**[US15]**</a> Eu, como usuário, desejo Compartilhar tweets de outros usuários
+**Autor: Fernando**
 
 #### Critérios de Aceitação:
 - Possibilitar o usuário ter acesso a um link chave de um detrminado tweet.
@@ -184,6 +198,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 
 <span id="US016"></span>
 ### <a href="#US016">**[US016]**</a> Eu, como usuário, desejo enviar mensagens diretas para outro usuário
+**Autor: Fernando**
 
 #### Critérios de aceitação:
 - O usuário pode escolher uma mensagem entre as existentes ou iniciar uma nova.
@@ -193,6 +208,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 
 <span id="US017"></span>
 ### <a href="#US017">**[US017]**</a> Eu, como usuário, desejo mencionar outro usuário em um tweet
+**Autor: Fernando**
 
 #### Critérios de aceitação:
 - O usuário pode enviar tweets públicos para outro usuário utilizando o seu handler (@)
@@ -201,6 +217,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 
 <span id="US018"></span>
 ### <a href="#US018">**[US018]**</a> Eu, como usuário, desejo curtir ou comentar o tweet de outro usuário
+**Autor: Fernando**
 
 #### Critérios de aceitação:
 - O usuário pode dar like
@@ -228,3 +245,4 @@ Requisitos. <a href="http://livrodeengenhariaderequisitos.blogspot.com.br/">**ht
 | 21/10/2019 | Lorrany Azevedo | Adição das do épico notificações e US | 0.4 |
 | 21/10/2019 | Bruno Duarte | Adicionando Épicos e US sobre Tweet| 0.5 |
 | 21/10/2019 | Fernando Aguilar | Adicionando Épicos e US sobre Interagir com outro usuário| 0.6 |
+| 22/10/2019 | Erick Giffoni | Adição dos autores de cada US | 0.6.1
