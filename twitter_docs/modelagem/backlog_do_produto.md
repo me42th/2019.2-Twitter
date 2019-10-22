@@ -32,6 +32,10 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 | Pesquisa | <a href="#US07">**[US07]**</a> | Usuário | buscar qualquer termo na barra de pesquisa | encontrar qualquer assunto ou tópico do meu interesse | <a href="#US07">**Link para a [US07]**</a> | <a href="../../elicitacao/requisitos/#R025">**R025**</a> ; <a href="../use_cases_specifications/user_case_geral/#UC10">**UC10;**</a>
 | Pesquisa | <a href="#US08">**[US08]**</a> | Usuário | buscar uma hashtag na barra de pesquisa | me atualizar a respeito dos tópicos mais em alta | <a href="#US08">**Link para a [US08]**</a> | <a href="../../elicitacao/requisitos/#R025">**R025**</a> ; <a href="../use_cases_specifications/user_case_geral/#UC11">**UC11;**</a>
 | Pesquisa | <a href="#US09">**[US09]**</a> | Usuário | conferir tópicos sugeridos baseados no meu interesse na barra de pesquisa | ter mais celeridade em buscas | <a href="#US09">**Link para a [US09]**</a> | <a href="../../elicitacao/requisitos/#R025">**R025**</a> ; <a href="../use_cases_specifications/user_case_geral/#UC12">**UC12;**</a>
+| Notificações | <a href="#US10">**[US10]**</a> | Usuário | Receber notificações de interações| Interagir com as pessoas| <a href="#US10">**Link para a [US10]**</a> | <a href="../../elicitacao/requisitos/#R010">**R010**</a> ; <a href="../use_cases_specifications/user_case_geral/#UC14">**UC14;**</a>
+| Notificações | <a href="#US11">**[US11]**</a> | Usuário | Receber notificações de sugestão de conteúdo |  Ficar por dentro dos assuntos do twitter | <a href="#US11">**Link para a [US11]**</a> | <a href="../../elicitacao/requisitos/#R011">**R011**</a> ; <a href="../use_cases_specifications/user_case_geral/#UC14">**UC14;**</a>
+| Notificações | <a href="#US12">**[US12]**</a> | Usuário | Receber notificações de mensagens | Responder as mesagens | <a href="#US12">**Link para a [US12]**</a> | <a href="../../elicitacao/requisitos/#R029">**R029**</a> ; <a href="../use_cases_specifications/user_case_geral/#UC14">**UC14;**</a>
+
 ***
 
 ## Lista das Histórias de usuário
@@ -129,6 +133,32 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 - O usuário deve visualizar tópicos similares sugeridos ao buscados na barra de pesquisa
 - O usuário pode clicar em um tópico sugerido e ser redirecionado para o mesmo
 
+<span id="US10"></span>
+### <a href="#US10">**[US10]**</a> Eu, como usuário, desejo receber notificações de interações
+
+#### Critérios de aceitação:
+- O usuário recebe notificações do app na tela de seu celular ;
+- O usuário deve poder ver se interação foi um retweet, uma curtida, uma menção em comentário, uma resposta a comentário ;
+- O usuário deve poder escolher silenciar essas notificações caso queria;
+
+<span id="US11"></span>
+### <a href="#US11">**[US11]**</a> Eu, como usuário, desejo receber notificações de sugestão de conteúdo
+
+#### Critérios de aceitação:
+- O usuário recebe notificações do app na tela de seu celular ;
+- O usuário deve conseguir visualizar previamente o conteúdo sugerido ;
+- O usuário deve poder escolher desativar as notificações de sugestão;
+- O usuário deve poder reclamar caso o app sugira algo que incomode.
+
+<span id="US12"></span>
+### <a href="#US12">**[US12]**</a> Eu, como usuário, desejo receber notificações de mensagens
+
+#### Critérios de aceitação:
+- O usuário recebe notificações do app na tela de seu celular ;
+- O usuário deve conseguir visualizar previamente o conteúdo da mensagem ;
+- O usuário deve conseguir desativar a opção de visualizar previamente o conteúdo da mensagem ;
+- O usuário deve poder escolher desativar as notificações;
+
 ***
 ## Referências
 
@@ -144,5 +174,6 @@ Requisitos. <a href="http://livrodeengenhariaderequisitos.blogspot.com.br/">**ht
 | Data | Autor | Descrição | Versão |
 |------|-------|-----------|--------|
 | 20/10/2019 | Aline Laureano | Criação da página e dos textos descritivos, adição de algumas referências & inserção das US's relacionadas ao épico Cadastro e ao épico Central de ajuda com os links necessários. | 0.1 |
-| 21/10/2019 | Erick Giffoni | Adição das USs referentes ao épico Gerenciar Perfil e algumas correções | 0.2 |
-| 21/10/2019 | Eugênio Sales | Adição das USs referentes ao épico de Pesquisa | 0.3 |
+| 21/10/2019 | Erick Giffoni | Adição das USs referentes ao épico Gerenciar Perfil e algumas correções | 0.1 |
+| 21/10/2019 | Eugênio Sales | Adição das USs referentes ao épico de Pesquisa | 0.1 |
+| 21/10/2019 | Lorrany Azevedo | Adição das do épico notificações e US | 0.1 |
