@@ -37,13 +37,12 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 ## Lista das Histórias de usuário
 
 <span id="US01"></span>
-### <a href="#US01">**[US01]**</a> Eu, como usuário, desejo realizar cadastro.
-#### Tarefas:
-- Criar página de cadastro para o Twitter;
-- Montar integração e validação do número de telefone do visitante com a conta a ser criada;
-- Montar cadastro do nome usuário único para a conta a ser criada.
+### <a href="#US01">**[US01]**</a> Eu, como visitante, desejo realizar cadastro.
 
 #### Critérios de aceitação:
+- Ter uma página de cadastro para o Twitter;
+- Ter uma integração e uma validação do número de telefone do visitante com a conta a ser criada;
+- Ter um cadastro do nome usuário único para a conta a ser criada.
 - O visitante deve ser capaz de acessar a página de cadastro do Twitter;
 - O visitante deve conseguir validar o seu número de celular inserindo um código de confirmação enviado pelo Twitter por SMS;
 - Após a validação, o visitante é redirecionado para a sua conta de usuário do Twitter;
@@ -52,19 +51,15 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 <span id="US02"></span>
 ### <a href="#US02">**[US02]**</a> Eu, como usuário, desejo acessar a central de ajuda.
 
-#### Tarefas:
-- Criar página para a Central de ajuda;
-- Inserir barra de pesquisa de dúvidas na página de Central de ajuda;
-
 #### Critérios de aceitação:
 - O usuário deve ser capaz de acessar a página de Central de ajuda;
 - Caso exista(m) resultado(s), a barra de pesquisa retorna resultado(s) da Central de ajuda de acordo com a pesquisa feita pelo usuário.
+- Ter uma página para a Central de ajuda;
+- A barra de pesquisa de dúvidas deve estar na página de Central de ajuda;
+
 
 <span id="US03"></span>
 ### <a href="#US03">**[US03]**</a> Eu, como usuário, desejo poder trocar minha foto de perfil.
-
-#### Tarefas:
--
 
 #### Critérios de aceitação:
 - A opção de ter uma foto de perfil deve existir ;
@@ -75,9 +70,6 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 <span id="US04"></span>
 ### <a href="#US04">**[US04]**</a> Eu, como usuário, desejo poder escolher outro nome de usuário (@).
 
-#### Tarefas:
--
-
 #### Critérios de aceitação:
 - A opção de ter um nome de usuário deve existir ;
 - O usuário pode mudar o nome dele (@) a qualquer instante ;
@@ -86,9 +78,6 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 
 <span id="US05"></span>
 ### <a href="#US05">**[US05]**</a> Eu, como usuário, desejo ter uma descrição de perfil e que esta seja editável.
-
-#### Tarefas:
--
 
 #### Critérios de aceitação:
 - A opção de ter uma descrição de perfil deve existir ;
@@ -100,9 +89,6 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 
 <span id="US06"></span>
 ### <a href="#US06">**[US06]**</a> Eu, como usuário, desejo ter controle sobre quais usuários podem visualizar minhas informações (dados do perfil, tweets etc).
-
-#### Tarefas:
--
 
 #### Critérios de aceitação:
 - O usuário pode bloquear outro usuário ;
