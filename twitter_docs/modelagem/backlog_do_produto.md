@@ -34,7 +34,10 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 | Pesquisa | <a href="#US09">**[US09]**</a> | Usuário | conferir tópicos sugeridos baseados no meu interesse na barra de pesquisa | ter mais celeridade em buscas | <a href="#US09">**Link para a [US09]**</a> | <a href="../../elicitacao/requisitos/#R025">**R025**</a> ; <a href="../use_cases_specifications/user_case_geral/#UC12">**UC12;**</a>
 | Notificações | <a href="#US10">**[US10]**</a> | Usuário | Receber notificações de interações| Interagir com as pessoas| <a href="#US10">**Link para a [US10]**</a> | <a href="../../elicitacao/requisitos/#R010">**R010**</a> ; <a href="../use_cases_specifications/user_case_geral/#UC14">**UC14;**</a>
 | Notificações | <a href="#US11">**[US11]**</a> | Usuário | Receber notificações de sugestão de conteúdo |  Ficar por dentro dos assuntos do twitter | <a href="#US11">**Link para a [US11]**</a> | <a href="../../elicitacao/requisitos/#R011">**R011**</a> ; <a href="../use_cases_specifications/user_case_geral/#UC14">**UC14;**</a>
-| Notificações | <a href="#US12">**[US12]**</a> | Usuário | Receber notificações de mensagens | Responder as mesagens | <a href="#US12">**Link para a [US12]**</a> | <a href="../../elicitacao/requisitos/#R029">**R029**</a> ; <a href="../use_cases_specifications/user_case_geral/#UC14">**UC14;**</a>
+| Notificações | <a href="#US12">**[US12]**</a> | Usuário | Receber notificações de mensagens | Responder as mesagens | <a href="#US12">**Link para a [US12]**</a> | <a href="../../elicitacao/requisitos/#R029">**R029**</a> ; <a href="../use_cases_specifications/user_case_geral/#UC14">**UC14;**</a>|
+|Tweet|<a href="#US13">**[US13]**</a>|Usuário|ser capaz de twittar posts através de caracteres e/ou outros tipos mídias|expressar/opinar|<a href="#US13">**Link para a [US13]**</a>||
+|Tweet|<a href="#US14">**[US14]**</a>|Usuário|reportar/denunciar tweets que detenham conteúdos que ferem as diretrizes do Twitter|retirar conteúdos que afetam negativamentos outros usuários|<a href="#US14">**Link para a [US14]**</a>||
+|Tweet|<a href="#US15">**[US15]**</a>|Usuário|Compartilhar tweets de outros usuários|divulgar/dividir com outras pessoas o conteúdo em questão|<a href="#US15">**Link para a [US15]**</a>||
 
 ***
 
@@ -159,6 +162,34 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 - O usuário deve conseguir desativar a opção de visualizar previamente o conteúdo da mensagem ;
 - O usuário deve poder escolher desativar as notificações;
 
+<span id="US13"></span>
+### <a href="#US13">**[US13]**</a> Eu, como usuário, desejo ser capaz de twittar(compartilhar) posts através de caracteres e/ou outros tipos mídias
+#### Tarefas:
+- Sistema de upload simples e eficiente;
+- O sistema de upload deve possuir compatibilidade com os diversos formatos de mídia.
+#### Critérios de Aceitação:
+- O usuário deve ser capaz de postar conteúdos em diferentes tipos de mídia;
+- O usuários pode deletar suas próprias postagens;
+
+<span id="US14"></span>
+### <a href="#US14">**[US14]**</a> Eu, como usuário, desejo reportar/denunciar tweets que detenham conteúdos que ferem as diretrizes do Twitter
+
+#### Tarefas:
+- Funcionalidade capaz de denunciar o conteúdo a partir do tweet base.
+
+#### Critérios de Aceitação:
+- Sistema capaz de julgar a gravidade do tweet(se houver);
+- Ponderações de contexto do tweet com base em fatos e vertentes do contexto.
+
+
+<span id="US15"></span>
+### <a href="#US15">**[US15]**</a> Eu, como usuário, desejo Compartilhar tweets de outros usuários
+#### Tarefas:
+- Opção capaz de oferecer link externo para divulgar o tweet;
+### Critérios de Aceitação:
+- Possibilitar o usuário ter acesso a um link chave de um detrminado tweet.
+
+
 ***
 ## Referências
 
@@ -174,6 +205,7 @@ Requisitos. <a href="http://livrodeengenhariaderequisitos.blogspot.com.br/">**ht
 | Data | Autor | Descrição | Versão |
 |------|-------|-----------|--------|
 | 20/10/2019 | Aline Laureano | Criação da página e dos textos descritivos, adição de algumas referências & inserção das US's relacionadas ao épico Cadastro e ao épico Central de ajuda com os links necessários. | 0.1 |
-| 21/10/2019 | Erick Giffoni | Adição das USs referentes ao épico Gerenciar Perfil e algumas correções | 0.1 |
-| 21/10/2019 | Eugênio Sales | Adição das USs referentes ao épico de Pesquisa | 0.1 |
-| 21/10/2019 | Lorrany Azevedo | Adição das do épico notificações e US | 0.1 |
+| 21/10/2019 | Erick Giffoni | Adição das USs referentes ao épico Gerenciar Perfil e algumas correções | 0.2 |
+| 21/10/2019 | Eugênio Sales | Adição das USs referentes ao épico de Pesquisa | 0.3 |
+| 21/10/2019 | Lorrany Azevedo | Adição das do épico notificações e US | 0.4 |
+| 21/10/2019 | Bruno Duarte | Adicionando Épicos e US sobre Tweet| 0.5 |
