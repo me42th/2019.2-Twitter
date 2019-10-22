@@ -6,7 +6,7 @@
 
 ***
 
-##Descrição
+## Descrição
 Este Backlog consiste em uma lista que descreve todas as funcionalidades desejadas para o Twitter. Com a finalidade de obtermos uma melhor especificação dessas funcionalidades, este Backlog apresenta a os seguintes itens de granularidade:
 
 - **Épico** que pode englobar várias Histórias de usuário;
@@ -19,7 +19,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 - **Critérios de aceitação** para a validação de cada História de usuário.
 
 ***
-##Tabela do backlog
+## Tabela do backlog
 
 |Épico | ID |	Eu como |	Desejo |	Para que eu possa |	Critérios de aceitação |	Rastro |
 |------|----|---------|--------|--------------------|----------------------------------|---------|
@@ -35,9 +35,9 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 | Notificações | <a href="#US10">**[US10]**</a> | Usuário | Receber notificações de interações| Interagir com as pessoas| <a href="#US10">**Link para a [US10]**</a> | <a href="../../elicitacao/requisitos/#R010">**R010**</a> ; <a href="../use_cases_specifications/user_case_geral/#UC14">**UC14;**</a>
 | Notificações | <a href="#US11">**[US11]**</a> | Usuário | Receber notificações de sugestão de conteúdo |  Ficar por dentro dos assuntos do twitter | <a href="#US11">**Link para a [US11]**</a> | <a href="../../elicitacao/requisitos/#R011">**R011**</a> ; <a href="../use_cases_specifications/user_case_geral/#UC14">**UC14;**</a>
 | Notificações | <a href="#US12">**[US12]**</a> | Usuário | Receber notificações de mensagens | Responder as mesagens | <a href="#US12">**Link para a [US12]**</a> | <a href="../../elicitacao/requisitos/#R029">**R029**</a> ; <a href="../use_cases_specifications/user_case_geral/#UC14">**UC14;**</a>|
-|Tweet|<a href="#US13">**[US13]**</a>|Usuário|ser capaz de twittar posts através de caracteres e/ou outros tipos mídias|expressar/opinar|<a href="#US13">**Link para a [US13]**</a>||
-|Tweet|<a href="#US14">**[US14]**</a>|Usuário|reportar/denunciar tweets que detenham conteúdos que ferem as diretrizes do Twitter|retirar conteúdos que afetam negativamentos outros usuários|<a href="#US14">**Link para a [US14]**</a>||
-|Tweet|<a href="#US15">**[US15]**</a>|Usuário|Compartilhar tweets de outros usuários|divulgar/dividir com outras pessoas o conteúdo em questão|<a href="#US15">**Link para a [US15]**</a>||
+|Tweet|<a href="#US13">**[US13]**</a>|Usuário|ser capaz de twittar posts através de caracteres e/ou outros tipos mídias|expressar/opinar|<a href="#US13">**Link para a [US13]**</a>|<a href="../../elicitacao/requisitos/#R032">**R032**</a> ; <a href="../use_cases_specifications/user_case_geral/#UC18">**UC18;**</a>|
+|Tweet|<a href="#US14">**[US14]**</a>|Usuário|reportar/denunciar tweets que detenham conteúdos que ferem as diretrizes do Twitter|retirar conteúdos que afetam negativamentos outros usuários|<a href="#US14">**Link para a [US14]**</a>|<a href="../../elicitacao/requisitos/#R033">**R033**</a> ; <a href="../use_cases_specifications/user_case_geral/#UC13">**UC13;**</a>|
+|Tweet|<a href="#US15">**[US15]**</a>|Usuário|Compartilhar tweets de outros usuários|divulgar/dividir com outras pessoas o conteúdo em questão|<a href="#US15">**Link para a [US15]**</a>|<a href="../../elicitacao/requisitos/#R023">**R023**</a> ; <a href="../use_cases_specifications/user_case_geral/#UC06">**UC06;**</a>||
 
 ***
 
