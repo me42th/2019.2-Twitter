@@ -245,4 +245,4 @@ Requisitos. <a href="http://livrodeengenhariaderequisitos.blogspot.com.br/">**ht
 | 21/10/2019 | Lorrany Azevedo | Adição das do épico notificações e US | 0.4 |
 | 21/10/2019 | Bruno Duarte | Adicionando Épicos e US sobre Tweet| 0.5 |
 | 21/10/2019 | Fernando Aguilar | Adicionando Épicos e US sobre Interagir com outro usuário| 0.6 |
-| 22/10/2019 | Erick Giffoni | Adição dos autores de cada US | 0.6.1
+| 22/10/2019 | Erick Giffoni | Adição dos autores de cada US | 0.6.1 |

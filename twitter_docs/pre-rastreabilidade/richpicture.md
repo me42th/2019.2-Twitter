@@ -8,6 +8,7 @@ O RichPicture é uma técnica que serve para a obtenção do entendimento de alg
 
 ## Artefatos desenvolvidos
 
+<span id="RichPicture01"></span>
 ### [RichPicture01] - Visão Geral do Twitter
 
 *Versão:* 0.1 </br>
