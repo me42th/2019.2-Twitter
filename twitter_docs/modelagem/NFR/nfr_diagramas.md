@@ -12,6 +12,7 @@
 ***
 
 ## **Diagrama Geral**
+**Autor(es): Todo o grupo**
 
 > - Junção dos NFR'S de segurança, usabilidade e desempenho
 
@@ -23,6 +24,7 @@
 ***
 
 ## **Diagrama de Segurança**
+**Autor(es): Erick e Fernando**
 > - **Confidencialidade:**
 >     - Criptografia;
 >     - Integridade do banco de dados;
@@ -53,6 +55,7 @@
 ***
 
 ## **Diagrama de Usabilidade**
+**Autor(es): Aline e Lorrany**
 > - **Visabilidade eficiente do Status do Sistema:**
 >     - Ver posts publicados em tempo real;
 >     - Atualização automática do feed.
@@ -74,6 +77,7 @@
 ***
 
 ## **Diagrama de Desempenho ou Performance**
+**Autor(es): Bruno e Eugênio**
 > - **Espaço:**
 >     - Datacenters.
 > - **Tempo de resposta:**
@@ -97,3 +101,4 @@
 | 21/10/2019 | Aline Laureano e Lorrany Azevedo | Ajuste da página para a adição do diagrama de usabilidade. | 0.4 |
 | 21/10/2019 | Lorrany Azevedo | Ajuste da página para a adição do diagrama Geral. | 0.5 |
 | 22/10/2019 | Aline Laureano | Padronização do layout da página e adição dos links internos para os diagramas. | 0.6 |
+| 22/10/2019 | Erick Giffoni | Adição dos autores de cada diagrama | 0.6.1 |

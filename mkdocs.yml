@@ -17,6 +17,9 @@ nav:
       - Caso de uso - Login: modelagem/use_cases_specifications/login.md
       - Backlog do produto: modelagem/backlog_do_produto.md
       - NFR: modelagem/NFR/nfr_diagramas.md
+    - Análise:
+      - Definição: analise/definicao.md
+      - Inspeção RichPicture - Template: analise/inspecao_rich_picture.md
     - Outros artefatos:
       - PDCA: outros_artefatos/PDCA.md
       - 5W2H: outros_artefatos/5w2h.md
