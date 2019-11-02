@@ -35,212 +35,223 @@
 *Autor da avaliação técnica:* Erick Giffoni</br>
 
 | Código do requisito | Critério nº | Atende ao critério? | Classificação do defeito | Tipo do defeito | Pontos a serem trabalhados |
-|---------------------|-------------|---------------------|--------------------------|-----------------|----------------------------|
+|----------------------|-------------|---------------------|--------------------------|------------------|-------------------------------|
 | R001 | 1 | Sim | - | - | - |
 | R001 | 2 | Sim | - | - |  |
-| R001 | 3 |  | - | - |  |
-| R001 | 4 |  | - | - | - |
-| R001 | 5 |  | - | - | - |
-| R001 | 6 |  | - | - | - |
+| R001 | 3 | Sim | - | - |  |
+| R001 | 4 | Sim | - | - | - |
+| R001 | 5 | Sim | - | - | - |
+| R001 | 6 | Sim | - | - | - |
 | R002 | 1 | Sim | - | - | - |
 | R002 | 2 | Sim | - | - |  |
-| R002 | 3 |  | - | - |  |
-| R002 | 4 |  | - | - | - |
-| R002 | 5 |  | - | - | - |
-| R002 | 6 |  | - | - | - |
+| R002 | 3 | Sim | - | - |  |
+| R002 | 4 | Não | Minor | Omissão | Descrever melhor o requisito na visão do sistema e do usuário |
+| R002 | 5 | Sim | - | - | - |
+| R002 | 6 | Sim | - | - | - |
 | R003 | 1 | Sim | - | - | - |
 | R003 | 2 | Sim | - | - |  |
-| R003 | 3 |  | - | - |  |
+| R003 | 3 | Não | Minor | Fato incorreto | Dentro os não-funcionais, esse requisito é SHOULD |
 | R003 | 4 | Não | Minor | Ambiguidade | Reescrever o requisito especificando de quem deve ser essa rapidez descrita : do usuário ou do sistema |
-| R003 | 5 |  | - | - | - |
-| R003 | 6 |  | - | - | - |
+| R003 | 5 | Sim | - | - | - |
+| R003 | 6 | Sim | - | - | - |
 | R004 | 1 | Não | Minor | Informação estranha | Verificar na entrevista se esse requisito é realmente um desejo do usuário |
 | R004 | 2 | Sim | - | - |  |
-| R004 | 3 |  | - | - |  |
-| R004 | 4 |  | - | - | - |
-| R004 | 4 |  | - | - | - |
-| R004 | 4 |  | - | - | - |
+| R004 | 3 | Sim | - | - |  |
+| R004 | 4 | Sim | - | - | - |
+| R004 | 5 | Sim | - | - | - |
+| R004 | 6 | Sim | - | - | - |
 | R005 | 1 | Sim | - | - | - |
 | R005 | 2 | Sim | - | - |  |
-| R005 | 3 |  | - | - |  |
+| R005 | 3 | Sim | - | - |  |
 | R005 | 4 | Não | Minor | Ambiguidade | Reescrever melhor o requisito : o ponto de vista dele é do sistema ou do usuário ? |
-| R005 | 4 |  | - | - | - |
-| R005 | 4 |  | - | - | - |
+| R005 | 5 | Sim | - | - | - |
+| R005 | 6 | Sim | - | - | - |
 | R006 | 1 | Sim | - | - | - |
 | R006 | 2 | Sim | - | - |  |
-| R006 | 3 |  | - | - |  |
-| R006 | 4 |  | - | - | - |
-| R006 | 4 |  | - | - | - |
-| R006 | 4 |  | - | - | - |
+| R006 | 3 | Sim | - | - |  |
+| R006 | 4 | Sim | - | - | - |
+| R006 | 5 | Sim | - | - | - |
+| R006 | 6 | Sim | - | - | - |
 | R007 | 1 | Não | - | - | Nenhum. Apesar de não ser um desejo do usuário, isso é um desejo do sistema. Não está errado. |
 | R007 | 2 | Sim | - | - |  |
-| R007 | 3 |  | - | - |  |
-| R007 | 4 |  | - | - | - |
-| R007 | 4 |  | - | - | - |
-| R007 | 4 |  | - | - | - |
+| R007 | 3 | Sim | - | - |  |
+| R007 | 4 | Sim | - | - | - |
+| R007 | 5 | Sim | - | - | - |
+| R007 | 6 | Sim | - | - | - |
 | R008 | 1 | Sim | - | - | - |
 | R008 | 2 | Sim | - | - |  |
-| R008 | 3 |  | - | - |  |
-| R008 | 4 |  | - | - | - |
-| R008 | 5 |  | - | - | - |
-| R008 | 6 |  | - | - | - |
+| R008 | 3 | Sim | - | - |  |
+| R008 | 4 | Sim | - | - | - |
+| R008 | 5 | Sim | - | - | - |
+| R008 | 6 | Sim | - | - | - |
 | R009 | 1 | Não | Minor | Informação estranha | Verificar na entrevista se esse requisito é realmente um desejo do usuário |
 | R009 | 2 | Sim | - | - |  |
-| R009 | 3 |  | - | - |  |
-| R009 | 4 |  | - | - | - |
-| R009 | 4 |  | - | - | - |
-| R009 | 4 |  | - | - | - |
+| R009 | 3 | Sim | - | - |  |
+| R009 | 4 | Sim | - | - | - |
+| R009 | 5 | Sim | - | - | - |
+| R009 | 6 | Sim | - | - | - |
 | R010 | 1 | Sim | - | - | - |
 | R010 | 2 | Sim | - | - |  |
-| R010 | 3 |  | - | - |  |
-| R010 | 4 |  | - | - | - |
-| R010 | 4 |  | - | - | - |
-| R010 | 4 |  | - | - | - |
+| R010 | 3 | Sim | - | - |  |
+| R010 | 4 | Sim | - | - | - |
+| R010 | 5 | Sim | - | - | - |
+| R010 | 6 | Sim | - | - | - |
 | R011 | 1 | Não | Minor | Informação estranha | Verificar na entrevista se esse requisito é realmente um desejo do usuário |
 | R011 | 2 | Sim | - | - |  |
-| R011 | 3 |  | - | - |  |
-| R011 | 4 |  | - | - | - |
-| R011 | 5 |  | - | - | - |
-| R011 | 6 |  | - | - | - |
+| R011 | 3 | Sim | - | - |  |
+| R011 | 4 | Sim | - | - | - |
+| R011 | 5 | Sim | - | - | - |
+| R011 | 6 | Sim | - | - | - |
 | R012 | 1 | Sim | - | - | - |
 | R012 | 2 | Sim | - | - |  |
-| R012 | 3 |  | - | - |  |
-| R012 | 4 |  | - | - | - |
-| R012 | 4 |  | - | - | - |
-| R012 | 4 |  | - | - | - |
+| R012 | 3 | Sim | - | - |  |
+| R012 | 4 | Sim | - | - | - |
+| R012 | 5 | Sim | - | - | - |
+| R012 | 6 | Sim | - | - | - |
 | R013 | 1 | Não | Minor | Informação estranha | Verificar na entrevista se esse requisito é realmente um desejo do usuário |
 | R013 | 2 | Sim | - | - |  |
-| R013 | 3 |  | - | - |  |
-| R013 | 4 |  | - | - | - |
-| R013 | 4 |  | - | - | - |
-| R013 | 4 |  | - | - | - |
+| R013 | 3 | Não | Minor | Fato incorreto | Mudar para COULD |
+| R013 | 4 | Sim | - | - | - |
+| R013 | 5 | Sim | - | - | - |
+| R013 | 6 | Sim | - | - | - |
 | R014 | 1 | Não | Minor | Ambiguidade | Reescrever o requisito, pois não está bem descrito |
 | R014 | 2 | Sim | - | - |  |
-| R014 | 3 |  | - | - |  |
-| R014 | 4 |  | - | - | - |
-| R014 | 4 |  | - | - | - |
-| R014 | 4 |  | - | - | - |
+| R014 | 3 | Sim | - | - |  |
+| R014 | 4 | Sim | - | - | - |
+| R014 | 5 | Sim | - | - | - |
+| R014 | 6 | Sim | - | - | - |
 | R015 | 1 | Sim | - | - | - |
 | R015 | 2 | Sim | - | - |  |
 | R015 | 3 | Não | Minor | Fato incorreto | Mudar para SHOULD |
 | R015 | 4 | Sim | - | - | - |
 | R015 | 5 | Sim | - | - | - |
 | R015 | 6 | Sim | - | - | - |
-| R016 | 1 |  | - | - | - |
-| R016 | 2 |  | - | - |  |
-| R016 | 3 |  | - | - |  |
-| R016 | 4 |  | - | - | - |
-| R016 | 4 |  | - | - | - |
-| R016 | 4 |  | - | - | - |
-| R017 | 1 |  | - | - | - |
-| R017 | 2 |  | - | - |  |
-| R017 | 3 |  | - | - |  |
-| R017 | 4 |  | - | - | - |
-| R017 | 4 |  | - | - | - |
-| R017 | 4 |  | - | - | - |
-| R018 | 1 |  | - | - | - |
-| R018 | 2 |  | - | - |  |
-| R018 | 3 |  | - | - |  |
-| R018 | 4 |  | - | - | - |
-| R018 | 4 |  | - | - | - |
-| R018 | 4 |  | - | - | - |
-| R019 | 1 |  | - | - | - |
-| R019 | 2 |  | - | - |  |
-| R019 | 3 |  | - | - |  |
-| R019 | 4 |  | - | - | - |
-| R019 | 4 |  | - | - | - |
-| R019 | 4 |  | - | - | - |
-| R020 | 1 |  | - | - | - |
-| R020 | 2 |  | - | - |  |
-| R020 | 3 |  | - | - |  |
-| R020 | 4 |  | - | - | - |
-| R020 | 4 |  | - | - | - |
-| R020 | 4 |  | - | - | - |
-| R021 | 1 |  | - | - | - |
-| R021 | 2 |  | - | - |  |
-| R021 | 3 |  | - | - |  |
-| R021 | 4 |  | - | - | - |
-| R021 | 4 |  | - | - | - |
-| R021 | 4 |  | - | - | - |
-| R022 | 1 |  | - | - | - |
-| R022 | 2 |  | - | - |  |
-| R022 | 3 |  | - | - |  |
-| R022 | 4 |  | - | - | - |
-| R022 | 4 |  | - | - | - |
-| R022 | 4 |  | - | - | - |
-| R023 | 1 |  | - | - | - |
-| R023 | 2 |  | - | - |  |
-| R023 | 3 |  | - | - |  |
-| R023 | 3 |  | - | - |  |
-| R023 | 3 |  | - | - |  |
-| R023 | 4 |  | - | - | - |
-| R024 | 1 |  | - | - | - |
-| R024 | 2 |  | - | - |  |
-| R024 | 3 |  | - | - |  |
-| R024 | 3 |  | - | - |  |
-| R024 | 3 |  | - | - |  |
-| R024 | 4 |  | - | - | - |
-| R025 | 1 |  | - | - | - |
-| R025 | 2 |  | - | - |  |
-| R025 | 3 |  | - | - |  |
-| R025 | 3 |  | - | - |  |
-| R025 | 3 |  | - | - |  |
-| R025 | 4 |  | - | - | - |
-| R026 | 1 |  | - | - | - |
-| R026 | 2 |  | - | - |  |
-| R026 | 3 |  | - | - |  |
-| R026 | 3 |  | - | - |  |
-| R026 | 3 |  | - | - |  |
-| R026 | 4 |  | - | - | - |
-| R027 | 1 |  | - | - | - |
-| R027 | 2 |  | - | - |  |
-| R027 | 3 |  | - | - |  |
-| R027 | 3 |  | - | - |  |
-| R027 | 3 |  | - | - |  |
-| R027 | 4 |  | - | - | - |
-| R028 | 1 |  | - | - | - |
-| R028 | 2 |  | - | - |  |
-| R028 | 3 |  | - | - |  |
-| R028 | 3 |  | - | - |  |
-| R028 | 3 |  | - | - |  |
-| R028 | 4 |  | - | - | - |
-| R029 | 1 |  | - | - | - |
-| R029 | 2 |  | - | - |  |
-| R029 | 3 |  | - | - |  |
-| R029 | 3 |  | - | - |  |
-| R029 | 3 |  | - | - |  |
-| R029 | 4 |  | - | - | - |
-| R030 | 1 |  | - | - | - |
-| R030 | 2 |  | - | - |  |
-| R030 | 3 |  | - | - |  |
-| R030 | 3 |  | - | - |  |
-| R030 | 3 |  | - | - |  |
-| R030 | 4 |  | - | - | - |
-| R031 | 1 |  | - | - | - |
-| R031 | 2 |  | - | - |  |
-| R031 | 3 |  | - | - |  |
-| R031 | 3 |  | - | - |  |
-| R031 | 3 |  | - | - |  |
-| R031 | 4 |  | - | - | - |
-| R032 | 1 |  | - | - | - |
-| R032 | 2 |  | - | - |  |
-| R032 | 3 |  | - | - |  |
-| R032 | 3 |  | - | - |  |
-| R032 | 3 |  | - | - |  |
-| R032 | 4 |  | - | - | - |
-| R033 | 1 |  | - | - | - |
-| R033 | 2 |  | - | - |  |
-| R033 | 3 |  | - | - |  |
-| R033 | 3 |  | - | - |  |
-| R033 | 3 |  | - | - |  |
-| R033 | 4 |  | - | - | - |
-| R034 | 1 |  | - | - | - |
-| R034 | 2 |  | - | - |  |
-| R034 | 3 |  | - | - |  |
-| R034 | 4 |  | - | - | - |
-| R034 | 4 |  | - | - | - |
-| R034 | 4 |  | - | - | - |
+| R016 | 1 | Sim | - | - | - |
+| R016 | 2 | Sim | - | - |  |
+| R016 | 3 | Não | Minor | Fato incorreto | Verificar a prioridade desse requisito -> sugestão : COULD |
+| R016 | 4 | Sim | - | - | - |
+| R016 | 5 | Sim | - | - | - |
+| R016 | 6 | Sim | - | - | - |
+| R017 | 1 | Não | - | - | Não é um defeito. Basta verificar se é um desejo do usuário ou do sistema. |
+| R017 | 2 | Sim | - | - |  |
+| R017 | 3 | Sim | - | - |  |
+| R017 | 4 | Sim | - | - | - |
+| R017 | 5 | Sim | - | - | - |
+| R017 | 6 | Sim | - | - | - |
+| R018 | 1 | Não | - | - | Não é um defeito. Basta verificar se é um desejo do usuário ou do sistema. |
+| R018 | 2 | Sim | - | - |  |
+| R018 | 3 | Sim | - | - |  |
+| R018 | 4 | Sim | - | - | - |
+| R018 | 5 | Sim | - | - | - |
+| R018 | 6 | Sim | - | - | - |
+| R019 | 1 | Sim | - | - | - |
+| R019 | 2 | Sim | - | - |  |
+| R019 | 3 | Sim | - | - |  |
+| R019 | 4 | Sim | - | - | - |
+| R019 | 5 | Sim | - | - | - |
+| R019 | 6 | Sim | - | - | - |
+| R020 | 1 | Sim | - | - | - |
+| R020 | 2 | Sim | - | - |  |
+| R020 | 3 | Sim | - | - |  |
+| R020 | 4 | Sim | - | - | - |
+| R020 | 5 | Sim | - | - | - |
+| R020 | 6 | Sim | - | - | - |
+| R021 | 1 | Sim | - | - | - |
+| R021 | 2 | Sim | - | - |  |
+| R021 | 3 | Sim | - | - |  |
+| R021 | 4 | Não | Minor | Omissão | Reescrever o requisito para deixar mais claro que "liberdade" é essa a que ele se refere |
+| R021 | 5 | Sim | - | - | - |
+| R021 | 6 | Sim | - | - | - |
+| R022 | 1 | Sim | - | - | - |
+| R022 | 2 | Sim | - | - |  |
+| R022 | 3 | Não | Minor | Fato incorreto | Verificar a prioridade desse requisito |
+| R022 | 4 | Não | Minor | Omissão | Reescrever o requisito de forma a deixar mais objetiva a ideia dele. Verificar na entrevista. |
+| R022 | 5 | Sim | - | - | - |
+| R022 | 6 | Sim | - | - | - |
+| R023 | 1 | Sim | - | - | - |
+| R023 | 2 | Sim | - | - |  |
+| R023 | 3 | Não | - | - | Não é um defeito, mas deve-se reescrever esse requisito para ter certeza da prioridade atribuida a ele. |
+| R023 | 4 | Não | Minor | Omissão</br>Ambiguidade | Verificar a entrevista e reescrever melhor o requisito (está mal descrito) |
+| R023 | 5 | Sim | - | - |  |
+| R023 | 6 | Sim | - | - | - |
+| R024 | 1 | Sim | - | - | - |
+| R024 | 2 | Sim | - | - |  |
+| R024 | 3 | Sim | - | - |  |
+| R024 | 4 | Sim | - | - |  |
+| R024 | 5 | Sim | - | - |  |
+| R024 | 6 | Sim | - | - | - |
+| R025 | 1 | Sim | - | - | - |
+| R025 | 2 | Sim | - | - |  |
+| R025 | 3 | Sim | - | - |  |
+| R025 | 4 | Sim | - | - |  |
+| R025 | 5 | Sim | - | - |  |
+| R025 | 6 | Sim | - | - | - |
+| R026 | 1 | Sim | - | - | - |
+| R026 | 2 | Sim | - | - |  |
+| R026 | 3 | Sim | - | - |  |
+| R026 | 4 | Sim | - | - |  |
+| R026 | 5 | Sim | - | - |  |
+| R026 | 6 | Sim | - | - | - |
+| R027 | 1 | Sim | - | - | - |
+| R027 | 2 | Sim | - | - |  |
+| R027 | 3 | Sim | - | - |  |
+| R027 | 4 | Não | Minor | Fato incorreto | Reescrever o requisito, levando em conta a questão das contas privadas |
+| R027 | 5 | Sim | - | - |  |
+| R027 | 6 | Sim | - | - | - |
+| R028 | 1 | Não | - | - | Não é um defeito. Deve-se verificar se todo o requisito é um desejo do usuário, porque, ao que parece, a parte correspondente ao número de caracteres do tweet seria um desejo do sistema. Logo o requisito seria um desejo tanto do usuário quanto do sistema |
+| R028 | 2 | Sim | - | - |  |
+| R028 | 3 | Sim | - | - |  |
+| R028 | 4 | Sim | - | - |  |
+| R028 | 5 | Sim | - | - |  |
+| R028 | 6 | Sim | - | - | - |
+| R029 | 1 | Sim | - | - | - |
+| R029 | 2 | Sim | - | - |  |
+| R029 | 3 | Não | Minor | Fato incorreto | Priorizar para MUST |
+| R029 | 4 | Sim | - | - |  |
+| R029 | 5 | Sim | - | - |  |
+| R029 | 6 | Sim | - | - | - |
+| R030 | 1 | Sim | - | - | Obs.: requisito tanto do sistema quanto do usuário |
+| R030 | 2 | Sim | - | - |  |
+| R030 | 3 | Sim | - | - |  |
+| R030 | 4 | Sim | - | - |  |
+| R030 | 5 | Sim | - | - |  |
+| R030 | 6 | Sim | - | - | - |
+| R031 | 1 | Não | - | - | Não é defeito. Apenas é um desejo do sistema |
+| R031 | 2 | Sim | - | - |  |
+| R031 | 3 | Sim | - | - |  |
+| R031 | 4 | Sim | - | - |  |
+| R031 | 5 | Sim | - | - |  |
+| R031 | 6 | Sim | - | - | - |
+| R032 | 1 | Sim | - | - | - |
+| R032 | 2 | Sim | - | - |  |
+| R032 | 3 | Sim | - | - |  |
+| R032 | 4 | Sim | - | - |  |
+| R032 | 5 | Sim | - | - |  |
+| R032 | 6 | Sim | - | - | - |
+| R033 | 1 | Sim | - | - | - |
+| R033 | 2 | Sim | - | - |  |
+| R033 | 3 | Sim | - | - |  |
+| R033 | 4 | Sim | - | - |  |
+| R033 | 5 | Sim | - | - |  |
+| R033 | 6 | Sim | - | - | - |
+| R034 | 1 | Não | Minor | Informação estranha | Não é um desejo do usuário, embora possa ser do sistema. Verificar a veracidade do requisito na entrevista. |
+| R034 | 2 | Sim | - | - |  |
+| R034 | 3 | Não | Minor | Informação estranha | Mudar para COULD |
+| R034 | 4 | Sim | - | - | - |
+| R034 | 4 | Sim | - | - | - |
+| R034 | 4 | Sim | - | - | - |
 
+
+**Parecer técnico**
+
+Refatorar a tabela de Requisitos e MoSCoW, seguindo o check-list acima, bem como adicionar uma nova coluna :</br>
+**"A quem se refere"**.</br>
+Essa coluna diz respeito a quem o requisito levantado se refere, ou seja, há três opções : usuário; sistema; stakeholder.
+
+- Quantidade de requisitos avaliados : 34 </br>
+- Quantidade de defeitos encontrados : 20 </br>
+- Quantidade de requisitos com pelo menos 1 defeito encontrado : 17 </br>
+- Porcentagem de requisitos defeituosos : 17/34 = 0.5 = 50% </br>
 
 ***
 ## <a href="#">**Validação**</a>
@@ -251,7 +262,7 @@ Validação realizada somente nos artefatos que forem refatorados segundo a aval
 
 ***
 #### Definição da *Persona*
-*Autor:* Nome do integrante que fez a Persona</br>
+*Autor:* Erick Giffni</br>
 > Colocar aqui o texto que define a persona criada.
 
 ***
@@ -261,8 +272,8 @@ Validação realizada somente nos artefatos que forem refatorados segundo a aval
 #### **[MoSCoW e Requisitos]** - Priorização/Funcionalidade
 
 *Versão do artefato:* 0.2 </br>
-*Link para o artefato:* <a href="#">**[MoSCoW]**</a> </br>
-*Autor:* Nome do integrante</br>
+*Link para o artefato:* <a href="../../elicitacao/requisitos/#tabela-de-requisitos">**[MoSCoW e Requisitos]**</a> </br>
+*Autor:* Erick Giffni</br>
 
 > *Parecer da <i>Persona</i>:*
 
@@ -286,3 +297,4 @@ Validação realizada somente nos artefatos que forem refatorados segundo a aval
 | 01/11/2019 | Erick Giffoni | Criação da página de acordo com o template feito pela Aline. | 0.1 |
 | 01/11/2019 | Erick Giffoni | Adição dos critérios para o check-list. | 0.1.2 |
 | 01/11/2019 | Erick Giffoni | Classificação de alguns requisitos no check-list | 0.1.3 |
+| 02/11/2019 | Erick Giffoni | Conclusão do check-list | 1.0 |
