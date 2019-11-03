@@ -21,6 +21,7 @@ nav:
       - Definição: analise/definicao.md
       - Inspeção RichPicture - Template: analise/inspecao_rich_picture.md
       - Inspeção - MoSCoW e Requisitos: analise/inspecao_moscow_requisitos.md
+      - Inspeção - Entrevistas: analise/inspecao_entrevistas.md
     - Outros artefatos:
       - PDCA: outros_artefatos/PDCA.md
       - 5W2H: outros_artefatos/5w2h.md
