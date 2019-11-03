@@ -2,7 +2,7 @@
 
 ---
 
-# Inspeção - Backlog de Produto
+# Inspeção - Cenários
 
 ---
 
@@ -39,7 +39,6 @@ incluidos no componente ator?
 ### Resultados da avaliação técnica inicial
 
 ***
-#### **[Perguntas]** - Escopo da entrevista
 
 *Versão do artefato:* 0.2 </br>
 *Link para o artefato:* <a href="../../modelagem/cenarios/cenarios-1_0.md">**[Cenários]**</a> </br>
@@ -80,8 +79,8 @@ Validação realizada somente nos artefatos que forem refatorados segundo a aval
 1. Leite, J.C.S.P., Hadad, G.D.S., Doorn, J.H., Kaplan, G.N.: A Scenario Construction
 Process, Requirements Engineering Journal, Vol.5, N° 1, 2000, pp. 38-61
 
-2. Hsia, P.et al: Formal Approach to Scenario Analysis. IEEE Software, vol. 11 no. 2,
-1994. pp.33-41.
+2. Hsia, P.et al: Formal Approach to Scenario Analysis. IEEE Software, vol. 11 no. 2,1994. pp.33-41.
+
 3. Leite, Julio & Rossi, Gustavo & Balaguer, Federico & Maiorana, Vanesa & Kaplan, Gladys & Hadad, Graciela & Oliveros, Alejandro. (1997). Enhancing a requirements baseline with scenarios. Requirements Engineering. 2. 184-198. 10.1007/BF02745371. 
 
 4. **[C&L]** <a href="http://pes.inf.puc-rio.br/cel/index_old.htm"> Uma ferramenta para Edição e Visualização de Cenários e Léxicos.</a>
