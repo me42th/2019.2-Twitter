@@ -20,7 +20,7 @@ nav:
     - Análise:
       - Definição: analise/definicao.md
       - Inspeção RichPicture - Template: analise/inspecao_rich_picture.md
-      - Inspeção - MoSCoW e Requisitos: analise/inspecao_moscow_requisitos.m
+      - Inspeção - MoSCoW e Requisitos: analise/inspecao_moscow_requisitos.md
       - Inspeção - Entrevistas: analise/inspecao_entrevistas.md
       - Inspeção - Backlog do Produto: analise/inspecao_backlog_produto.md
       - Inspeção - NFR: analise/inspecao_nfr.md
