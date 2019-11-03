@@ -34,7 +34,7 @@ com outros símbolos?
 ### Resultados da avaliação técnica inicial
 
 *Versão do artefato:* 0.2 </br>
-*Link para o artefato:* <a href="../../modelagem/lexicos">**[Léxicos]**</a> </br>
+*Link para o artefato:* <a href="../../modelagem/lexicos/lexicos">**[Léxicos]**</a> </br>
 *Autor da avaliação técnica:* Bruno Duarte</br>
 
 | Critério nº | Atende ao critério? | Classificação do defeito | Tipo do defeito | Pontos a serem trabalhados |
