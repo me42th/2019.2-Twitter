@@ -24,6 +24,7 @@
 
 > 6. Dados e materiais que contribuem para a elaboração da entrevista foram coletados e estudados previamente para que a entrevista tivesse um embasamento teórico, eles foram referênciados?
 
+> 7. As entrevistas foram gravadas? Se sim, esse material foi disponibilizado?
 ***
 ### Resultados da avaliação técnica inicial
 
@@ -31,17 +32,18 @@
 #### **[Perguntas]** - Escopo da entrevista
 
 *Versão do artefato:* 0.1 </br>
-*Link para o artefato:* <a href="../../pre-rastreabilidade/richpicture/#RichPicture01">**[RichPicture01]**</a> </br>
-*Autor da avaliação técnica:* Aline Laureano</br>
+*Link para o artefato:* <a href="../../elicitacao/entrevistas/entrevistas">**[Entrevistas]**</a> </br>
+*Autor da avaliação técnica:* </br>
 
 | Critério nº | Atende ao critério? | Classificação do defeito | Tipo do defeito | Pontos a serem trabalhados |
 |-------------|---------------------|--------------------------|-----------------|----------------------------|
 | 1 | Sim | - | - | - |
-| 2 | Não | Grave | - | Criar um documento que garanta que o usuário está autorizando a entrevista ou gravar isso por aúdio |
-| 3 | Sim | - | - | - |
+| 2 | Não | Grave | Incorreto | Criar um documento que garanta que o usuário está autorizando a entrevista ou gravar isso por aúdio. |
+| 3 | Não | Simples | Omissão | Cronometrar as futuras entrevistas caso elas ocorram. |
 | 4 | Sim | - | - | - |
 | 5 | Sim | - | - | - |
-| 6 | Não | Médiano | - | Adicionar referências teóricas que validam as perguntas da entrevista. |
+| 6 | Não | Médiano | Omissão | Adicionar referências teóricas que validam as perguntas da entrevista. |
+| 7 | Não | Médiano | Omissão | Adicionar os audios, ou qualquer conteúdo gravado das entrevistas. |
 
 ***
 ## <a href="#">**Validação**</a>
