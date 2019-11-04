@@ -52,7 +52,7 @@ Validação realizada somente nos artefatos que forem refatorados segundo a aval
 ***
 ## Referências
 
-1. **[Storytelling]**  <a href="https://www.trekksoft.com/en/blog/10-steps-to-mastering-the-art-of-storytelling"> .</a>
+1. **[Storytelling]**  <a href="https://www.trekksoft.com/en/blog/10-steps-to-mastering-the-art-of-storytelling"> 10 steps to master storytelling</a>
 ---
 
 
