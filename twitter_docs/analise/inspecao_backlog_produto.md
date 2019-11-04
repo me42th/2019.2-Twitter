@@ -106,6 +106,25 @@ _Autor da avaliação técnica:_ Fernando Aguilar</br>
 
 ## **Parecer técnico**
 
+**Parecer do refatorador**</br>
+*Autor:* Erick Giffoni
+
+**O artefato foi refatorado**.</br>
+Algumas observações :
+
+- US06 - o link para a US não está quebrado ;
+- US07 - o link para o UC não está quebrado ;
+- US08 - o link para o UC não está quebrado ;
+- US09 - o link para o UC não está quebrado ;
+- US10 - o link para o UC não está quebrado ;
+- US11 - o link para o UC não está quebrado ;
+- US12 - o link para o UC não está quebrado ;
+- US13 - o link para o UC não está quebrado ;
+- US14 - o link para o UC não está quebrado ;
+- US15 - o link para o UC não está quebrado ;</br>
+Consertei todos os links acima.</br>
+- US17 - adicionei outros *critérios* de aceitação .
+
 ## <a href="#">**Validação**</a>
 
 ### Validação por _Persona_
@@ -134,3 +153,4 @@ _Autor da avaliação técnica:_ Fernando Aguilar</br>
 | Data       | Autor            | Descrição         | Versão |
 | ---------- | ---------------- | ----------------- | ------ |
 | 02/11/2019 | Fernando Aguilar | Criação da página | 0.1    |
+| 04/11/2019 | Erick Giffoni | Adição do parecer do refatorador | 0.2 |

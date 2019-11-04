@@ -22,7 +22,8 @@
 ##Especificações
 ***
 
-### UC01 - Efetuar Login
+<span id="UC01"></span>
+### <a href="#UC01">UC01</a> - Efetuar Login
 
 **Autore(s):** Aline Laureano. </br>
 **Versão:** 0.1
@@ -38,7 +39,7 @@
 | **Fluxo(s) de exceção** | [FE01] Falha de conexão com a internet:</br>No passo 2 do [FP01] ocorre uma falha de conexão com a Internet. |
 
 <span id="UC02"></span>
-### UC02 - Efetuar Cadastro
+### <a href="#UC02">UC02</a> - Efetuar Cadastro
 
 **Autore(s):** Aline Laureano. </br>
 **Versão:** 0.1
@@ -53,7 +54,8 @@
 | **Fluxo(s) Alternativos** | - |
 | **Fluxo(s) de exceção** | [FE01] Falha de conexão com a internet:</br>No passo 1 do [FP01] ocorre uma falha de conexão com a Internet. |
 
-### UC03 - Navegar na Homepage
+<span id="UC03"></span>
+### <a href="#UC03">UC03</a> - Navegar na Homepage
 
 **Autore(s):** Aline Laureano. </br>
 **Versão:** 0.1
@@ -68,7 +70,8 @@
 | **Fluxo(s) Alternativos** | - |
 | **Fluxo(s) de exceção** |[FE01] Falha de conexão com a internet:</br>No passo 1 do [FP01] ocorre uma falha de conexão com a Internet. |
 
-### UC04 - Ver Tweet
+<span id="UC04"></span>
+### <a href="#UC04">UC04</a> - Ver Tweet
 
 **Autore(s):** Aline Laureano. </br>
 **Versão:** 0.1
@@ -83,7 +86,8 @@
 | **Fluxo(s) Alternativos** | [FA01] Ver tweets do perfil de outro usuário:</br>No passo 1, ao invés do usuário navegar pela Homepage ele vai:</br>1. Acessar o perfil de outro usuário;</br>2. Navegar pela página de perfil do outro usuário;</br>3. Visualizar e interagir com os tweets publicados pelo outro usuário. |
 | **Fluxo(s) de exceção** | [FE01] Falha de conexão com a internet:</br>No passo 1 do [FP01] ocorre uma falha de conexão com a Internet. |
 
-### UC05 - Gostar do Tweet
+<span id="UC05"></span>
+### <a href="#UC05">UC05</a> - Gostar do Tweet
 
 **Autore(s):** Aline Laureano. </br>
 **Versão:** 0.1
@@ -98,7 +102,8 @@
 | **Fluxo(s) Alternativos** | - |
 | **Fluxo(s) de exceção** | [FE01] Falha de conexão com a internet:</br>No passo 2 do [FP01] ocorre uma falha de conexão com a Internet. |
 
-### UC06 - Dar Retweet
+<span id="UC06"></span>
+### <a href="#UC06">UC06</a> - Dar Retweet
 
 **Autore(s):** Aline Laureano. </br>
 **Versão:** 0.1
@@ -113,7 +118,8 @@
 | **Fluxo(s) Alternativos** | - |
 | **Fluxo(s) de exceção** | [FE01] Falha de conexão com a internet:</br>No passo 2 do [FP01] ocorre uma falha de conexão com a Internet. |
 
-### UC07 - Comentar tweet
+<span id="UC07"></span>
+### <a href="#UC07">UC07</a> - Comentar tweet
 
 **Autore(s):** Aline Laureano. </br>
 **Versão:** 0.1
@@ -128,7 +134,8 @@
 | **Fluxo(s) Alternativos** | - |
 | **Fluxo(s) de exceção** | [FE01] Falha de conexão com a internet:</br>No passo 2 do [FP01] ocorre uma falha de conexão com a Internet. |
 
-### UC08 - Salvar tweet
+<span id="UC08"></span>
+### <a href="#UC08">UC08</a> - Salvar tweet
 
 **Autore(s):** Aline Laureano. </br>
 **Versão:** 0.1
@@ -143,7 +150,8 @@
 | **Fluxo(s) Alternativos** | - |
 | **Fluxo(s) de exceção** | [FE01] Falha de conexão com a internet:</br>No passo 2 do [FP01] ocorre uma falha de conexão com a Internet. |
 
-### UC09 - Buscar na Barra de pesquisa
+<span id="UC09"></span>
+### <a href="#UC09">UC09</a> - Buscar na Barra de pesquisa
 
 **Autore(s):** Aline Laureano. </br>
 **Versão:** 0.1
@@ -158,7 +166,8 @@
 | **Fluxo(s) Alternativos** | - |
 | **Fluxo(s) de exceção** | [FE01] Falha de conexão com a internet:</br>No passo 3 do [FP01] ocorre uma falha de conexão com a Internet.</br>[FE02] Nenhum resultado encontrado:</br>No passo 4 do [FP01], é mostrado, no local destinado aos resultados da pesquisa, a mensagem de que nenhum resultado foi encontrado. |
 
-### UC10 - Buscar Palavra
+<span id="UC10"></span>
+### <a href="#UC10">UC10</a> - Buscar Palavra
 
 **Autore(s):** Aline Laureano. </br>
 **Versão:** 0.1
@@ -173,7 +182,8 @@
 | **Fluxo(s) Alternativos** | - |
 | **Fluxo(s) de exceção** | [FE01] Falha de conexão com a internet:</br>No passo 3 do [FP01] ocorre uma falha de conexão com a Internet.</br>[FE02] Nenhum resultado encontrado:</br>No passo 4 do [FP01], é mostrado, no local destinado aos resultados da pesquisa, a mensagem de que nenhum resultado foi encontrado. |
 
-### UC11 - Buscar Hashtags
+<span id="UC11"></span>
+### <a href="#UC11">UC11</a> - Buscar Hashtags
 
 **Autore(s):** Lorrany Azevedo. </br>
 **Versão:** 0.1
@@ -188,7 +198,8 @@
 | **Fluxo(s) Alternativos** | [FA11] Possibilidade de ver tweets além dos destaques </br> O Usuário pode escolher ver os tweets mais recentes que usaram aquela hashtag, ver pessoas, fotos e vídeos que usaram a hashtag. |
 | **Fluxo(s) de exceção** | [FE11]  Notificação de hashtag inexistente </br> Caso a hashtag buscada pelo usuário não exista, é retornada uma mensagem dizendo que nenhum resultado foi encontrado.|
 
-### UC12 - Ver tópicos sugeridos
+<span id="UC12"></span>
+### <a href="#UC12">UC12</a> - Ver tópicos sugeridos
 
 **Autore(s):** Lorrany Azevedo. </br>
 **Versão:** 0.1
@@ -203,7 +214,8 @@
 | **Fluxo(s) Alternativos** | [FA12] Possibilidade de apenas realizar a busca </br> Possibilidade de apenas realizar a busca |
 | **Fluxo(s) de exceção** | [FE12] Não identificados |
 
-### UC13 - Reportar conteúdo
+<span id="UC13"></span>
+### <a href="#UC13">UC13</a> - Reportar conteúdo
 
 **Autore(s):** Lorrany Azevedo. </br>
 **Versão:** 0.1
@@ -218,7 +230,8 @@
 | **Fluxo(s) Alternativos** | [FA13] Usuário apenas denúncia o tweet </br> O Usuário pode escolher após a denúncia não silenciar ou bloquear o autor do tweet |
 | **Fluxo(s) de exceção** | [FE12]  Denúncia inválida </br> Caso o Usuário faça a denúncia e o twitter decida que a publicação não fere as diretrizes do site, o usuário seŕa notificado se a publicação foi retirada ou não do ar por violar as diretrizes do twitter|
 
-### UC14 - Ver notificações
+<span id="UC14"></span>
+### <a href="#UC14">UC14</a> - Ver notificações
 
 **Autore(s):** Lorrany Azevedo. </br>
 **Versão:** 0.1
@@ -233,7 +246,8 @@
 | **Fluxo(s) Alternativos** | [FA14] O Usuário pode escolher como interagir com a notificação </br> O Usuário pode escolher responder o tweet ou mensagem direta que gerou a notificação, ele pode curtir o tweet, pode retweetar ou pode apenas visualizar a notificação |
 | **Fluxo(s) de exceção** | [FE14] Desativar notificações </br> Caso o Usuário se sinta incomodado pelas notificações ele pode desativá-las|
 
-### UC15 - Interação com outros usuários
+<span id="UC15"></span>
+### <a href="#UC15">UC15</a> - Interação com outros usuários
 
 **Autore(s):** Lorrany Azevedo. </br>
 **Versão:** 0.1
@@ -248,7 +262,8 @@
 | **Fluxo(s) Alternativos** | [FA15] O Usuário pode escolher apenas visualizar as publicações |
 | **Fluxo(s) de exceção** | [FE15] Limitar interações </br> Caso o Usuário queira ele pode trancar o seu perfil para que apenas seus seguidores consigam visualizar suas publicações e interagir com elas, ele pode também trancar a caixa de mensagens|
 
-### UC16 - Seguir outros usuários
+<span id="UC16"></span>
+### <a href="#UC16">UC16</a> - Seguir outros usuários
 
 **Autore(s):** Lorrany Azevedo. </br>
 **Versão:** 0.1
@@ -263,7 +278,8 @@
 | **Fluxo(s) Alternativos** | [FA16] Seguir pessoas sugeridas </br> O usuário pode seguir as pessoas recomendadas pelo twitter. |
 | **Fluxo(s) de exceção** | [FE16] Não usuário pode optar por não seguir ninguém|
 
-### UC17 - Enviar mensagens diretas
+<span id="UC17"></span>
+### <a href="#UC17">UC17</a> - Enviar mensagens diretas
 
 **Autore(s):** Lorrany Azevedo. </br>
 **Versão:** 0.1
@@ -278,7 +294,8 @@
 | **Fluxo(s) Alternativos** | [FA17]  </br> O usuário pode habilitar a caixa de mensagem para receber mensagem de qualquer usuário do twitter |
 | **Fluxo(s) de exceção** | [FE17] O usuário pode trancar a sua caixa de mensagens|
 
-### UC18 - Criar tweets
+<span id="UC18"></span>
+### <a href="#UC18">UC18</a> - Criar tweets
 
 **Autore(s):** Lorrany Azevedo. </br>
 **Versão:** 0.1
@@ -293,7 +310,8 @@
 | **Fluxo(s) Alternativos** | [FA18]  </br> O usuário pode publicar em resposta a tweets de outras pessoas|
 | **Fluxo(s) de exceção** | [FE18] Não identificado|
 
-### UC19 - Editar perfil
+<span id="UC19"></span>
+### <a href="#UC19">UC19</a> - Editar perfil
 
 **Autore(s):** Lorrany Azevedo. </br>
 **Versão:** 0.1
@@ -309,7 +327,7 @@
 | **Fluxo(s) de exceção** | [FE19] O usuário pode não fazer nenhuma alteração em seu perfil apenas clicando em "salvar"|
 
 <span id="UC20"></span>
-### UC20 - Acessar central de ajuda
+### <a href="#UC20">UC20</a> - Acessar central de ajuda
 
 **Autore(s):** Lorrany Azevedo. </br>
 **Versão:** 0.1
@@ -331,10 +349,9 @@
 | Data | Autor | Descrição | Versão |
 |------|-------|-----------|--------|
 | 24/09/2019 | Aline Laureano, Lorrany Azevedo | Criação da página e inserção do Caso de uso SISTEMA GERAL. | 0.1 |
-|
 | 27/09/2019 | Lorrany Azevedo |Especificação dos requisitos UC11 até o UC20 | 0.2 |
 | 30/09/2019 | Aline Laureano |Especificação dos requisitos UC01 até o UC10 & adição dos autores e das versões das especificações. | 0.3 |
 | 18/10/2019 | Aline Laureano | Adição da versão 0.2 do diagrama de Caso de uso SISTEMA GERAL.  | 0.4 |
-
+| 04/11/2019 | Erick Giffoni | Adição dos id's de identificação de cada UC para ser possível acessá-las via link | 1.0 |
 
 ***
