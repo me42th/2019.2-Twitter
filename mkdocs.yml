@@ -24,6 +24,8 @@ nav:
       - Inspeção - Entrevistas: analise/inspecao_entrevistas.md
       - Inspeção - Backlog do Produto: analise/inspecao_backlog_produto.md
       - Inspeção - NFR: analise/inspecao_nfr.md
+      - Inspeção - Cenários: analise/inspecao_cenarios.md
+      - Inspeção - Léxicos: analise/inspecao_lexicos.md
     - Outros artefatos:
       - PDCA: outros_artefatos/PDCA.md
       - 5W2H: outros_artefatos/5w2h.md

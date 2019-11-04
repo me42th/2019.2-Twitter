@@ -61,7 +61,7 @@ incluidos no componente ator?
 
 ### Levantamento de Dados a partir da Avaliação
 
-| Critério nº | Quantidade de Cenários que Atendem o Critério | Quantidade de Cenários que **Não** Atendem o Critério |Cenários a serem Refatorados|
+| Critério | Quantidade de Cenários que Atendem o Critério | Quantidade de Cenários que **Não** Atendem o Critério |Cenários a serem Refatorados|
 |-------------|---------------------|--------------------------|-----------------|
 | Não possuem ambiguidades e redundâncias |   5 | 1 |Comentar Tweets |
 | Objetivos Precisos e Concretos | 6 | 0 | - |

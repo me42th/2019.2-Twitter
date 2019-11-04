@@ -51,6 +51,18 @@ com outros símbolos?
 ---
 
 
+### Levantamento de Dados a partir da Avaliação
+
+| Critério | Quantidade de Cenários que Atendem o Critério | Quantidade de Cenários que **Não** Atendem o Critério |Cenários a serem Refatorados|
+|-------------|---------------------|--------------------------|-----------------|
+| Os Léxicos contemplam o conjunto de entidades de entidades necessárias |   12 | 0 |Trending, Tweet, Efetuar Login, Interações com Postagens, Notificações, Seguidor, Direct Message, Tweetar, Perfil, Para Você, Twitter, Hashtag|
+| A noção descreve o significado e as relações fundamentais de existência do símbolo com outros símbolos? | 8 | 4 | Twitter, Login, Perfil, Para Você |
+| O impacto descreve a repercussão do símbolo(léxico) no sistema? | 10 | 2 | Perfil, Para Você|
+|Circularidades (HyperLex) funcionando corretamente| 12 | 0 | - |
+| Princípio do Vocabulário Mínimo| 8 | 4 | Trending, Interações com Postagem, Perfil, Hashtag |
+| A Classificação do Léxico é coerente com o que está sendo descrito? | 10 | 2 | Interação com postagens, Notificações|
+| Os Léxicos estão descritos em linguagem natural para uma comunicação saudável entre os stakeholders | 12 | 0 |-|
+
 ## <a href="#">**Validação**</a>
 ***
 ### Validação por *Persona*
