@@ -53,6 +53,10 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 #### Critérios de aceitação:
 - Ter uma página de cadastro para o Twitter;
 - Ter uma integração e uma validação do número de telefone do visitante com a conta a ser criada;
+- Ter uma integração e uma validação a partir do email do visitante com a conta a ser criada;
+- Exigir que o visitante crie uma senha ;
+- Definir critérios de segurança para a criação da senha ;
+- Validar a senha criada ;
 - Ter um cadastro do nome usuário único para a conta a ser criada.
 - O visitante deve ser capaz de acessar a página de cadastro do Twitter;
 - O visitante deve conseguir validar o seu número de celular inserindo um código de confirmação enviado pelo Twitter por SMS;
@@ -78,7 +82,13 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 - A opção de ter uma foto de perfil deve existir ;
 - O usuário pode mudar a foto no momento que quiser ;
 - Outros usuários não podem mudar a foto de perfil que não seja a deles mesmos ;
-- Ao mudar a foto de perfil, um <a href="../lexicos/lexicos-1_0/#lxTweet">Tweet</a> deve ser automaticamente postado pelo sistema.
+- Ao mudar a foto de perfil, um <a href="../lexicos/lexicos-1_0/#lxTweet">Tweet</a> deve ser automaticamente postado pelo sistema ;
+- Definir um critério sobre o tamanho da foto adicionada, em megabytes ;
+- Permitir que o usuário fique sem foto de perfil, por quanto tempo ele desejar ;
+- Permitir que o usuário tire uma foto, a partir do Twitter, para adicioná-la como foto de perfil ;
+- Permitir que o usuário, por meio do Twitter, acesse a galeria de fotos do celular dele e escolha uma foto de perfil ;
+- Validar a foto escolhida pelo usuário para que ela não ultrapasse o tamanho permitido ;
+- Validar a foto escolhida pelo usuário para que ela não tenha conteúdo violento, sexual ou de apologia ao uso ou ao tráfico de drogas
 
 <span id="US04"></span>
 ### <a href="#US04">**[US04]**</a> Eu, como usuário, desejo poder escolher outro nome de usuário (@).
@@ -118,8 +128,14 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 **Autor: Eugênio**
 
 #### Critérios de aceitação:
-- O usuário pode inserir um texto de no máximo 500 caracteres
-- O usuário pode cometer erros de digitação e deve encontrar tópicos sugeridos
+- O usuário pode inserir um texto de no máximo 500 caracteres ;
+- O usuário pode cometer erros de digitação ;
+- O usuário deve encontrar tópicos sugeridos ;
+- A barra de pesquisa deve existir ;
+- A busca pode ser feita por hashtags ;
+- A busca pode ser feita utilizando números ;
+- A busca pode ser por @ (nome de usuário, com ou sem @) ;
+- Analisar o texto digitado na barra de pesquisa para que não seja um código malicioso ;
 
 <span id="US08"></span>
 ### <a href="#US08">**[US08]**</a> Eu, como usuário, desejo buscar uma hashtag na barra de pesquisa
@@ -213,7 +229,11 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 #### Critérios de aceitação:
 - O usuário pode enviar tweets públicos para outro usuário utilizando o seu handler (@)
 - O usuário pode enviar imagens ou gifs ou mencionar outro usuário em um comentário
-- Qualquer usuário pode enviar mensagens publicamente para outra pessoa.
+- Qualquer usuário pode enviar mensagens publicamente para outra pessoa
+- Ao fazer a menção a outro usuário, este deve existir (o sistema deve verificá-lo)
+- O usuário que foi mencionado pode reportar a menção
+- O usuário mencinado pode reportar o outro usuário em relação à menção
+- Se o tweet for excluído, a menção não pode existir mais, ela deve ser excluída também, pelo sistema 
 
 <span id="US018"></span>
 ### <a href="#US018">**[US018]**</a> Eu, como usuário, desejo curtir ou comentar o tweet de outro usuário
@@ -246,3 +266,4 @@ Requisitos. <a href="http://livrodeengenhariaderequisitos.blogspot.com.br/">**ht
 | 21/10/2019 | Bruno Duarte | Adicionando Épicos e US sobre Tweet| 0.5 |
 | 21/10/2019 | Fernando Aguilar | Adicionando Épicos e US sobre Interagir com outro usuário| 0.6 |
 | 22/10/2019 | Erick Giffoni | Adição dos autores de cada US | 0.6.1 |
+| 04/11/2019 | Erick Giffoni | Refatoração do Backlog conforme parecer técnico da inspeção realizada | 1.0 |
