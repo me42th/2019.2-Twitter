@@ -61,20 +61,16 @@ incluidos no componente ator?
 
 ### Levantamento de Dados a partir da Avaliação
 
-| Critério nº | Atendem o Critério | Não Atendem o Critério  |Cenários a serem Refatorados|
-|-------------|---------------------|--------------------------|-----------------|----------------------------|
-| Não possuem ambiguidades e redundâncias |   5 | 1 | Comentar Tweets | Os **membros do grupo** deverão criar mais cenários para mapear e maximizar as possibilidades do usuário na plataforma |
-| Objetivos Precisos e Concretos | 6 | 0 | - |  Alguns Cenários podem ser sintetizados em um único cenário. Exemplo: O cenário comentar tweet pode ser merjado no cenário de criar tweets |
+| Critério nº | Atendem o Critério | Não Atendem o Critério|Cenários a serem Refatorados|
+|-------------|---------------------|--------------------------|-----------------|
+| Não possuem ambiguidades e redundâncias |   5 | 1 |Comentar Tweets |
+| Objetivos Precisos e Concretos | 6 | 0 | - |
 | Hyperlinks Funcionando Corretamente | 0 | 6 | Trending Topics, Login, Enviar Mensagem, Criar Tweets, Explorar Comentar Tweets|
-|Os Cenários contemplam todos os tópicos necessários para realização da estratégia | 6 | 0 | - | |
-| O tempo verbal presente deve ser preferido na descrição episódios | 6 | 0 | - |  |
-| Todos os atores mencionados nos episódios estão incluidos no componente ator? | 1 | 5 | Trending Topics, Enviar Mensagem, Criar Tweets, Explorar Comentar Tweets | - |
-| A entidade Contexto apresenta a Localização e a Pré-Condição do cenário descrito | 0 | 6 | Trending Topics, Login, Enviar Mensagem, Criar Tweets, Explorar Comentar Tweets | Alguns atores não estão descritos na entidade **Atores**. Em alguns casos não incluiram o próprio sistema como ator do cenário. |
-
+|Os Cenários contemplam todos os tópicos necessários para realização da estratégia | 6 | 0 | - |
+| O tempo verbal presente deve ser preferido na descrição episódios | 6 | 0 | - |
+| Todos os atores mencionados nos episódios estão incluidos no componente ator? | 1 | 5 | Trending Topics, Enviar Mensagem, Criar Tweets, Explorar Comentar Tweets |
+| A entidade Contexto apresenta a Localização e a Pré-Condição do cenário descrito | 0 | 6 | Trending Topics, Login, Enviar Mensagem, Criar Tweets, Explorar Comentar Tweets |
 ---
-
-
-
 ## <a href="#">**Validação**</a>
 Validação realizada somente nos artefatos que forem refatorados segundo a avaliação técnica acima.
 
