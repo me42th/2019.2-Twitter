@@ -255,15 +255,25 @@ Essa coluna diz respeito a quem o requisito levantado se refere, ou seja, há tr
 
 ***
 ## <a href="#">**Validação**</a>
-Validação realizada somente nos artefatos que forem refatorados segundo a avaliação técnica acima.
+***
+
+### Validação *técnica*
+
+*Autor:* Erick Giffoni </br>
+
+A partir da verificação feita acima, o artefato <a href="../../elicitacao/requisitos/#tabela-de-requisitos">**[MoSCoW e Requisitos]**</a> foi refatorado.
+
+Assim, com o artefato refatorado, considerando as devidas mudanças sugeridas, declaro que ele está tecnicamente **validado**.
 
 ***
 ### Validação por *Persona*
 
 ***
 #### Definição da *Persona*
-*Autor:* Erick Giffni</br>
-> Colocar aqui o texto que define a persona criada.
+*Autor:* Erick Giffoni</br>
+> Maria Júlia é uma menina de 17 anos que está no terceiro ano do ensino médio e que usa redes sociais constantemente, quase 18h por dia. Ela não tem muito conhecimento em tecnologia da informação, mas pretende cursar nessa área em alguma faculdade pública. O conhecimento relevante que ela tem, relacionado à engenharia de requisitos, deve-se ao tempo que passou de férias com seu tio, Val Disnêi, um desenvolvedor de software que está há mais de 30 anos no mercado. Na última férias dela, eles passaram um tempo juntos no trabalho dele, onde ela pode acompanhar um pouco da rotina de desenvolvimento de um novo sistema : o Instagrão.
+
+Para a validação do MoSCoW e Requisitos, Maria Júlia foi submetida a usar o Twitter por 15 dias. Após esse período, ela se reuniu com nosso time e, na ocasião, pôde validar os requisitos que nós levantamos para esse sistema.
 
 ***
 #### Resultado da Validação - na visão da *Persona*
@@ -273,11 +283,11 @@ Validação realizada somente nos artefatos que forem refatorados segundo a aval
 
 *Versão do artefato:* 0.2 </br>
 *Link para o artefato:* <a href="../../elicitacao/requisitos/#tabela-de-requisitos">**[MoSCoW e Requisitos]**</a> </br>
-*Autor:* Erick Giffni</br>
+*Autor:* Erick Giffoni</br>
 
 > *Parecer da <i>Persona</i>:*
 
-> "Colocar aqui o texto que descreve a visão da persona sobre o artefato."
+> "A tabela de requisitos e moscow que vocês construiram está bem feita. Apesar de eu não ter muito conhecimento nessa área, consegui entender tudo. Em relação aos desejos do usuário, me senti completamente atendida com os requisitos que vocês levantaram, então eu os declaro como **validados**. Fica a ressalva que talvez seja possível levantar mais requisitos."
 
 
 ***
@@ -298,3 +308,5 @@ Validação realizada somente nos artefatos que forem refatorados segundo a aval
 | 01/11/2019 | Erick Giffoni | Adição dos critérios para o check-list. | 0.1.2 |
 | 01/11/2019 | Erick Giffoni | Classificação de alguns requisitos no check-list | 0.1.3 |
 | 02/11/2019 | Erick Giffoni | Conclusão do check-list | 1.0 |
+| 05/11/2019 | Erick Giffoni | Adição da validação técnica | 2.0 |
+| 05/11/2019 | Erick Giffoni | Adição da validação por persona | 3.0 |

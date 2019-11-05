@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../../img/favicon.ico">
-        <title>RichPicture - Twitter Requirements</title>
+        <title>Inspeção - Léxicos - Twitter Requirements</title>
         <link href="../../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../../css/font-awesome.min.css" rel="stylesheet">
         <link href="../../css/base.css" rel="stylesheet">
@@ -46,12 +46,12 @@
                 <div class="navbar-collapse collapse">
                         <!-- Main navigation -->
                         <ul class="nav navbar-nav">
-                            <li class="dropdown active">
+                            <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pŕe-rastreabilidade <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     
-<li class="active">
-    <a href="./">RichPicture</a>
+<li >
+    <a href="../../pre-rastreabilidade/richpicture/">RichPicture</a>
 </li>
                                 </ul>
                             </li>
@@ -113,40 +113,40 @@
 </li>
                                 </ul>
                             </li>
-                            <li class="dropdown">
+                            <li class="dropdown active">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Análise <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     
 <li >
-    <a href="../../analise/definicao/">Definição</a>
+    <a href="../definicao/">Definição</a>
 </li>
                                     
 <li >
-    <a href="../../analise/inspecao_rich_picture/">Inspeção RichPicture - Template</a>
+    <a href="../inspecao_rich_picture/">Inspeção RichPicture - Template</a>
 </li>
                                     
 <li >
-    <a href="../../analise/inspecao_moscow_requisitos/">Inspeção - MoSCoW e Requisitos</a>
+    <a href="../inspecao_moscow_requisitos/">Inspeção - MoSCoW e Requisitos</a>
 </li>
                                     
 <li >
-    <a href="../../analise/inspecao_entrevistas/">Inspeção - Entrevistas</a>
+    <a href="../inspecao_entrevistas/">Inspeção - Entrevistas</a>
 </li>
                                     
 <li >
-    <a href="../../analise/inspecao_backlog_produto/">Inspeção - Backlog do Produto</a>
+    <a href="../inspecao_backlog_produto/">Inspeção - Backlog do Produto</a>
 </li>
                                     
 <li >
-    <a href="../../analise/inspecao_nfr/">Inspeção - NFR</a>
+    <a href="../inspecao_nfr/">Inspeção - NFR</a>
 </li>
                                     
 <li >
-    <a href="../../analise/inspecao_cenarios/">Inspeção - Cenários</a>
+    <a href="../inspecao_cenarios/">Inspeção - Cenários</a>
 </li>
                                     
-<li >
-    <a href="../../analise/inspecao_lexicos/">Inspeção - Léxicos</a>
+<li class="active">
+    <a href="./">Inspeção - Léxicos</a>
 </li>
                                 </ul>
                             </li>
@@ -175,18 +175,18 @@
                                 <i class="fa fa-search"></i> Search
                             </a>
                         </li>
-                            <li class="disabled">
-                                <a rel="next" >
+                            <li >
+                                <a rel="next" href="../inspecao_cenarios/">
                                     <i class="fa fa-arrow-left"></i> Previous
                                 </a>
                             </li>
                             <li >
-                                <a rel="prev" href="../../elicitacao/entrevistas/entrevistas/">
+                                <a rel="prev" href="../../outros_artefatos/PDCA/">
                                     Next <i class="fa fa-arrow-right"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://github.com/Requisitos2-2019/Twitter/edit/master/docs/pre-rastreabilidade/richpicture.md"><i class="fa fa-github"></i> Edit on GitHub</a>
+                                <a href="https://github.com/Requisitos2-2019/Twitter/edit/master/docs/analise/inspecao_lexicos.md"><i class="fa fa-github"></i> Edit on GitHub</a>
                             </li>
                     </ul>
                 </div>
@@ -196,8 +196,11 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#richpicture">RichPicture</a></li>
-            <li><a href="#artefatos-desenvolvidos">Artefatos desenvolvidos</a></li>
+        <li class="main active"><a href="#inspecao-lexicos">Inspeção - Léxicos</a></li>
+            <li><a href="#verificacao">Verificação</a></li>
+            <li><a href="#validacao">Validação</a></li>
+            <li><a href="#referencias">Referências</a></li>
+            <li><a href="#4-cl-uma-ferramenta-para-edicao-e-visualizacao-de-cenarios-e-lexicos">4. [C&amp;L]  Uma ferramenta para Edição e Visualização de Cenários e Léxicos.</a></li>
             <li><a href="#versionamento-de-edicoes-desta-pagina">Versionamento de edições desta página</a></li>
     </ul>
 </div></div>
@@ -205,16 +208,193 @@
 
 <p><span style="margin-left: 40%;"><img alt="Twitter Logo" src="../../images/twitter-logo-100px.png" /></span></p>
 <hr />
-<h1 id="richpicture">RichPicture</h1>
-<p>O RichPicture é uma técnica que serve para a obtenção do entendimento de algum sistema. Ele é desenvolvido, inicialmente, à mão-livre, podendo ser criado em conjunto com o(s) cliente(s).</p>
+<h1 id="inspecao-lexicos">Inspeção - Léxicos</h1>
+<h2 id="verificacao"><a href="#"><strong>Verificação</strong></a></h2>
+<h3 id="criterios-de-aceitacao-check-list">Critérios de aceitação - <em>Check-list</em></h3>
+<p><strong>Autor dos critérios:</strong> Bruno Duarte</p>
+<blockquote>
+<ol>
+<li>
+<p>Os Léxicos contemplam o conjunto de entidades de entidades necessárias?</p>
+</li>
+<li>
+<p>A noção descreve o significado e as
+relações fundamentais de existência do símbolo
+com outros símbolos?</p>
+</li>
+<li>
+<p>O impacto descreve a repercussão do símbolo(léxico) no sistema?</p>
+</li>
+<li>
+<p>Circularidades (HyperLex) funcionando corretamente</p>
+</li>
+<li>
+<p>Princípio do Vocabulário Mínimo</p>
+</li>
+<li>
+<p>A Classificação do Léxico é coerente com o que está sendo descrito?</p>
+</li>
+<li>
+<p>Os Léxicos estão descritos em linguagem natural para uma comunicação saudável entre os <em>stakeholders</em></p>
+</li>
+<li>
+<p>Quantidade significativa de léxicos gerados</p>
+</li>
+</ol>
+</blockquote>
 <hr />
-<h2 id="artefatos-desenvolvidos">Artefatos desenvolvidos</h2>
-<p><span id="RichPicture01"></span></p>
-<h3 id="richpicture01-visao-geral-do-twitter">[RichPicture01] - Visão Geral do Twitter</h3>
-<p><em>Versão:</em> 0.1 </br>
-<em>Autor(es):</em> Todos os integrantes do grupo.
-<img alt="Twitter Richpicture" src="../../images/richpicture.jpg" /></p>
+<h3 id="resultados-da-avaliacao-tecnica-inicial">Resultados da avaliação técnica inicial</h3>
+<p><em>Versão do artefato:</em> 0.2 </br>
+<em>Link para o artefato:</em> <a href="../../modelagem/lexicos/lexicos"><strong>[Léxicos]</strong></a> </br>
+<em>Autor da avaliação técnica:</em> Bruno Duarte</br></p>
+<table>
+<thead>
+<tr>
+<th>Critério nº</th>
+<th>Atende ao critério?</th>
+<th>Classificação do defeito</th>
+<th>Tipo do defeito</th>
+<th>Pontos a serem trabalhados</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Sim</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Não</td>
+<td>Mediano</td>
+<td>Mínimo</td>
+<td>Algumas noções não contemplam as relações com outros léxicos</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Não</td>
+<td>Simples</td>
+<td>Mínimo</td>
+<td>Alguns hyperlinks podem ser "forçados" nos Impactos do Sistema</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Sim</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Não</td>
+<td>Mediano</td>
+<td>Grave</td>
+<td>Alguns detalhamentos acerca dos léxicos estão um pouco extensivos o que pode prejudicar a compreensão de terceiras pessoas acerca do projeto. Sintetizar algumas descrições seria viável.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Não</td>
+<td>Simples</td>
+<td>Mínimo</td>
+<td>Conferir se a classificação condiz de fato com o que está sendo detalhado.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Sim</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Não</td>
+<td>Simples</td>
+<td>Mínimo</td>
+<td>A Confecção de mais léxicos pode ser útil para relacionar os artefatos(Hyperlex) e gerar maior abragência de informações do sistema</td>
+</tr>
+</tbody>
+</table>
 <hr />
+<h3 id="levantamento-de-dados-a-partir-da-avaliacao">Levantamento de Dados a partir da Avaliação</h3>
+<table>
+<thead>
+<tr>
+<th>Critério</th>
+<th>Quantidade de Cenários que Atendem o Critério</th>
+<th>Quantidade de Cenários que <strong>Não</strong> Atendem o Critério</th>
+<th>Cenários a serem Refatorados</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Os Léxicos contemplam o conjunto de entidades de entidades necessárias</td>
+<td>12</td>
+<td>0</td>
+<td>Trending, Tweet, Efetuar Login, Interações com Postagens, Notificações, Seguidor, Direct Message, Tweetar, Perfil, Para Você, Twitter, Hashtag</td>
+</tr>
+<tr>
+<td>A noção descreve o significado e as relações fundamentais de existência do símbolo com outros símbolos?</td>
+<td>8</td>
+<td>4</td>
+<td>Twitter, Login, Perfil, Para Você</td>
+</tr>
+<tr>
+<td>O impacto descreve a repercussão do símbolo(léxico) no sistema?</td>
+<td>10</td>
+<td>2</td>
+<td>Perfil, Para Você</td>
+</tr>
+<tr>
+<td>Circularidades (HyperLex) funcionando corretamente</td>
+<td>12</td>
+<td>0</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Princípio do Vocabulário Mínimo</td>
+<td>8</td>
+<td>4</td>
+<td>Trending, Interações com Postagem, Perfil, Hashtag</td>
+</tr>
+<tr>
+<td>A Classificação do Léxico é coerente com o que está sendo descrito?</td>
+<td>10</td>
+<td>2</td>
+<td>Interação com postagens, Notificações</td>
+</tr>
+<tr>
+<td>Os Léxicos estão descritos em linguagem natural para uma comunicação saudável entre os stakeholders</td>
+<td>12</td>
+<td>0</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+<h2 id="validacao"><a href="#"><strong>Validação</strong></a></h2>
+<hr />
+<h3 id="validacao-por-persona">Validação por <em>Persona</em></h3>
+<hr />
+<h4 id="definicao-da-persona">Definição da <em>Persona</em></h4>
+<p><em>Autor:</em> Bruno</br></p>
+<blockquote></blockquote>
+<hr />
+<h4 id="resultado-da-validacao-na-visao-da-persona">Resultado da Validação - na visão da <em>Persona</em></h4>
+<hr />
+<h2 id="referencias">Referências</h2>
+<ol>
+<li>
+<p>Leite, Julio &amp; Silva, Lyrene &amp; Breitman, Karin. (2005). C&amp;L: Uma Ferramenta de Apoio à Engenharia de Requisitos.. RITA. 12. 23-46. </p>
+</li>
+<li>
+<p>NITSCHE, Raquel; DE BORTOLI, Lis Ângela. E-LAL: Um Editor Para o Léxico Ampliado da Linguagem. INFOCOMP Journal of Computer Science, [S.l.], v. 5, n. 3, p. 59-67, sep. 2006. ISSN 1982-3363. Available at: <a href="http://www.dcc.ufla.br/infocomp/index.php/INFOCOMP/article/view/144">http://www.dcc.ufla.br/infocomp/index.php/INFOCOMP/article/view/144</a>. Date accessed: 03 nov. 2019</p>
+</li>
+<li>
+<p>CUNHA, Lucas Gonçalves. Tool for elicitation of goals from language extended lexicon. 2014. 102 f. Dissertação (Mestrado em Metodologias e técnicas da Computação; Sistemas de Computação) - Universidade Federal de Viçosa, Viçosa, 2014</p>
+</li>
+</ol>
+<h2 id="4-cl-uma-ferramenta-para-edicao-e-visualizacao-de-cenarios-e-lexicos">4. <strong>[C&amp;L]</strong> <a href="http://pes.inf.puc-rio.br/cel/index_old.htm"> Uma ferramenta para Edição e Visualização de Cenários e Léxicos.</a></h2>
 <h2 id="versionamento-de-edicoes-desta-pagina">Versionamento de edições desta página</h2>
 <table>
 <thead>
@@ -227,25 +407,20 @@
 </thead>
 <tbody>
 <tr>
-<td>28/08/2019</td>
-<td>Aline Laureano</td>
-<td>Criação da página.</td>
+<td>03/11/2019</td>
+<td>Bruno Duarte</td>
+<td>Criação da Página</td>
 <td>0.1</td>
 </tr>
 <tr>
-<td>02/09/2019</td>
-<td>Fernando Aguilar</td>
-<td>Upload do Richpicture.</td>
+<td>03/11/2019</td>
+<td>Bruno Duarte</td>
+<td>Adicionando Checklist de Verificação (Léxicos)</td>
 <td>0.2</td>
 </tr>
-<tr>
-<td>03/09/2019</td>
-<td>Aline Laureano</td>
-<td>Adição da logo do Twitter, da descrição da página e da descrição do RichPicture.</td>
-<td>0.3</td>
-</tr>
 </tbody>
-</table></div>
+</table>
+<hr /></div>
         </div>
 
         <footer class="col-md-12">

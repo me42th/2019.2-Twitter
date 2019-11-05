@@ -114,6 +114,43 @@
                                 </ul>
                             </li>
                             <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Análise <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../../analise/definicao/">Definição</a>
+</li>
+                                    
+<li >
+    <a href="../../analise/inspecao_rich_picture/">Inspeção RichPicture - Template</a>
+</li>
+                                    
+<li >
+    <a href="../../analise/inspecao_moscow_requisitos/">Inspeção - MoSCoW e Requisitos</a>
+</li>
+                                    
+<li >
+    <a href="../../analise/inspecao_entrevistas/">Inspeção - Entrevistas</a>
+</li>
+                                    
+<li >
+    <a href="../../analise/inspecao_backlog_produto/">Inspeção - Backlog do Produto</a>
+</li>
+                                    
+<li >
+    <a href="../../analise/inspecao_nfr/">Inspeção - NFR</a>
+</li>
+                                    
+<li >
+    <a href="../../analise/inspecao_cenarios/">Inspeção - Cenários</a>
+</li>
+                                    
+<li >
+    <a href="../../analise/inspecao_lexicos/">Inspeção - Léxicos</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Outros artefatos <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     
@@ -375,6 +412,10 @@
 <ul>
 <li>Ter uma página de cadastro para o Twitter;</li>
 <li>Ter uma integração e uma validação do número de telefone do visitante com a conta a ser criada;</li>
+<li>Ter uma integração e uma validação a partir do email do visitante com a conta a ser criada;</li>
+<li>Exigir que o visitante crie uma senha ;</li>
+<li>Definir critérios de segurança para a criação da senha ;</li>
+<li>Validar a senha criada ;</li>
 <li>Ter um cadastro do nome usuário único para a conta a ser criada.</li>
 <li>O visitante deve ser capaz de acessar a página de cadastro do Twitter;</li>
 <li>O visitante deve conseguir validar o seu número de celular inserindo um código de confirmação enviado pelo Twitter por SMS;</li>
@@ -399,7 +440,13 @@
 <li>A opção de ter uma foto de perfil deve existir ;</li>
 <li>O usuário pode mudar a foto no momento que quiser ;</li>
 <li>Outros usuários não podem mudar a foto de perfil que não seja a deles mesmos ;</li>
-<li>Ao mudar a foto de perfil, um <a href="../lexicos/lexicos-1_0/#lxTweet">Tweet</a> deve ser automaticamente postado pelo sistema.</li>
+<li>Ao mudar a foto de perfil, um <a href="../lexicos/lexicos-1_0/#lxTweet">Tweet</a> deve ser automaticamente postado pelo sistema ;</li>
+<li>Definir um critério sobre o tamanho da foto adicionada, em megabytes ;</li>
+<li>Permitir que o usuário fique sem foto de perfil, por quanto tempo ele desejar ;</li>
+<li>Permitir que o usuário tire uma foto, a partir do Twitter, para adicioná-la como foto de perfil ;</li>
+<li>Permitir que o usuário, por meio do Twitter, acesse a galeria de fotos do celular dele e escolha uma foto de perfil ;</li>
+<li>Validar a foto escolhida pelo usuário para que ela não ultrapasse o tamanho permitido ;</li>
+<li>Validar a foto escolhida pelo usuário para que ela não tenha conteúdo violento, sexual ou de apologia ao uso ou ao tráfico de drogas</li>
 </ul>
 <p><span id="US04"></span></p>
 <h3 id="us04-eu-como-usuario-desejo-poder-escolher-outro-nome-de-usuario"><a href="#US04"><strong>[US04]</strong></a> Eu, como usuário, desejo poder escolher outro nome de usuário (@).</h3>
@@ -439,8 +486,14 @@
 <p><strong>Autor: Eugênio</strong></p>
 <h4 id="criterios-de-aceitacao_6">Critérios de aceitação:</h4>
 <ul>
-<li>O usuário pode inserir um texto de no máximo 500 caracteres</li>
-<li>O usuário pode cometer erros de digitação e deve encontrar tópicos sugeridos</li>
+<li>O usuário pode inserir um texto de no máximo 500 caracteres ;</li>
+<li>O usuário pode cometer erros de digitação ;</li>
+<li>O usuário deve encontrar tópicos sugeridos ;</li>
+<li>A barra de pesquisa deve existir ;</li>
+<li>A busca pode ser feita por hashtags ;</li>
+<li>A busca pode ser feita utilizando números ;</li>
+<li>A busca pode ser por @ (nome de usuário, com ou sem @) ;</li>
+<li>Analisar o texto digitado na barra de pesquisa para que não seja um código malicioso ;</li>
 </ul>
 <p><span id="US08"></span></p>
 <h3 id="us08-eu-como-usuario-desejo-buscar-uma-hashtag-na-barra-de-pesquisa"><a href="#US08"><strong>[US08]</strong></a> Eu, como usuário, desejo buscar uma hashtag na barra de pesquisa</h3>
@@ -532,7 +585,11 @@
 <ul>
 <li>O usuário pode enviar tweets públicos para outro usuário utilizando o seu handler (@)</li>
 <li>O usuário pode enviar imagens ou gifs ou mencionar outro usuário em um comentário</li>
-<li>Qualquer usuário pode enviar mensagens publicamente para outra pessoa.</li>
+<li>Qualquer usuário pode enviar mensagens publicamente para outra pessoa</li>
+<li>Ao fazer a menção a outro usuário, este deve existir (o sistema deve verificá-lo)</li>
+<li>O usuário que foi mencionado pode reportar a menção</li>
+<li>O usuário mencinado pode reportar o outro usuário em relação à menção</li>
+<li>Se o tweet for excluído, a menção não pode existir mais, ela deve ser excluída também, pelo sistema </li>
 </ul>
 <p><span id="US018"></span></p>
 <h3 id="us018-eu-como-usuario-desejo-curtir-ou-comentar-o-tweet-de-outro-usuario"><a href="#US018"><strong>[US018]</strong></a> Eu, como usuário, desejo curtir ou comentar o tweet de outro usuário</h3>
@@ -604,6 +661,12 @@ Requisitos. <a href="http://livrodeengenhariaderequisitos.blogspot.com.br/"><str
 <td>Erick Giffoni</td>
 <td>Adição dos autores de cada US</td>
 <td>0.6.1</td>
+</tr>
+<tr>
+<td>04/11/2019</td>
+<td>Erick Giffoni</td>
+<td>Refatoração do Backlog conforme parecer técnico da inspeção realizada</td>
+<td>1.0</td>
 </tr>
 </tbody>
 </table></div>
