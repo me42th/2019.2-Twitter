@@ -13,8 +13,11 @@ Logo após isso, montamos uma planilha e, em conjunto, enumeramos e discutimos t
 Para ver os requisitos elicitados, visite a página [Requisitos](../requisitos.md)
 
 ***
-## Algumas entrevistas
-### Perguntas base utilizadas:
+<span id="Algumas entrevistas"></span>
+# Algumas entrevistas
+
+<span id="Perguntas"></span>
+## Perguntas base utilizadas:
 1. **Qual funcionalidade do Twitter você mais gosta? E qual você mais utiliza? Qual você menos gosta? Qual você menos utiliza?**
 2. **Você precisa de mais ou de menos tempo para fazer alguma ação no aplicativo? Se sim, de quanto?**
 3. **Você já teve seus dados vazados de alguma forma a partir do Twitter? Se não , conhece alguma história sobre isso?**
@@ -23,9 +26,14 @@ Para ver os requisitos elicitados, visite a página [Requisitos](../requisitos.m
 6. **Qual o diferencial do Twitter em relação as outras redes Sociais, na sua opinião?**
 7. **Você costuma interagir com os anúncios que aparecem pra você?**
 8. **Você já realizaou alguma compra a partir de um anúncio do Twitter?**
+***
 
+<span id="Respostas"></span>
 ## Respostas
-### Amanda Carvalho - 21 anos
+***
+
+<span id="Amanda"></span>
+## Amanda Carvalho - 21 anos
 ###### Entrevistadora : Aline
 1. A funcionalidade que eu mais gosto é a do retweet. O que eu mais utilizo são as funcionalidades de dar like e de dar retweet. A funcionalidade que eu menos gosto e utilizo é a de Direct Message.
 2. Gasto pouco tempo para fazer o que eu quiser no Twitter. A ação mais demorada que faço é a de escrever um tweet e ainda assim, levo no máximo 5 minutos para criar um novo tweet.
@@ -36,7 +44,8 @@ Para ver os requisitos elicitados, visite a página [Requisitos](../requisitos.m
 7. Sim.
 8. Não.
 
-### Harissane Luana - 17 anos
+<span id="Harissane"></span>
+## Harissane Luana - 17 anos
 ###### Entrevistador : Bruno
 1. Eu gosto das enquetes, utilizo mais o "fav", não tem uma funcionalidade que eu goste menos e utilizo menos o silenciador de palavras/pessoas
 2. Não.
@@ -47,7 +56,8 @@ Para ver os requisitos elicitados, visite a página [Requisitos](../requisitos.m
 7. Não, nem os promovidos.
 8. Não.
 
-### Maria Eduarda - 15 anos
+<span id="Duda"></span>
+## Maria Eduarda - 15 anos
 ###### Entrevistador : Erick
 1. O Twitter serve pra eu poder me distrair, ver memes muito engraçados e saber de várias notícias, além de poder desabafar lá. Eu vejo mais memes. Não há nada que eu não goste nem que menos utilize.
 2. Menos. Cerca de segundos.
@@ -58,7 +68,8 @@ Para ver os requisitos elicitados, visite a página [Requisitos](../requisitos.m
 7. Não.
 8. Não.
 
-### Mateus Oliverira - 23 anos
+<span id="Mateus"></span>
+## Mateus Oliverira - 23 anos
 ###### Entrevistador : Eugênio
 1. Mais gosto: Twittar, mais utilizo: Twittar, menos gosto: Explorar, menos utilizo: Explorar.
 2. Menos de 1 minuto.
@@ -69,7 +80,8 @@ Para ver os requisitos elicitados, visite a página [Requisitos](../requisitos.m
 7. Não.
 8. Não.
 
-### Yago - 24 anos
+<span id="Yago"></span>
+## Yago - 24 anos
 ###### Entrevistador : Fernando
 1. Retweet, o que menos utilizo é o like. O que eu menos gosto também é o like.
 2. Acho que está tranquilo o tempo que já tem.
@@ -80,7 +92,8 @@ Para ver os requisitos elicitados, visite a página [Requisitos](../requisitos.m
 7. Não.
 8. Não.
 
-### Luana - 19 anos
+<span id="Luana"></span>
+## Luana - 19 anos
 ###### Entrevistador : Fernando
 1. Uma das que eu mais gosto é a seleção e sugestão de tweets depois de um certo tempo fora da plataforma. A que eu menos utilizo é hashtags e trending topics. Mas principalmente hashtags.
 2.  Não, acho que no twitter é tudo bem rápido. Uma das coisas boas é que as informações correm muito rápido, e como os tweets são curtos você também absorve informação muito rápido.
@@ -91,7 +104,8 @@ Para ver os requisitos elicitados, visite a página [Requisitos](../requisitos.m
 7. Não.
 8. Não.
 
-### Marlon Mendes - 24 anos
+<span id="Marlon"></span>
+## Marlon Mendes - 24 anos
 ###### Entrevistadora : Lorrany
 1.  A de explorar novas notícias e novidades, não cobrir conteúdos explícitos que algumas pessoas possam ser sensíveis, encontrar novos amigos.
 2. 15 minutos.
@@ -110,3 +124,4 @@ Para ver os requisitos elicitados, visite a página [Requisitos](../requisitos.m
 | 11/09/2019 | Erick Giffoni | Adição inicial de uma entrevista. | 0.2 |
 | 11/09/2019 | Aline Laureano | Adição de mais entrevistas. | 0.3 |
 | 13/09/2019 | Erick Giffoni | Correção dos títulos das entrevistas e revisão ortográfica | 0.4
+| 12/11/2019 | Erick Giffoni | Adição de hyperlinks nos títulos e nos subtítulos | 1.0
