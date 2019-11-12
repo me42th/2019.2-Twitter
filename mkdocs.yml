@@ -26,6 +26,9 @@ nav:
       - Inspeção - NFR: analise/inspecao_nfr.md
       - Inspeção - Cenários: analise/inspecao_cenarios.md
       - Inspeção - Léxicos: analise/inspecao_lexicos.md
+    - Pós-rastreabilidade:
+      - Matriz forward-from: pos_rastreabilidade/forward-from.md
+      - Matriz backward-from: pos_rastreabilidade/backward-from.md
     - Outros artefatos:
       - PDCA: outros_artefatos/PDCA.md
       - 5W2H: outros_artefatos/5w2h.md
