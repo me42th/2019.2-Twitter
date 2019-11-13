@@ -4,6 +4,32 @@
 
 # Matriz forward-from
 
+### Meta-Modelo de Toranzo
+
+Para classificar as informações a serem rastreadas na nossa matriz forward-from, nós utilizamos o meta-modelo de Toranzo para classicá-las em quatro níveis:
+
+• Ambiental: informações oriundas do contexto no qual a organização
+está inserida;</br>
+• Organizacional: informações pertencentes à organização (missão,
+objetivos e estratégias);</br>
+• Gerencial: informações que auxiliam a gerência do projeto. </br>
+• Desenvolvimento: informações associadas aos diversos artefatos
+gerados ao longo do processo de desenvolvimento (artefatos de
+requisitos, diagramas, códigos, casos de teste e outros).</br>
+
+Já os principais elos definidos por Toranzo são: </br>
+
+• Satisfação: classe origem tem dependência de satisfação com a classe
+destino.</br>
+• Recurso: classe origem tem dependência de recurso com a classe
+destino.</br>
+• Responsabilidade: registra a participação, responsabilidade e ação de
+pessoas sobre artefatos.</br>
+• Representação: captura a representação ou modelagem dos requisitos
+em outras linguagens.</br>
+• Alocado: classe origem está relacionada à classe destino, que
+representa um subsistema.</br>
+• Agregação: indica “composição” de elementos.</br>
 
 ## Não Funcionais
 
