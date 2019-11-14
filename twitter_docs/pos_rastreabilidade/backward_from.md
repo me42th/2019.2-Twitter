@@ -6,7 +6,7 @@
 
 ### Meta-Modelo de Toranzo
 
-Para classificar as informações a serem rastreadas na nossa matriz backward-from, nós utilizamos o meta-modelo de Toranzo para classicá-las em quatro níveis:
+Para classificar as informações a serem rastreadas na nossa matriz backward-from, nós utilizamos o **meta-modelo** de Toranzo para classicá-las em quatro níveis:
 
 • Ambiental: informações oriundas do contexto no qual a organização
 está inserida;</br>
@@ -17,7 +17,7 @@ objetivos e estratégias);</br>
 gerados ao longo do processo de desenvolvimento (artefatos de
 requisitos, diagramas, códigos, casos de teste e outros).</br>
 
-Já os principais elos definidos por Toranzo são: </br>
+Já os principais **elos** definidos por Toranzo são: </br>
 
 • Satisfação: classe origem tem dependência de satisfação com a classe
 destino.</br>
@@ -33,6 +33,8 @@ representa um subsistema.</br>
 
 
 ---
+
+*Autor(es)*: **Aline Laureano** & **Erick Giffoni**
 
 | Origem | ID | Requisito | Categoria da meta modelo | Tipo do elo |
 |--------|----|-----------|--------------------------|-------------|
@@ -81,3 +83,4 @@ representa um subsistema.</br>
 | 12/11/2019 | Aline Laureano & Erick Giffoni | Adição da tabela. | 0.2 |
 | 13/11/2019 | Aline Laureano | Preenchimento dos elos de agregação (está ***representada***) em toda a tabela. | 0.3 |
 | 14/11/2019 | Erick Giffoni | Adição do texto explicativo sobre a pós-rastreabilidade de Toranzo | 0.4 |
+| 16/11/2019 | Erick Giffoni | Adição dos autores da matriz backward-from | 0.5 |
