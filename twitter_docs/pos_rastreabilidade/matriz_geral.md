@@ -26,6 +26,24 @@ A Matriz Geral é um documento que visa mapear e rastreiar os requisitos do usu�
 |R015 |Entrevista 01 Lorrany|Ambiental e Desenvolvimento||O sistema deve atenuar a quantidade de mídia paga veiculada aos usuários|-|-|-|-|
 |R016 |Entrevista 03 do Fernando|Ambiental e Desenvolvimento||O sistema deve realizar sugestões de conteúdo para o usuário após um certo período ausente da plataforma.|Sugerir Conteúdo|Para Você|-|-|
 |R017 |Entrevista 03 do Fernando|Ambiental e Desenvolvimento||O app deve possuir um sistema de hashtags com agrupamento de tópicos de acordo com uma marca (#) antecipando a palavra.|Trending Topics|Hashtag|UC11|US08|
+|R018 |Entrevista 03 do Fernando, Entrevista 01 Eugênio  | Desenvolvimento |  | O sistema deve mostrar para o usuário quais são os assuntos que estão em alta popularidade no momento - Trending Topics. |  |  | UC12 | US09 |
+| R019 | Entrevista 03 do Fernando | Desenvolvimento, Ambiental, Organizacional |  | O sistema deve manter uma velocidade de atualização do feed mais rápida do que o normal da internet. | Trending Topics | Trending | - | - |
+| R020 | Entrevista 01 Bruno | Desenvolvimento |  | O usuário deve ser capaz de silenciar perfis indesejados. | *Silcenciar* | - | UC15 | US06 |
+| R021 | Entrevista 01 Bruno | Organizacional |  | O usuário deve ter a opção de retirar/personalizar os anúncios gerados na sua timeline | Visualizar Anúncios | *Filtrar* | - | - |
+| R022 | Entrevista 01 Bruno | Desenvolvimento |  | Filtragem ou limitação de conteúdo. | *Gerenciar Conteúdo* | *Filtrar* | UC13 | US14 |
+| R023 | Entrevista 02 Eugênio | Desenvolvimento |  | Permitir redirecionamento para links externos em postagens | Retweetar | Compartilhar | UC18 | US23 |
+| R024 | Entrevista 02 Eugênio | Desenvolvimento |  | Permitir Tweets curtos como um diário pessoal sem necessariamente ter imagens. | Criar Tweets | Tweet | UC18 | US13 |
+| R025 | Entrevista da Aline | Desenvolvimento |  | O usuário deve ser capaz de buscar informações em um campo de pesquisa. | Explorar | Pesquisar | UC18 | US13 |
+| R026 | Entrevista da Aline | Desenvolvimento |  | O usuário deve ser capaz de seguir outros usuários. | Seguir | Seguidor | UC16 | - |
+| R027 | Entrevista da Aline | Desenvolvimento |  | O usuário deve ser capaz de visualizar todos os tweets postados dos usuários o qual é seguidor. | Interações com postagens | *Timeline* | UC05 | US15 |
+| R028 | Entrevista da Aline, Entrevista 01 Eugênio | Desenvolvimento |  | O usuário deve ser capaz de criar um tweet com no máximo 280 caracteres. | Criar Tweets | Tweet | UC18 | US13 |
+| R029 | Entrevista da Aline | Desenvolvimento |  | O usuário deve ser capaz de enviar mensagens diretas (Direct Message) para outros usuários. | Enviar mensagem | Direct Message | UC17 | US16 |
+| R030 | Entrevista da Aline | Desenvolvimento |  | O usuário deve ser capaz de criar uma conta no Twitter. | Login | Efetuar Login | UC02 | UC01 |
+| R031 | Entrevista da Aline | Organizacional |  | O usuário deve possuir um username único iniciado pelo caractere “@”. | *Criar Conta* | *Cadastro* | UC01 | US04 |
+| R032 | Entrevista da Aline | Desenvolvimento |  | O usuário deve ser capaz de criar uma conta no Twitter. | *Criar conta* | *cadastro* | UC18 | US13 |
+| R033 | Entrevista do Bruno | Desenvolvimento, Organizacional |  | O usuário deve ser capaz de denunciar posts que contém conteudos imprórios e/ou prejudiciais. | Denunciar | Reportar | UC13 | US14 |
+| R034 | Entrevista da Aline | Desenvolvimento |  | O usuário deve ser capaz de criar uma sequência de tweets. | Comentar Tweets | Tweet | UC18 | US13, US15 |
+
 
 ## Versionamento de edições desta página
 | Data | Autor | Descrição | Versão |
@@ -33,4 +51,4 @@ A Matriz Geral é um documento que visa mapear e rastreiar os requisitos do usu�
 | 13/11/2019 | Bruno e Eugênio | Criação da página e Template| 0.1 |
 | 13/11/2019 | Bruno | Preenchendo a tabela| 0.2 |
 | 13/11/2019 | Bruno | Reindexando Artefatos| 0.3 |
-|||||
+| 14/11/2019 | Eugênio e Bruno | Preenchendo dados finais da tabela | 0.4 |
