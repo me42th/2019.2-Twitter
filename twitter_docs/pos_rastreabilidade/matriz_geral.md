@@ -7,9 +7,9 @@ A Matriz Geral é um documento que visa mapear e rastreiar os requisitos do usu�
 
 ---
 
-|ID| Origem  | Categoria da meta modelo | Tipo do elo |  Requisito | Cenário | Léxico  | Caso de Uso | História de Usuário
+|ID| Origem  | Categoria da meta modelo | |  Requisito | Cenário | Léxico  | Caso de Uso | História de Usuário
 |---|--------|--------------------------|-------------|---------|-----------|-------|----------|-------------|
-|R001 |Entrevista 02 do Fernando, Entrevista da Aline|Ambiental e Desenvolvimento|Entrevista 02|O usuário deve ser capaz de retweetar, ou seja, copiar o tweet para o seu próprio perfil.|Retweetar|Interação com Postagens|UC06|US15|
+|R001 |Entrevista 02 do Fernando, Entrevista da Aline|Ambiental e Desenvolvimento||O usuário deve ser capaz de retweetar, ou seja, copiar o tweet para o seu próprio perfil.|Retweetar|Interação com Postagens|UC06|US15|
 |R002 |Entrevista do Erick, Entrevista da Aline, Entrevista do Erick|Ambiental e Desenvolvimento||O usuário deve dotar de liberdade para expressar sua opinião sobre quaisquer temas sem qualquer tipo de censura imposta pelo sistema|Criar Tweets|Tweet|US13|UC18|
 |R003 |Entrevista do Erick, Entrevista 01 do Fernando, Entrevista da Aline|Organizacional e Desenvolvimento||O sistema deve responder de forma rápida às ações do usuário |Notificar|Notificações|UC14|US11|
 |R004 |Entrevista do Erick|Organizacional e Desenvolvimento||Permitir a interação da aplicação com outros aplicativos|Retweetar|Compartilhar|-|-|
