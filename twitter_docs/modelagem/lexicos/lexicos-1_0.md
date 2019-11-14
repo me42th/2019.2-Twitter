@@ -186,9 +186,67 @@ Símbolos também possuem uma classificação, que pode ser : estado ; verbo ; o
 |**Impacto(s):**|	As hastags permitem o agrupamento de **<a href="#lxTweet">tweets</a>** e informações que obtenham **<a href="#lxHashtag">hashtags</a>** em comum. |
 |**Sinônimo(s):**|	**<a href="#lxHashtag">#hashtag</a>**, **<a href="#lxHashtag">Hashtag</a>**. |
 
+
+<span id="#search"></span>
+## **<a href="#search">Pesquisar</a>**
+**Autor** : Bruno Duarte</br>
+**Versão:** 0.1 </br>
+
+|   |   |
+|---|---|
+|**Nome:**|**<a href="#search">Pesquisar</a>** |
+|**Noção:**|- Tarefa realizada pelo usuário;</br>- Acontece quando o usuário deseja saber de alguma notícia jornalística ou curiosidades do momento;</br>- É um ícone de lupa que leva a uma caixa de texto permitindo o usuário a pesquisar notícias a seu gosto |
+|**Classificação:**|Verbo |
+|**Impacto(s):**|	- Notícias solicitadas estarão vinculadas de acordo com o que foi digitado </br>- A fonte da informação pode ser acessada</br>- O **<a href="#lxTweet">tweet</a>** pode ser denunciado;|
+|**Sinônimo(s):**|search, pesquisar, jornais. |
+
+
+<span id="#report"></span>
+## **<a href="#reportar">Reportar</a>**
+**Autor** : Bruno Duarte</br>
+**Versão:** 0.1 </br>
+
+|   |   |
+|---|---|
+|**Nome:**|**<a href="#report">Reportar/Denunciar</a>** |
+|**Noção:**|- Tarefa realizada pelo usuário;</br>- Acontece quando o usuário deseja que alguma postagem ou tweet sejam retirados da plataforma</br>- Atividade que visa tornar o twitter um ambiente agradável |
+|**Classificação:**|Verbo |
+|**Impacto(s):**|	- O Tweet ou postagem será apagado </br>- O usuário que feriu as regras será notificado</br>- O usuário pode ser penalizado.|
+|**Sinônimo(s):**|reportar, censurar, denunciar. |
+
+
+
+<span id="#share"></span>
+## **<a href="#share">Compartilhar</a>**
+**Autor** : Bruno Duarte</br>
+**Versão:** 0.1 </br>
+
+|   |   |
+|---|---|
+|**Nome:**|**<a href="#search">Pesquisar</a>** |
+|**Noção:**|- Tarefa realizada pelo usuário;</br>- Acontece quando o usuário deseja divulgar algum post da plataforma;</br>- É um ícone intuitivo de compartilhamento |
+|**Classificação:**|Verbo |
+|**Impacto(s):**|	- O link de origem poderá ser copiado </br>- O usuário permite que aquela postagem esteja visível em seu perfil</br>|
+|**Sinônimo(s):**|compartilhar, retweetar |
+
+
+<span id="#favoritar"></span>
+## **<a href="#search">Gostar</a>**
+**Autor** : Bruno Duarte</br>
+**Versão:** 0.1 </br>
+
+|   |   |
+|---|---|
+|**Nome:**|**<a href="#favoritar">Curtir</a>** |
+|**Noção:**|- Tarefa realizada pelo usuário;</br>- Acontece quando o usuário deseja interagir positivamente com uma postagem;</br>- É um ícone que expressa a emoção do usuário |
+|**Classificação:**|Verbo |
+|**Impacto(s):**|	- O usuário que publicou será notificado </br>- O sistema recomendará posts semelhantes|
+|**Sinônimo(s):**|facoritar, curtir, like |
 ***
 ## Versionamento de edições desta página
 | Data | Autor | Descrição | Versão |
 |------|-------|-----------|--------|
 | 11/10/2019 | Aline Laureano | Criação da página, adição da descrição da página & dos léxicos em formato de tabela com alguns links entre eles. | 0.1 |
 | 15/10/2019 | Aline Laureano | Adição dos links entre os léxicos & edição na descrição da página. | 0.2 |
+|13/11/2019|Bruno Duarte|Adicionando mais léxicos|0.3|
+|||||

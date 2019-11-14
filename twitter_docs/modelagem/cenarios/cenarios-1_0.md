@@ -93,6 +93,108 @@ Agora os cenários desta página se apresentam em um formato de tabela com cada 
 |**Exceção:**|- Queda dos servidores do **<a href="../../lexicos/lexicos-1_0/#lxTwitter">twitter</a>**;</br>- Falha de conexão com a Internet;</br>- Problemas no hardware que está sendo utilizado; |
 |**Episódios:**|- O usuário navega e visualiza os **<a href="../../lexicos/lexicos-1_0/#lxTweet">tweets</a>** publicados no **<a href="../../lexicos/lexicos-1_0/#lxTwitter">twitter</a>**;</br>- O usuário escolhe um tweet em que ele deseja comentar;</br>- O usuário clica no símbolo de realizar um comentário;</br>- O usuário digita o seu comentário;</br>- O usuário clica no botão "Responder" para publicar o seu comentário. |
 
+### **<a href="../../lexicos/lexicos-1_0/#sugerir">Sugerir Conteúdo</a>**
+**Autor** : Bruno Duarte </br>
+**Versão:** 0.1  </br>
+
+|   |   |
+|---|---|
+|**Titulo:**|	**<a href="../../lexicos/lexicos-1_0/#sugerir">Sugerir Conteúdo</a>** |
+|**Objetivo:**|	Sugerir conteúdo(posts) pra o usuário **<a href="../../lexicos/lexicos-1_0/#lxTwitter">twitter</a>**. |
+|**Contexto:**|	Usuário abre o aplicativo para conferir a sua timeline |
+|**Atores:**|	Usuário, Sistema |
+|**Recursos:**|- Acesso a Internet;</br>- Aplicativo instalado;</br>- Aplicativo do **<a href="../../lexicos/lexicos-1_0/#lxTwitter">twitter</a>** ou Desktop. |
+|**Exceção:**|- Sem acesso a Internet;</br>- Baixa nos Servidores da Aplicação |
+|**Episódios:**|- Usuário abre o aplicativo;</br>- O usuário visualiza seu feed;</br>- O sistema insere postagens relacionadas;</br>|
+
+
+### **<a href="../../lexicos/lexicos-1_0/#visu">Visualizar Anúncios</a>**
+**Autor** : Bruno Duarte </br>
+**Versão:** 0.1  </br>
+
+|   |   |
+|---|---|
+|**Titulo:**|	**<a href="../../lexicos/lexicos-1_0/#visu">Sugerir Conteúdo</a>** |
+|**Objetivo:**|	Visulizar anúncios **<a href="../../lexicos/lexicos-1_0/#lxTwitter">twitter</a>**. |
+|**Contexto:**|	Usuário abre o aplicativo para navegar em sua timeline |
+|**Atores:**|Usuário, Sistema |
+|**Recursos:**|- Acesso a Internet;</br>- Aplicativo instalado;</br>- Aplicativo do **<a href="../../lexicos/lexicos-1_0/#lxTwitter">twitter</a>** ou Desktop. |
+|**Exceção:**|- Sem acesso a Internet;</br>- Baixa nos Servidores da Aplicação <br/>- Ausência de Anuncintes|
+|**Episódios:**|- Usuário abre o aplicativo;</br>- O usuário nvega pelo app;</br>- O sistema insere *Promoted Posts* na timeline do usuário</br>|
+
+
+### **<a href="../../lexicos/lexicos-1_0/#fav">Favoritar</a>**
+**Autor** : Bruno Duarte </br>
+**Versão:** 0.1  </br>
+
+|   |   |
+|---|---|
+|**Titulo:**|	**<a href="../../lexicos/lexicos-1_0/#sugerir">Curtir/Favoritar</a>** |
+|**Objetivo:**|	Interagir com posts realizados na rede social do Twitter **<a href="../../lexicos/lexicos-1_0/#fav">twitter</a>**.|
+|**Contexto:**|	Usuário abre o aplicativo para conferir a sua timeline |
+|**Atores:**|	Usuário, Sistema |
+|**Recursos:**|- Acesso a Internet;</br>- Aplicativo instalado;</br>- Aplicativo do **<a href="../../lexicos/lexicos-1_0/#lxTwitter">twitter</a>** ou Desktop. |
+|**Exceção:**|- Sem acesso a Internet;</br>- Baixa nos Servidores da Aplicação |
+|**Episódios:**|- Usuário abre o aplicativo;</br>- O usuário visualiza um post em sua timeline;</br>- O usuário clica no icone de favoritar</br>|
+
+### **<a href="../../lexicos/lexicos-1_0/#ret">Retweetar</a>**
+**Autor** : Bruno Duarte </br>
+**Versão:** 0.1  </br>
+
+|   |   |
+|---|---|
+|**Titulo:**|	**<a href="../../lexicos/lexicos-1_0/#sugerir">Compartilhar</a>** |
+|**Objetivo:**|	Interagir com posts realizados na rede social do Twitter **<a href="../../lexicos/lexicos-1_0/#ret">twitter</a>**.|
+|**Contexto:**|	Usuário abre o aplicativo para conferir a sua timeline |
+|**Atores:**|Usuário, Sistema |
+|**Recursos:**|- Acesso a Internet;</br>- Aplicativo instalado;</br>- Aplicativo do **<a href="../../lexicos/lexicos-1_0/#lxTwitter">twitter</a>** ou Desktop. |
+|**Exceção:**|- Sem acesso a Internet;</br>- Baixa nos Servidores da Aplicação |
+|**Episódios:**|- Usuário abre o aplicativo;</br>- O usuário visualiza um post em sua timeline;</br>- O usuário clica no icone de Retweetar</br>|
+
+
+### **<a href="../../lexicos/lexicos-1_0/#avisar">Notificar</a>**
+**Autor** : Bruno Duarte </br>
+**Versão:** 0.1  </br>
+
+|   |   |
+|---|---|
+|**Titulo:**|	**<a href="../../lexicos/lexicos-1_0/#avisar">Notificar</a>** |
+|**Objetivo:**| Relatar acontecimentos(postagens, comentários, etc) ligados ao usuário e suas interações  **<a href="../../lexicos/lexicos-1_0/#avisar">twitter</a>**.|
+|**Contexto:**|	Usuário é notificado em sua barra de notificações do celular |
+|**Atores:**|Usuário, Sistema |
+|**Recursos:**|- Acesso a Internet;</br>- Aplicativo instalado;</br>- Aplicativo do **<a href="../../lexicos/lexicos-1_0/#lxTwitter">twitter</a>** ou Desktop. |
+|**Exceção:**|- Sem acesso a Internet;</br>- Baixa nos Servidores da Aplicação |
+|**Episódios:**|- Usuário recebe notificação;</br>- O usuário visualiza a postagem ou comentário em questão;</br>|
+
+
+### **<a href="../../lexicos/lexicos-1_0/#seguir">Seguir</a>**
+**Autor** : Bruno Duarte </br>
+**Versão:** 0.1  </br>
+
+|   |   |
+|---|---|
+|**Titulo:**|	**<a href="../../lexicos/lexicos-1_0/#seguir">Following/Seguidor</a>** |
+|**Objetivo:**| Interligar usuários na plataforma  **<a href="../../lexicos/lexicos-1_0/#avisar">twitter</a>**.|
+|**Contexto:**|	Usuário deseja ver postagens relacionadas a outro usuário |
+|**Atores:**|Usuário, Sistema |
+|**Recursos:**|- Acesso a Internet;</br>- Aplicativo instalado;</br>- Aplicativo do **<a href="../../lexicos/lexicos-1_0/#lxTwitter">twitter</a>** ou Desktop. |
+|**Exceção:**|- Sem acesso a Internet;</br>- Baixa nos Servidores da Aplicação |
+|**Episódios:**|- Usuário abre o perfil de outro user;</br>- O usuário tem acesso ao perfil de outra pessoa</br>- Usuário clica em seguir|
+
+
+### **<a href="../../lexicos/lexicos-1_0/#denunciar">Denunciar</a>**
+**Autor** : Bruno Duarte </br>
+**Versão:** 0.1  </br>
+
+|   |   |
+|---|---|
+|**Titulo:**|	**<a href="../../lexicos/lexicos-1_0/#denunciar">Denunciar</a>** |
+|**Objetivo:**| Retirar conteúdos ofensivos e/ou inapropriados da plataforma  **<a href="../../lexicos/lexicos-1_0/#avisar">twitter</a>**.|
+|**Contexto:**|	Usuário deseja que determinada postagem seja retirada por ferir direitos humanos |
+|**Atores:**|Usuário, Sistema |
+|**Recursos:**|- Acesso a Internet;</br>- Aplicativo instalado;</br>- Aplicativo do **<a href="../../lexicos/lexicos-1_0/#lxTwitter">twitter</a>** ou Desktop. |
+|**Exceção:**|- Sem acesso a Internet;</br>- Baixa nos Servidores da Aplicação |
+|**Episódios:**|- Usuário ver determinada postagem;</br>- O usuário clica na postagem</br>- O sistema lista as funcionalidades<br/>- O usuário denuncia a postagem<br/>- O sistema avaliará de acordo com as diretrizes internas do Twitter|
 
 ***
 
@@ -102,3 +204,4 @@ Agora os cenários desta página se apresentam em um formato de tabela com cada 
 |------|-------|-----------|--------|
 | 11/10/2019 | Aline Laureano | Criação da página, adição da descrição da página & dos cenários em formato de tabela com alguns links para os léxicos. | 0.1 |
 | 15/10/2019 | Aline Laureano | Adição dos links para os léxicos. | 0.2 |
+|13/11/2019|Bruno Duarte|Adicionando mais cenários|0.3|
