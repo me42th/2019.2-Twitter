@@ -2,7 +2,7 @@ site_name: Twitter Requirements
 
 nav:
     - Pŕe-rastreabilidade:
-      - RichPicture: pre-rastreabilidade/richpicture.md
+      - RichPicture: pre_rastreabilidade/richpicture.md
     - Elicitação:
       - Entrevistas: elicitacao/entrevistas/entrevistas.md
       - Storytelling: elicitacao/storytelling.md
@@ -26,6 +26,10 @@ nav:
       - Inspeção - NFR: analise/inspecao_nfr.md
       - Inspeção - Cenários: analise/inspecao_cenarios.md
       - Inspeção - Léxicos: analise/inspecao_lexicos.md
+    - Pós-rastreabilidade:
+      - Matriz Forward-from: pos_rastreabilidade/forward_from.md
+      - Matriz Backward-from: pos_rastreabilidade/backward_from.md
+      - Matriz Geral de rastreabilidade: pos_rastreabilidade/matriz_geral.md
     - Outros artefatos:
       - PDCA: outros_artefatos/PDCA.md
       - 5W2H: outros_artefatos/5w2h.md
