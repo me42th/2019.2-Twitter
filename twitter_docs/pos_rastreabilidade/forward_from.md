@@ -60,5 +60,5 @@ representa um subsistema.</br>
 | Data       | Autor            | Descrição                | Versão |
 | ---------- | ---------------- | ------------------------ | ------ |
 | 12/11/2019 | Fernando e Lorrany | Add tabela na página.  | 0.1    |
-| 13/11/2019 | Lorrany | Adição descrição modelo Toranzo e Rastros do 01 ao 17 | 0.1|
+| 12/11/2019 | Lorrany | Adição descrição modelo de Toranzo, e rastros do 01 ao 17 | 0.2    |
 
