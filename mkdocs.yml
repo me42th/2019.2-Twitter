@@ -27,8 +27,9 @@ nav:
       - Inspeção - Cenários: analise/inspecao_cenarios.md
       - Inspeção - Léxicos: analise/inspecao_lexicos.md
     - Pós-rastreabilidade:
-      - Matriz forward-from: pos_rastreabilidade/forward_from.md
-      - Matriz backward-from: pos_rastreabilidade/backward-from.md
+      - Matriz Forward-from: pos_rastreabilidade/forward_from.md
+      - Matriz Backward-from: pos_rastreabilidade/backward-from.md
+      - Matriz Geral de rastreabilidade: pos_rastreabilidade/matriz_geral.md
     - Outros artefatos:
       - PDCA: outros_artefatos/PDCA.md
       - 5W2H: outros_artefatos/5w2h.md
