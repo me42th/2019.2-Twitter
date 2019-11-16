@@ -7,6 +7,7 @@ nav:
       - Entrevistas: elicitacao/entrevistas/entrevistas.md
       - Storytelling: elicitacao/storytelling.md
       - Requisitos & MoSCoW: elicitacao/requisitos.md
+      - Introspecção: elicitacao/intro/intro.md
     - Modelagem:
       - Cenários 1.0: modelagem/cenarios/cenarios-1_0.md
       - Cenários 0.1: modelagem/cenarios/cenarios.md
