@@ -31,6 +31,7 @@ nav:
       - Matriz Forward-from: pos_rastreabilidade/forward_from.md
       - Matriz Backward-from: pos_rastreabilidade/backward_from.md
       - Matriz Geral de rastreabilidade: pos_rastreabilidade/matriz_geral.md
+      - Telas: pos_rastreabilidade/telas.md
     - Outros artefatos:
       - PDCA: outros_artefatos/PDCA.md
       - 5W2H: outros_artefatos/5w2h.md

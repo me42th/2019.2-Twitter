@@ -7,14 +7,14 @@ A Matriz Geral é um documento que visa mapear e rastreiar os requisitos do usu�
 
 ---
 
-|ID| Origem  | Categoria da meta modelo | |  Requisito | Cenário | Léxico  | Caso de Uso | História de Usuário
-|---|--------|--------------------------|-------------|---------|-----------|-------|----------|-------------|
-|R001 |Entrevista 02 do Fernando, Entrevista da Aline|Ambiental e Desenvolvimento||O usuário deve ser capaz de retweetar, ou seja, copiar o tweet para o seu próprio perfil.|Retweetar|Interação com Postagens|UC06|US15|
-|R002 |Entrevista do Erick, Entrevista da Aline, Entrevista do Erick|Ambiental e Desenvolvimento||O usuário deve dotar de liberdade para expressar sua opinião sobre quaisquer temas sem qualquer tipo de censura imposta pelo sistema|Criar Tweets|Tweet|UC18|US13|
-|R003 |Entrevista do Erick, Entrevista 01 do Fernando, Entrevista da Aline|Organizacional e Desenvolvimento||O sistema deve responder de forma rápida às ações do usuário |Notificar|Notificações|UC14|US11|
-|R004 |Entrevista do Erick|Organizacional e Desenvolvimento||Permitir a interação da aplicação com outros aplicativos|Retweetar|Compartilhar|-|US13|
-|R005 |Entrevista do Erick, Entrevista da Lorrany|Organizacional e Desenvolvimento||O sistema deve prover segurança e proteção dos dados submetidos|UC15, UC17|US10, US12|-|-|
-|R006 |Entrevista do Erick|Ambiental e Desenvolvimento||Permitir a troca de informações entre usuários - numero comentarios, chats, retweet.|Enviar Mensagem|Interações|UC04|US14<br> US15<br/> US16|
+|ID| Origem  | Categoria da meta modelo | |  Requisito | Cenário | Léxico  | Caso de Uso | História de Usuário | Telas |
+|---|--------|--------------------------|-------------|---------|-----------|-------|----------|-------------|-------|
+|R001 |Entrevista 02 do Fernando, Entrevista da Aline|Ambiental e Desenvolvimento||O usuário deve ser capaz de retweetar, ou seja, copiar o tweet para o seu próprio perfil.|Retweetar|Interação com Postagens|UC06|US15| **<a href="../../pos_rastreabilidade/telas/#telaR001">Tela R001</a>** |
+|R002 |Entrevista do Erick, Entrevista da Aline, Entrevista do Erick|Ambiental e Desenvolvimento||O usuário deve dotar de liberdade para expressar sua opinião sobre quaisquer temas sem qualquer tipo de censura imposta pelo sistema|Criar Tweets|Tweet|UC18|US13| Não possui tela no app |
+|R003 |Entrevista do Erick, Entrevista 01 do Fernando, Entrevista da Aline|Organizacional e Desenvolvimento||O sistema deve responder de forma rápida às ações do usuário |Notificar|Notificações|UC14|US11| Não possui tela no app |
+|R004 |Entrevista do Erick|Organizacional e Desenvolvimento||Permitir a interação da aplicação com outros aplicativos|Retweetar|Compartilhar|-|US13| **<a href="../../pos_rastreabilidade/telas/#telaR004">Tela R004</a>** |
+|R005 |Entrevista do Erick, Entrevista da Lorrany|Organizacional e Desenvolvimento||O sistema deve prover segurança e proteção dos dados submetidos|UC15, UC17|US10, US12|-|-| Não possui tela no app |
+|R006 |Entrevista do Erick|Ambiental e Desenvolvimento||Permitir a troca de informações entre usuários - numero comentarios, chats, retweet.|Enviar Mensagem|Interações|UC04|US14<br> US15<br/> US16| **<a href="../../pos_rastreabilidade/telas/#telaR006">Tela R006</a>** |
 |R007 |Entrevista do Erick|Organizacional e Desenvolvimento||Ter um espaço destinado a anúncios|Sugerir Conteúdo|Para Você|-|-|
 |R008 |Entrevista 02 do Fernando, Entrevista da Aline|Ambiental e Desenvolvimento||O usuário deve ser capaz de curtir um tweet, mostrando que tem interesse naquele conteúdo.|Curtir|Interações|UC05|US18|
 |R009 |Entrevista do Erick|Organizacional e Desenvolvimento||Permitir que o usuário saia da aplicação a partir de um anúncio|-|-|-|-|
@@ -52,3 +52,4 @@ A Matriz Geral é um documento que visa mapear e rastreiar os requisitos do usu�
 | 13/11/2019 | Bruno | Preenchendo a tabela| 0.2 |
 | 13/11/2019 | Bruno | Reindexando Artefatos| 0.3 |
 | 14/11/2019 | Eugênio e Bruno | Preenchendo dados finais da tabela | 0.4 |
+| 21/11/2019 | Lorrany | Adição de telas | 0.5 |
