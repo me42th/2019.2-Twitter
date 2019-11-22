@@ -33,14 +33,14 @@ representa um subsistema.</br>
 
 ## Matriz
 
-| Id   | Requisito                                                                                                                                   | Artefato                                        | Tipo           | Categoria meta modelo                       | Elo                                        |
-|------|---------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|----------------|---------------------------------------------|--------------------------------------------|
-| R001 | O usuário deve ser capaz de retweetar, ou seja, copiar o tweet para o seu próprio perfil\.                                                  | UC06, US15                                      | Funcional      | Ambiental,                                  | Responsabilidade, Alocado, Agregação       |
-| R002 | Liberdade para o usuário postar o que quiser\. \- censura parcial                                                                           | UC18, UC07, US13, US15, US17, US18              | Não funcional  | Ambiental,                                  | Recurso, Satisfação                        |
-| R003 | Rapidez na realização de tarefas\.                                                                                                          | Diagrama de usabilidade, Diagrama de desempenho | nao funcional  | Desenvolvimento, Organizacional             | Satisfação, Recurso                        |
-| R004 | Permitir a interação da aplicação com outros aplicativos\.                                                                                  | US13                                            | Funcional      | Desenvolvimento                             | Agregação, Responsabilidade                |
-| R005 | Segurança e proteção de dados\.                                                                                                             | Diagrama de Segurança                           | funcional      | Desenvolvimento                             | Agregação, Responsabilidade                |
-| R006 | Permitir a troca de informacoes entre usuários \- numero comentarios, chats, retweet                                                        | UC15, UC17, UC07, UC06, US10, US12, US17        | Funcional      | Ambiental, desenvolvimento                  | Agregação, Alocado                         |
+| Id   | Requisito                                                                                                                                   | Artefato                                        | Tipo           | Categoria meta modelo                       | Elo                                        |  Telas  |
+|------|---------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|----------------|---------------------------------------------|--------------------------------------------|-------|
+| R001 | O usuário deve ser capaz de retweetar, ou seja, copiar o tweet para o seu próprio perfil\.                                                  | UC06, US15                                      | Funcional      | Ambiental,                                  | Responsabilidade, Alocado, Agregação       | **<a href="../../pos_rastreabilidade/forward_from/#telaR001">Tela R001</a>**
+| R002 | Liberdade para o usuário postar o que quiser\. \- censura parcial                                                                           | UC18, UC07, US13, US15, US17, US18              | Não funcional  | Ambiental,                                  | Recurso, Satisfação                        | Não possui tela no app |
+| R003 | Rapidez na realização de tarefas\.                                                                                                          | Diagrama de usabilidade, Diagrama de desempenho | nao funcional  | Desenvolvimento, Organizacional             | Satisfação, Recurso                        | Não possui tela no app |
+| R004 | Permitir a interação da aplicação com outros aplicativos\.                                                                                  | US13                                            | Funcional      | Desenvolvimento                             | Agregação, Responsabilidade                |  **<a href="../../pos_rastreabilidade/forward_from/#telaR004">Tela R004</a>** |
+| R005 | Segurança e proteção de dados\.                                                                                                             | Diagrama de Segurança                           | funcional      | Desenvolvimento                             | Agregação, Responsabilidade                | Não possui tela no app |
+| R006 | Permitir a troca de informacoes entre usuários \- numero comentarios, chats, retweet                                                        | UC15, UC17, UC07, UC06, US10, US12, US17        | Funcional      | Ambiental, desenvolvimento                  | Agregação, Alocado                         | **<a href="../../pos_rastreabilidade/forward_from/#telaR006">Tela R006</a>** |
 | R007 | Ter um espaço destinado a anuncios                                                                                                          | Não há artefato relacionado                     | funcional      |  \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\- | \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\- |
 | R008 | O usuário deve ser capaz de curtir um tweet, mostrando que tem interesse naquele conteúdo\.                                                 | UC05, US18                                      | Funcional      | Desenvolvimento                             | Satisfação, Representação                  |
 | R009 | Permitir que o usuário saia da aplicacao a partir de um anúncio                                                                             |  Não há artefato relacionado                    | Funcional      | \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  | \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\- |
@@ -70,7 +70,22 @@ representa um subsistema.</br>
 | R033 | O usuário deve ser capaz de denunciar posts que contém conteudos imprórios e/ou prejudiciais                                                | UC13, US14                                      | Funcional      | Desenvolvimento, Organizacional             | Recurso, Responsabilidade, Satisfação      |
 | R034 | O usuário deve ser capaz de criar uma sequência de tweets\.                                                                                 | UC18\. US13, US15                               | Funcional      | Desenvolvimento                             | Recurso, Agregação                         |
 
+# Telas
 
+<span id="telaR001"></span>
+## **<a href="#telaR001">Tela R001</a>**
+
+![Tela R001](../pos_rastreabilidade/telas/gifR001_1.gif "Tela R004")
+
+<span id="telaR004"></span>
+## **<a href="#telaR004">Tela R004</a>**
+
+![Tela R004](../pos_rastreabilidade/telas/gifR004.gif "Tela R004")
+
+<span id="telaR006"></span>
+## **<a href="#telaR006">Tela R006</a>**
+
+![Tela R004](../pos_rastreabilidade/telas/gifR006.gif "Tela R006")
 ---
 
 ## Versionamento de edições desta página
@@ -80,5 +95,4 @@ representa um subsistema.</br>
 | 12/11/2019 | Fernando e Lorrany | Add tabela na página.  | 0.1    |
 | 12/11/2019 | Lorrany | Adição descrição modelo de Toranzo, e rastros do 01 ao 17 | 0.2    |
 | 13/11/2019 | Fernando | Adição rastros do 18 ao 34 | 0.3    |
-
-
+| 21/11/2019 | Lorrany Azevedo | Adição de telas | 0.4 |
