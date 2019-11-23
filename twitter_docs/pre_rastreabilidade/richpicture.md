@@ -12,7 +12,7 @@ O RichPicture é uma técnica que serve para a obtenção do entendimento de alg
 ### [RichPicture01] - Visão Geral do Twitter
 
 *Versão:* 0.1 </br>
-*Autor(es):* Todos os integrantes do grupo.
+Autor(es): *Todos os integrantes do grupo.*
 
 ![Twitter Richpicture](../images/richpicture.jpg)
 
@@ -25,13 +25,12 @@ Versão digital do Rich Picture anterior<br/>
 ![Twitter Richpicture](../images/richpicture_d1.jpg)
 
 
-
 <span id="RichPicture03"></span>
 ### [RichPicture03] - Visão Geral do Twitter
 Esta versão foi realizada após a análise dos artefatos com base nos checklists de critérios<br/>
 
 *Versão:* 0.3 </br>
-*Autor(es):*Todos os integrantes*
+Autor(es):*Todos os integrantes do grupo.*
 
 ![Twitter Richpicture](../images/richpicture_d11.jpg)
 
@@ -41,7 +40,7 @@ Esta versão foi realizada após a análise dos artefatos com base nos checklist
 Versão Final do Rich Picture<br/>
 
 *Versão:* 0.4 </br>
-*Autor(es):*Todos os integrantes*
+Autor(es):*Todos os integrantes do grupo*
 
 ![Twitter Richpicture](../images/richpicture_d2.jpg)
 
