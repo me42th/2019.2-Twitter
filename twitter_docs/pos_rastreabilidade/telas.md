@@ -71,4 +71,4 @@ As telas são gifs das atividades do aplicativo Twitter referentes ao resquisito
 | ---------- | ---------------- | ------------------------ | ------ |
 | 21/11/2019 | Lorrany | Criação da página  | 0.1    |
 | 21/11/2019 | Lorrany Azevedo | Adição de telas | 0.4 |
-|21/11/2019|Bruno DUarte|Adicionando telas|0.5|
+|21/11/2019|Bruno Duarte|Adicionando telas|0.5|
