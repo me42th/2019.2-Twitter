@@ -297,7 +297,6 @@ Para a validação do MoSCoW e Requisitos, Maria Júlia foi submetida a usar o T
 2. **[Open Access]** <a href="https://drive.google.com/file/d/1fmFCCYzj997WAo6wD6W9VizzV6lL1Zkh/view?usp=sharing">Doolan, E. P. . Experience with Fagan’s Inspection Method.</a>
 3. **[Open Access]** <a href="https://drive.google.com/file/d/1BhBFVn6zKtVn_E6iDeUUsv75rvS1f3Ek/view?usp=sharing">Melo, Silvana M. . Inspeção de software</a>
 4. **[Open Access]** <a href="https://drive.google.com/file/d/1m-6qzJzPaVCdTLUl2s7LHWtcQkwzpE3q/view?usp=sharing">Serrano, Maurício. Serrano, Milene. Elicitação de requisitos.</a>
-5. **[Fonte da referência]** Referência 2 (Formato ABNT)
 
 ***
 
@@ -310,3 +309,4 @@ Para a validação do MoSCoW e Requisitos, Maria Júlia foi submetida a usar o T
 | 02/11/2019 | Erick Giffoni | Conclusão do check-list | 1.0 |
 | 05/11/2019 | Erick Giffoni | Adição da validação técnica | 2.0 |
 | 05/11/2019 | Erick Giffoni | Adição da validação por persona | 3.0 |
+| 22/11/2019 | Aline Laureano | Exclusão da referência que era só um template.  | 4.0 |
