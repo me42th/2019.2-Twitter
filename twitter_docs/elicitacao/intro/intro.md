@@ -4,7 +4,7 @@
 
 # Introspecção
 
-A introspecção é uma técnica de eleicitação de requisitos em que o individuo que irá fazer o levantamento dos requisitos imagina que tipo de sistema ele iria querer caso estivesse executando determinada atividade.
+A introspecção é uma técnica de elicitação de requisitos em que o individuo que irá fazer o levantamento dos requisitos imagina que tipo de sistema ele iria querer, caso fosse executar alguma atividade neste sistema.
 
 ## Ao acessar o aplicativo:
 
@@ -41,7 +41,7 @@ A introspecção é uma técnica de eleicitação de requisitos em que o individ
 • Deve existir uma opção de marcar a sua localização.</br>
 • Deve ser possível editar o nome que ficara disponível no perfil.</br>
 • Deve ser possível configurar a visibilidade do meu perfil para outros usuários.</br>
-• Deve exibir as publicações que eu curtir.</br>
+• Deve exibir a66898011ba87a3ecd9ab5133b1489b2284f184a2s publicações que eu curtir.</br>
 
 
 ## Mensagens:

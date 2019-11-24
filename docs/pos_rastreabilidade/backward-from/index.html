@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../../img/favicon.ico">
-        <title>Matriz Forward-from - Twitter Requirements</title>
+        <title>Backward from - Twitter Requirements</title>
         <link href="../../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../../css/font-awesome.min.css" rel="stylesheet">
         <link href="../../css/base.css" rel="stylesheet">
@@ -154,12 +154,12 @@
 </li>
                                 </ul>
                             </li>
-                            <li class="dropdown active">
+                            <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pós-rastreabilidade <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     
-<li class="active">
-    <a href="./">Matriz Forward-from</a>
+<li >
+    <a href="../forward_from/">Matriz Forward-from</a>
 </li>
                                     
 <li >
@@ -196,18 +196,8 @@
                                 <i class="fa fa-search"></i> Search
                             </a>
                         </li>
-                            <li >
-                                <a rel="next" href="../../analise/inspecao_lexicos/">
-                                    <i class="fa fa-arrow-left"></i> Previous
-                                </a>
-                            </li>
-                            <li >
-                                <a rel="prev" href="../backward_from/">
-                                    Next <i class="fa fa-arrow-right"></i>
-                                </a>
-                            </li>
                             <li>
-                                <a href="https://github.com/Requisitos2-2019/Twitter/edit/master/docs/pos_rastreabilidade/forward_from.md"><i class="fa fa-github"></i> Edit on GitHub</a>
+                                <a href="https://github.com/Requisitos2-2019/Twitter/edit/master/docs/pos_rastreabilidade/backward-from.md"><i class="fa fa-github"></i> Edit on GitHub</a>
                             </li>
                     </ul>
                 </div>
@@ -217,9 +207,7 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#matriz-forward-from">Matriz forward-from</a></li>
-            <li><a href="#meta-modelo-de-toranzo">Meta-Modelo de Toranzo</a></li>
-            <li><a href="#matriz">Matriz</a></li>
+        <li class="main active"><a href="#matriz-backward-from">Matriz backward-from</a></li>
             <li><a href="#versionamento-de-edicoes-desta-pagina">Versionamento de edições desta página</a></li>
     </ul>
 </div></div>
@@ -227,313 +215,256 @@
 
 <p><span style="margin-left: 40%;"><img alt="Twitter Logo" src="../../images/twitter-logo-100px.png" /></span></p>
 <hr />
-<h1 id="matriz-forward-from">Matriz forward-from</h1>
-<h3 id="meta-modelo-de-toranzo">Meta-Modelo de Toranzo</h3>
-<p>Para classificar as informações a serem rastreadas na nossa matriz forward-from, nós utilizamos o meta-modelo de Toranzo para classicá-las em quatro níveis:</p>
-<p>• Ambiental: informações oriundas do contexto no qual a organização
-está inserida;</br>
-• Organizacional: informações pertencentes à organização (missão,
-objetivos e estratégias);</br>
-• Gerencial: informações que auxiliam a gerência do projeto. </br>
-• Desenvolvimento: informações associadas aos diversos artefatos
-gerados ao longo do processo de desenvolvimento (artefatos de
-requisitos, diagramas, códigos, casos de teste e outros).</br></p>
-<p>Já os principais elos definidos por Toranzo são: </br></p>
-<p>• Satisfação: classe origem tem dependência de satisfação com a classe
-destino.</br>
-• Recurso: classe origem tem dependência de recurso com a classe
-destino.</br>
-• Responsabilidade: registra a participação, responsabilidade e ação de
-pessoas sobre artefatos.</br>
-• Representação: captura a representação ou modelagem dos requisitos
-em outras linguagens.</br>
-• Alocado: classe origem está relacionada à classe destino, que
-representa um subsistema.</br>
-• Agregação: indica “composição” de elementos.</br></p>
-<h2 id="matriz">Matriz</h2>
+<h1 id="matriz-backward-from">Matriz backward-from</h1>
+<hr />
 <table>
 <thead>
 <tr>
-<th>Id</th>
+<th>Origem</th>
+<th>ID</th>
 <th>Requisito</th>
-<th>Artefato</th>
-<th>Tipo</th>
-<th>Categoria meta modelo</th>
-<th>Elo</th>
+<th>Categoria da meta modelo</th>
+<th>Tipo do elo</th>
 </tr>
 </thead>
 <tbody>
 <tr>
+<td>Entrevista 02 do Fernando, Entrevista da Aline</td>
 <td>R001</td>
 <td>O usuário deve ser capaz de retweetar, ou seja, copiar o tweet para o seu próprio perfil.</td>
-<td>UC06, US15</td>
-<td>Funcional</td>
-<td>Ambiental,</td>
-<td>Responsabilidade, Alocado, Agregação</td>
+<td>Ambiental; Desenvolvimento</td>
+<td>- A Entrevista 02 do Fernando está <strong><em>representada</em></strong> no R001.</br>- A Entrevista da Aline está <strong><em>representada</em></strong> no R001.</td>
 </tr>
 <tr>
+<td>Entrevista do Erick, Entrevista da Aline</td>
 <td>R002</td>
-<td>Liberdade para o usuário postar o que quiser. - censura parcial</td>
-<td>UC18, UC07, US13, US15, US17, US18</td>
-<td>Não funcional</td>
-<td>Ambiental,</td>
-<td>Recurso, Satisfação</td>
+<td>O usuário deve dotar de liberdade para expressar sua opinião sobre quaisquer temas sem qualquer tipo de censura imposta pelo sistema</td>
+<td>Ambiental; Desenvolvimento</td>
+<td>- A Entrevista do Erick está <strong><em>representada</em></strong> no R002.</br>- A Entrevista da Aline está <strong><em>representada</em></strong> no R002.</td>
 </tr>
 <tr>
+<td><a href="../../elicitacao/entrevistas/entrevistas/#Duda">Entrevista do Erick</a>, Entrevista 01 do Fernando, Entrevista da Aline</td>
 <td>R003</td>
-<td>Rapidez na realização de tarefas.</td>
-<td>Diagrama de usabilidade, Diagrama de desempenho</td>
-<td>nao funcional</td>
-<td>Desenvolvimento, Organizacional</td>
-<td>Satisfação, Recurso</td>
+<td>O sistema deve responder de forma rápida às ações do usuário</td>
+<td>Organizacional; Desenvolvimento</td>
+<td>- A Entrevista 01 do Fernando está <strong><em>representada</em></strong> no R003.</br>- A Entrevista do Erick está <strong><em>representada</em></strong> no R003.</br>- A Entrevista da Aline está <strong><em>representada</em></strong> no R003.</td>
 </tr>
 <tr>
+<td>Entrevista do Erick</td>
 <td>R004</td>
-<td>Permitir a interação da aplicação com outros aplicativos.</td>
-<td>US13</td>
-<td>Funcional</td>
-<td>Desenvolvimento</td>
-<td>Agregação, Responsabilidade</td>
+<td>Permitir a interação da aplicação com outros aplicativos</td>
+<td>Organizacional; Desenvolvimento</td>
+<td>- A Entrevista do Erick está <strong><em>representada</em></strong> no R004.</td>
 </tr>
 <tr>
+<td>Entrevista do Erick, Entrevista da Lorrany</td>
 <td>R005</td>
-<td>Segurança e proteção de dados.</td>
-<td>Diagrama de Segurança</td>
-<td>funcional</td>
-<td>Desenvolvimento</td>
-<td>Agregação, Responsabilidade</td>
+<td>O sistema deve prover segurança e proteção dos dados submetidos</td>
+<td>Organizacional; Desenvolvimento</td>
+<td>- A Entrevista da Lorrany está <strong><em>representada</em></strong> no R005.</br>- A Entrevista do Erick está <strong><em>representada</em></strong> no R005.</td>
 </tr>
 <tr>
+<td>Entrevista do Erick</td>
 <td>R006</td>
-<td>Permitir a troca de informacoes entre usuários - numero comentarios, chats, retweet</td>
-<td>UC15, UC17, UC07, UC06, US10, US12, US17</td>
-<td>Funcional</td>
-<td>Ambiental, desenvolvimento</td>
-<td>Agregação, Alocado</td>
+<td>Permitir a troca de informações entre usuários - numero comentarios, chats, retweet.</td>
+<td>Ambiental; Desenvolvimento</td>
+<td>- A Entrevista do Erick está <strong><em>representada</em></strong> no R006.</td>
 </tr>
 <tr>
+<td>Entrevista do Erick</td>
 <td>R007</td>
-<td>Ter um espaço destinado a anuncios</td>
-<td>Não há artefato relacionado</td>
-<td>funcional</td>
-<td>---------------------</td>
-<td>---------------------</td>
+<td>Ter um espaço destinado a anúncios.</td>
+<td>Organizacional; Desenvolvimento</td>
+<td>- A Entrevista do Erick está <strong><em>representada</em></strong> no R007.</td>
 </tr>
 <tr>
+<td>Entrevista 02 do Fernando, Entrevista da Aline</td>
 <td>R008</td>
 <td>O usuário deve ser capaz de curtir um tweet, mostrando que tem interesse naquele conteúdo.</td>
-<td>UC05, US18</td>
-<td>Funcional</td>
-<td>Desenvolvimento</td>
-<td>Satisfação, Representação</td>
+<td>Ambiental; Desenvolvimento</td>
+<td>- A Entrevista 02 do Fernando está <strong><em>representada</em></strong> no R008.</br>- A Entrevista da Aline está <strong><em>representada</em></strong> no R008.</td>
 </tr>
 <tr>
+<td>Entrevista do Erick</td>
 <td>R009</td>
-<td>Permitir que o usuário saia da aplicacao a partir de um anúncio</td>
-<td>Não há artefato relacionado</td>
-<td>Funcional</td>
-<td>---------------------</td>
-<td>---------------------</td>
+<td>Permitir que o usuário saia da aplicação a partir de um anúncio.</td>
+<td>Organizacional; Desenvolvimento</td>
+<td>- A Entrevista do Erick está <strong><em>representada</em></strong> no R009.</td>
 </tr>
 <tr>
+<td>Entrevista 02 do Fernando</td>
 <td>R010</td>
-<td>O sistema deve ser capaz de indentificar e sugerir conteúdo das pessoas que você mais interage na plataforma, ou seja, amigos mais próximos</td>
-<td>UC12, US11</td>
-<td>Funcional</td>
-<td>Desenvolvimento</td>
-<td>Responsabilidade</td>
+<td>O sistema deve ser capaz de indentificar e sugerir conteúdo das pessoas que você mais interage na plataforma, ou seja, amigos mais próximos.</td>
+<td>Ambiental; Organizacional; Desenvolvimento</td>
+<td>- A Entrevista 02 do Fernando está <strong><em>representada</em></strong> no R010.</td>
 </tr>
 <tr>
+<td>Entrevista 01 Lorrany</td>
 <td>R011</td>
-<td>Que o site tenha uma funcionalidade que sugira notícias e conteúdos novos.</td>
-<td>UC12, US11</td>
-<td>Funcional</td>
-<td>Desenvolvimento</td>
-<td>Satisfação, Responsabilidade</td>
+<td>Que o app tenha uma funcionalidade que sugira notícias e conteúdos novos.</td>
+<td>Ambiental; Organizacional; Desenvolvimento</td>
+<td>- A Entrevista 01 da Lorrany está <strong><em>representada</em></strong> no R011.</td>
 </tr>
 <tr>
+<td>Entrevista 01 Lorrany</td>
 <td>R012</td>
-<td>Que o site tenha cuidado ao exibir conteúdos violentos ou que possam ser ofensivos para algumas pessoas.</td>
-<td>UC13, US14</td>
-<td>Funcional</td>
-<td>Desenvolvimento, Organizacional</td>
-<td>Recurso</td>
+<td>Que o app tenha cuidado ao exibir conteúdos violentos ou que possam ser ofensivos para algumas pessoas.</td>
+<td>Ambiental; Organizacional; Desenvolvimento</td>
+<td>- A Entrevista 01 da Lorrany está <strong><em>representada</em></strong> no R012.</td>
 </tr>
 <tr>
+<td>Entrevista 01 Lorrany</td>
 <td>R013</td>
-<td>Que o site seja mais atrativo que os concorrentes.</td>
-<td>Diagrama de desempenho</td>
-<td>Não Funcional</td>
-<td>Desenvolvimento, Organizacional</td>
-<td>Responsabilidade</td>
+<td>Que o app seja mais atrativo que os concorrentes.</td>
+<td>Organizacional</td>
+<td>- A Entrevista 01 da Lorrany está <strong><em>representada</em></strong> no R013.</td>
 </tr>
 <tr>
+<td>Entrevista 01 Lorrany</td>
 <td>R014</td>
-<td>Pensar em uma forma inteligente de lucro.</td>
-<td>Não há artefato relacionado</td>
-<td>Funcional</td>
-<td>---------------------</td>
-<td>---------------------</td>
+<td>O sistema deve possuir uma forma de monetização que não prejudique a experiência do usuário</td>
+<td>Organizacional; Ambiental</td>
+<td>- A Entrevista 01 da Lorrany está <strong><em>representada</em></strong> no R014.</td>
 </tr>
 <tr>
+<td>Entrevista 01 Lorrany</td>
 <td>R015</td>
-<td>Diminuir ads</td>
-<td>Não há artefato relacionado</td>
-<td>Não Funcional</td>
-<td>---------------------</td>
-<td>---------------------</td>
+<td>O sistema deve atenuar a quantidade de mídia paga veiculada aos usuários</td>
+<td>Ambiental; Desenvolvimento</td>
+<td>- A Entrevista 01 da Lorrany está <strong><em>representada</em></strong> no R015.</td>
 </tr>
 <tr>
+<td>Entrevista 03 do Fernando</td>
 <td>R016</td>
-<td>O sistema deve realizar sugestões de conteúdo para o usuário após um certo período ausente da plataforma</td>
-<td>Não há artefato relacionado</td>
-<td>Funcional</td>
-<td>---------------------</td>
-<td>---------------------</td>
+<td>O sistema deve realizar sugestões de conteúdo para o usuário após um certo período ausente da plataforma.</td>
+<td>Organizacional; Desenvolvimento</td>
+<td>- A Entrevista 03 do Fernando está <strong><em>representada</em></strong> no R016.</td>
 </tr>
 <tr>
+<td>Entrevista 03 do Fernando</td>
 <td>R017</td>
-<td>O site deve possuir um sistema de hashtags com agrupamento de tópicos de acordo com uma marca (#) antecipando a palavra</td>
-<td>UC11, US08</td>
-<td>Funcional</td>
-<td>Ambiental, Organizacional</td>
-<td>Satisfação, Recurso</td>
+<td>O app deve possuir um sistema de hashtags com agrupamento de tópicos de acordo com uma marca (#) antecipando a palavra.</td>
+<td>Organizacional; Desenvolvimento</td>
+<td>- A Entrevista 03 do Fernando está <strong><em>representada</em></strong> no R017.</td>
 </tr>
 <tr>
+<td>Entrevista 03 do Fernando, Entrevista 01 Eugênio</td>
 <td>R018</td>
 <td>O sistema deve mostrar para o usuário quais são os assuntos que estão em alta popularidade no momento - Trending Topics.</td>
-<td>UC12, US09</td>
-<td>Funcional</td>
-<td>Desenvolvimento</td>
-<td>Recurso, Agregação</td>
+<td>Organizacional; Desenvolvimento</td>
+<td>- A Entrevista 03 do Fernando está <strong><em>representada</em></strong> no R017.</br>- A Entrevista 01 do Eugênio está <strong><em>representada</em></strong> no R017.</td>
 </tr>
 <tr>
+<td>Entrevista 03 do Fernando</td>
 <td>R019</td>
-<td>O sistema deve manter uma velocidade de atualização do feed mais rápida do que o normal da internet</td>
-<td>Diagrama de Usabilidade</td>
-<td>Não Funcional</td>
-<td>Desenvolvimento, Ambiental, Organizacional</td>
-<td>Satisfação</td>
+<td>O sistema deve manter uma velocidade de atualização do feed mais rápida do que o normal da internet.</td>
+<td>Organizacional; Desenvolvimento</td>
+<td>- A Entrevista 03 do Fernando está <strong><em>representada</em></strong> no R019.</td>
 </tr>
 <tr>
+<td>Entrevista 01 Bruno</td>
 <td>R020</td>
 <td>O usuário deve ser capaz de silenciar perfis indesejados.</td>
-<td>UC15, US06</td>
-<td>Funcional</td>
-<td>Desenvolvimento</td>
-<td>Representação, Recurso</td>
+<td>Ambiental; Desenvolvimento</td>
+<td>- A Entrevista 01 do Bruno está <strong><em>representada</em></strong> no R020.</td>
 </tr>
 <tr>
+<td>Entrevista 01 Bruno</td>
 <td>R021</td>
-<td>Liberdade do usuário em relação aos anúncios promovidos pela plataforma</td>
-<td>Não há artefato relacionado</td>
-<td>Não Funcional</td>
-<td>Organizacional</td>
-<td>Satisfação, Responsabilidade</td>
+<td>O usuário deve ter a opção de retirar/personalizar os anúncios gerados na sua timeline</td>
+<td>Ambiental; Desenvolvimento</td>
+<td>- A Entrevista 01 do Bruno está <strong><em>representada</em></strong> no R021.</td>
 </tr>
 <tr>
+<td>Entrevista 01 Bruno</td>
 <td>R022</td>
-<td>Filtragem ou Limitação de Conteúdo</td>
-<td>UC13, US14</td>
-<td>Funcional</td>
-<td>Desenvolvimento</td>
-<td>Recurso, Satisfação</td>
+<td>Filtragem ou limitação de conteúdo.</td>
+<td>Organizacional; Desenvolvimento</td>
+<td>- A Entrevista 01 do Bruno está <strong><em>representada</em></strong> no R022.</td>
 </tr>
 <tr>
+<td>Entrevista 02 Eugênio</td>
 <td>R023</td>
-<td>Permitir postagem de conteúdo curto para redirecionamento para outros links</td>
-<td>UC18, US13</td>
-<td>Funcional</td>
-<td>Desenvolvimento</td>
-<td>Recurso, Satisfação</td>
+<td>Permitir redirecionamento para links externos em postagens</td>
+<td>Organizacional; Desenvolvimento</td>
+<td>- A Entrevista 02 do Eugênio está <strong><em>representada</em></strong> no R023.</td>
 </tr>
 <tr>
+<td>Entrevista 02 Eugênio</td>
 <td>R024</td>
-<td>Permitir Tweets curtos como um diário pessoal sem necessariamente ter imagens</td>
-<td>UC18, US13</td>
-<td>Funcional</td>
-<td>Desenvolvimento</td>
-<td>Recurso, Satisfação</td>
+<td>Permitir Tweets curtos como um diário pessoal sem necessariamente ter imagens.</td>
+<td>Organizacional; Desenvolvimento; Ambiental</td>
+<td>- A Entrevista 02 do Eugênio está <strong><em>representada</em></strong> no R024.</td>
 </tr>
 <tr>
+<td>Entrevista da Aline</td>
 <td>R025</td>
 <td>O usuário deve ser capaz de buscar informações em um campo de pesquisa.</td>
-<td>UC09, UC10, UC11, UC12, US07, US08, US09</td>
-<td>Funcional</td>
-<td>Desenvolvimento</td>
-<td>Regurso, Agregação, Satisfação</td>
+<td>Organizacional; Desenvolvimento</td>
+<td>- A Entrevista da Aline está <strong><em>representada</em></strong> no R025.</td>
 </tr>
 <tr>
+<td>Entrevista da Aline</td>
 <td>R026</td>
 <td>O usuário deve ser capaz de seguir outros usuários.</td>
-<td>UC16</td>
-<td>Funcional</td>
-<td>Desenvolvimento</td>
-<td>Recurso, Responsabilidade</td>
+<td>Organizacional; Desenvolvimento; Ambiental</td>
+<td>- A Entrevista da Aline está <strong><em>representada</em></strong> no R026.</td>
 </tr>
 <tr>
+<td>Entrevista da Aline</td>
 <td>R027</td>
-<td>O usuário deve ser capaz de visualizar todos os tweets postados de outros usuários.</td>
-<td>UC05, UC15,</td>
-<td>Funcional</td>
-<td>Desenvolvimento</td>
-<td>Recurso, Agregação</td>
+<td>O usuário deve ser capaz de visualizar todos os tweets postados dos usuários o qual é seguidor.</td>
+<td>Organizacional; Desenvolvimento; Ambiental</td>
+<td>- A Entrevista da Aline está <strong><em>representada</em></strong> no R027.</td>
 </tr>
 <tr>
+<td>Entrevista da Aline, Entrevista 01 Eugênio</td>
 <td>R028</td>
 <td>O usuário deve ser capaz de criar um tweet com no máximo 280 caracteres.</td>
-<td>UC18, US13</td>
-<td>Funcional</td>
-<td>Desenvolvimento</td>
-<td>Recurso, Agregação</td>
+<td>Organizacional; Desenvolvimento</td>
+<td>- A Entrevista da Aline está <strong><em>representada</em></strong> no R028.</br>- A Entrevista 01 do Eugênio está <strong><em>representada</em></strong> no R028.</td>
 </tr>
 <tr>
+<td>Entrevista da Aline</td>
 <td>R029</td>
 <td>O usuário deve ser capaz de enviar mensagens diretas (Direct Message) para outros usuários.</td>
-<td>UC17, US16</td>
-<td>Funcional</td>
-<td>Desenvolvimento</td>
-<td>Agregação, Recurso, Satisfação</td>
+<td>Organizacional; Desenvolvimento</td>
+<td>- A Entrevista da Aline está <strong><em>representada</em></strong> no R029.</td>
 </tr>
 <tr>
-<td>R030</td>
+<td>Entrevista da Aline</td>
+<td><span id="R030"></span>R030</td>
 <td>O usuário deve ser capaz de criar uma conta no Twitter.</td>
-<td>UC02, US01</td>
-<td>Funcional</td>
-<td>Desenvolvimento</td>
-<td>Alocação, Recurso</td>
+<td>Organizacional; Desenvolvimento; Ambiental</td>
+<td>- A Entrevista da Aline está <strong><em>representada</em></strong> no R030.</td>
 </tr>
 <tr>
+<td>Entrevista da Aline</td>
 <td>R031</td>
 <td>O usuário deve possuir um nome de usuário único iniciado pelo caractere “@”.</td>
-<td>UC01, US04</td>
-<td>Funcional</td>
-<td>Organizacional</td>
-<td>Alocação</td>
+<td>Organizacional; Desenvolvimento</td>
+<td>- A Entrevista da Aline está <strong><em>representada</em></strong> no R031.</td>
 </tr>
 <tr>
+<td>Entrevista da Aline</td>
 <td>R032</td>
 <td>O usuário deve ser capaz de inserir imagens, gifs e/ou vídeos durante a criação de um tweet.</td>
-<td>UC18, US13</td>
-<td>Funcional</td>
-<td>Desenvolvimento</td>
-<td>Recurso, Agregação</td>
+<td>Organizacional; Desenvolvimento</td>
+<td>- A Entrevista da Aline está <strong><em>representada</em></strong> no R032.</td>
 </tr>
 <tr>
+<td>Entrevista do Bruno</td>
 <td>R033</td>
-<td>O usuário deve ser capaz de denunciar posts que contém conteudos imprórios e/ou prejudiciais</td>
-<td>UC13, US14</td>
-<td>Funcional</td>
-<td>Desenvolvimento, Organizacional</td>
-<td>Recurso, Responsabilidade, Satisfação</td>
+<td>O usuário deve ser capaz de denunciar posts que contém conteudos imprórios e/ou prejudiciais.</td>
+<td>Organizacional; Desenvolvimento; Ambiental</td>
+<td>- A Entrevista do Bruno está <strong><em>representada</em></strong> no R033.</td>
 </tr>
 <tr>
+<td>Entrevista da Aline</td>
 <td>R034</td>
 <td>O usuário deve ser capaz de criar uma sequência de tweets.</td>
-<td>UC18. US13, US15</td>
-<td>Funcional</td>
-<td>Desenvolvimento</td>
-<td>Recurso, Agregação</td>
+<td>Organizacional; Desenvolvimento</td>
+<td>- A Entrevista da Aline está <strong><em>representada</em></strong> no R034.</td>
 </tr>
 </tbody>
 </table>
@@ -551,20 +482,20 @@ representa um subsistema.</br>
 <tbody>
 <tr>
 <td>12/11/2019</td>
-<td>Fernando e Lorrany</td>
-<td>Add tabela na página.</td>
+<td>Aline Laureano &amp; Erick Giffoni</td>
+<td>Criação da página.</td>
 <td>0.1</td>
 </tr>
 <tr>
 <td>12/11/2019</td>
-<td>Lorrany</td>
-<td>Adição descrição modelo de Toranzo, e rastros do 01 ao 17</td>
+<td>Aline Laureano &amp; Erick Giffoni</td>
+<td>Adição da tabela.</td>
 <td>0.2</td>
 </tr>
 <tr>
 <td>13/11/2019</td>
-<td>Fernando</td>
-<td>Adição rastros do 18 ao 34</td>
+<td>Aline Laureano</td>
+<td>Preenchimento dos elos de agregação (está <strong><em>representada</em></strong>) em toda a tabela.</td>
 <td>0.3</td>
 </tr>
 </tbody>

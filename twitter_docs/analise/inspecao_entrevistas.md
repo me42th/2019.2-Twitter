@@ -29,7 +29,7 @@
 ### Resultados da avaliação técnica inicial
 
 ***
-#### **[Perguntas]** - Escopo da entrevista
+#### **[Tabela de checklist para refatoração]** - Escopo da entrevista
 
 *Versão do artefato:* 0.1 </br>
 *Link para o artefato:* <a href="../../elicitacao/entrevistas/entrevistas">**[Entrevistas]**</a> </br>
@@ -54,11 +54,22 @@ Validação realizada somente nos artefatos que forem refatorados segundo a aval
 
 ***
 #### Definição da *Persona*
-*Autor:* Nome do integrante que fez a Persona</br>
-> Colocar aqui o texto que define a persona criada.
+> *Autor:* Lorrany dos Santos Azevedo</br>
+
+Luiza é uma jovem de 22 anos, estudante de publicidade e trabalha realizando freelancer. Para facilitar a divulgação do seu trabalho Luiza precisa utilizar redes sociais onde um grande número de pessoas é alcançado de forma rápida e fácil, para isto Luiza decidiu usar o Twitter. Pensando em atender melhor os seus usuários o Twitter realizou entrevistas com os mesmos e Luiza foi uma das participantes. 
+
+Após o processo de entrevista Luiza deu seu feedback a respeito da mesma.
 
 ***
-#### Resultado da Validação - na visão da *Persona*
+#### Resultado da Validação por persona - na visão da *Persona*
+
+Luiza achou muito positivo que os condutores da entrevista lhe deram liberdade para se expressar de forma livre, ela também avaliou muito bem o fato da entrevista ter sido gravada para que os dados da mesma não fossem perdidos, porém Luiza achou uma grave falha da equipe de entrevistadores não ter lhe pedido para assinar algum termo de conscentimento que comprovasse que ela topou participar da entrevista.
+
+***
+### Validação por técnica
+> *Autor:* Lorrany dos Santos Azevedo</br>
+
+Seguindo a tabela de checklist criada para conduzir a refatoração das entrevistas, o item 7 foi refatorado e ficou pendente a adição de referências (item 6). Já os itens 2 e 3, servem apenas para entrevistas futuras, sendo assim não é possível que eles sejam mudados no momento.
 
 ***
 ## Referências
@@ -80,3 +91,4 @@ software</a>
 | 02/11/2019 | Lorrany Azevedo | Adição das perguntas dos critérios de aceitação | 0.1 | 
 | 02/11/2019 | Lorrany Azevedo | Adição da inspeção realizada na parte de entrevistas | 0.1 |
 | 02/11/2019 | Lorrany Azevedo | Adição de referêcia teórica | 0.1 |
+| 24/11/2019 | Lorrany Azevedo | Adição de validação | 0.1 |
