@@ -42,6 +42,11 @@ As telas são gifs das atividades do aplicativo Twitter referentes ao resquisito
 
 ![Tela R010](../pos_rastreabilidade/telas/R010.jpg "Tela R010")
 
+<span id="telaR011"></span>
+## **<a href="#telaR011">Tela R011</a>**
+
+![Tela R011](../pos_rastreabilidade/telas/R011.gif "Tela R011")
+
 
 <span id="telaR012"></span>
 ## **<a href="#telaR012">Tela R012</a>**
@@ -63,6 +68,22 @@ As telas são gifs das atividades do aplicativo Twitter referentes ao resquisito
 
 
 ![Tela R018](../pos_rastreabilidade/telas/R018.gif "Tela R018")
+
+<span id="telaR020"></span>
+## **<a href="#telaR020">Tela R020</a>**
+
+![Tela R020](../pos_rastreabilidade/telas/R020.gif "Tela R020")
+
+<span id="telaR026"></span>
+## **<a href="#telaR026">Tela R026</a>**
+
+![Tela R026](../pos_rastreabilidade/telas/R026.gif "Tela R026")
+
+<span id="telaR029"></span>
+## **<a href="#telaR026">Tela R029</a>**
+
+![Tela R029](../pos_rastreabilidade/telas/R029.gif "Tela R029")
+
 ---
 
 ## Versionamento de edições desta página
@@ -72,3 +93,4 @@ As telas são gifs das atividades do aplicativo Twitter referentes ao resquisito
 | 21/11/2019 | Lorrany | Criação da página  | 0.1    |
 | 21/11/2019 | Lorrany Azevedo | Adição de telas | 0.4 |
 |21/11/2019|Bruno Duarte|Adicionando telas|0.5|
+|25/11/2019|Eugênio Sales|Adicionando telas da R020|0.5|
