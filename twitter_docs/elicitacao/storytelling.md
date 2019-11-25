@@ -1,3 +1,5 @@
+</br>
+</br>
 <span style="margin-left: 40%;">![Twitter Logo](../images/twitter-logo-100px.png)</span>
 
 ***
@@ -6,6 +8,7 @@ Trata-se de uma técnica que tem por finalidade contar uma história que envolva
 
 ***
 ## Artefatos desenvolvidos
+---
 
 <span id="storytelling01"></span>
 ### Storytelling 01
@@ -19,6 +22,9 @@ Trata-se de uma técnica que tem por finalidade contar uma história que envolva
 
 ***
 ## Versionamento de edições desta página
+---
+
 | Data | Autor | Descrição | Versão |
 |------|-------|-----------|--------|
 | 11/09/2019 | Aline Laureano | Criação da página, adição da descrição da página e da Storytelling 01. | 0.1 |
+| 25/11/2019 | Aline Laureano | Formatação no layout da página. | 0.2 |

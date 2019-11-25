@@ -1,4 +1,5 @@
 </br>
+</br>
 <span style="margin-left: 40%;">![Twitter Logo](../images/twitter-logo-100px.png)</span>
 
 ***
@@ -10,6 +11,7 @@
 
 ***
 ### Critérios de aceitação - *Check-list*
+</br>
 
 **Autor dos critérios:** Aline Laureano</br>
 
@@ -37,12 +39,12 @@
 
 ***
 ### Resultados da avaliação técnica inicial
+</br>
 
-***
 #### **[RichPicture01]** - Visão Geral do Twitter
 
 *Versão do artefato:* 0.1 </br>
-*Link para o artefato:* <a href="../../pre-rastreabilidade/richpicture/#RichPicture01">**[RichPicture01]**</a> </br>
+*Link para o artefato:* <a href="../../pre_rastreabilidade/richpicture/#RichPicture01">**[RichPicture01]**</a> </br>
 *Autor da avaliação técnica:* Aline Laureano</br>
 
 | Critério nº | Atende ao critério? | Classificação do defeito | Tipo do defeito | Pontos a serem trabalhados |
@@ -64,26 +66,36 @@
 Validação realizada somente nos artefatos que forem refatorados segundo a avaliação técnica acima.
 
 ***
-### Validação por *Persona*
+### Validação Técnica
+</br>
+
+*Autor:* Aline Laureano </br>
+
+> A partir da verificação feita acima, o artefato <a href="../../pre_rastreabilidade/richpicture/#RichPicture01">**[RichPicture01]**</a>, foi refatorado.
+
+> Assim, com o artefato refatorado, considerando as devidas mudanças sugeridas, declaro que ele está tecnicamente **validado**.
 
 ***
+### Validação por *Persona*
+</br>
+
 #### Definição da *Persona*
 *Autor:* Aline Laureano</br>
 > Mathew é um promissor gerente de software de 34 anos, responsável por gerenciar as equipes de desenvolvimento do app Twitter em diversas áreas.
 
 ***
 #### Resultado da Validação - na visão da *Persona*
+</br>
 
-***
-#### **[RichPicture01]** - Visão Geral do Twitter
+##### **[RichPicture01]** - Visão Geral do Twitter
 
-*Versão do artefato:* 0.2 </br>
-*Link para o artefato:* <a href="../../pre-rastreabilidade/richpicture/#RichPicture01">**[RichPicture01]**</a> </br>
+*Versão do artefato:* 0.4 </br>
+*Link para o artefato:* <a href="../../pre_rastreabilidade/richpicture/#RichPicture01">**[RichPicture01]**</a> </br>
 *Autor:* Nome do integrante</br>
 
 > *Parecer da <i>Persona</i>:*
 
-> "Colocar aqui o texto que descreve a visão da persona sobre o artefato."
+> "Essa útima versão do *RichPicture01 - Visão Geral do Twitter* apresenta de forma clara e simples todo o domínio de atuação e ações que o usuário pode realizada no Twitter. Portanto, considero a versão *0.4* deste *RichPicture01* **validada**."
 
 ***
 ## Referências
@@ -107,3 +119,4 @@ Validação realizada somente nos artefatos que forem refatorados segundo a aval
 | 21/11/2019 | Aline Laureano |Inserção do Check-list e da inspeção para o <a href="../../pre-rastreabilidade/richpicture/#RichPicture01">**[RichPicture01]**</a> | 0.3 |
 | 22/11/2019 | Aline Laureano |Inserção de mais duas referências | 0.4 |
 | 22/11/2019 | Aline Laureano |Inserção da descrição da *Persona* para a Validação por *Persona*. | 0.5 |
+| 25/11/2019 | Aline Laureano |Inserção da Validação por *Persona*. | 0.6 |

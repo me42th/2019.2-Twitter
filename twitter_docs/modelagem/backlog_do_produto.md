@@ -1,12 +1,9 @@
+</br>
+</br>
 <span style="margin-left: 40%;">![Twitter Logo](../images/twitter-logo-100px.png)</span>
 
 ***
-
 # Backlog do produto
-
-***
-
-## Descrição
 Este Backlog consiste em uma lista que descreve todas as funcionalidades desejadas para o Twitter. Com a finalidade de obtermos uma melhor especificação dessas funcionalidades, este Backlog apresenta a os seguintes itens de granularidade:
 
 - **Épico** que pode englobar várias Histórias de usuário;
@@ -20,6 +17,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 
 ***
 ## Tabela do backlog
+***
 
 |Épico | ID |	Eu como |	Desejo |	Para que eu possa |	Critérios de aceitação |	Rastro |
 |------|----|---------|--------|--------------------|----------------------------------|---------|
@@ -43,8 +41,8 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 |Interagir Com Outro usuário|<a href="#US18">**[US18]**</a>|Usuário|curtir ou comentar o tweet de outro usuário|comunicar através de símbolos da plataforma|<a href="#US18">**Link para a [US18]**</a>|<a href="../../elicitacao/requisitos/#R06">**R006**</a> ; <a href="../../elicitacao/requisitos/#R08">**R008**</a>||
 
 ***
-
 ## Lista das Histórias de usuário
+---
 
 <span id="US01"></span>
 ### <a href="#US01">**[US01]**</a> Eu, como visitante, desejo realizar cadastro.
@@ -63,6 +61,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 - Após a validação, o visitante é redirecionado para a sua conta de usuário do Twitter;
 - Após a validação, o visitante consegue inserir o seu nome de usuário para a sua conta do Twitter.
 
+</br>
 <span id="US02"></span>
 ### <a href="#US02">**[US02]**</a> Eu, como usuário, desejo acessar a central de ajuda.
 **Autor: Aline**
@@ -73,7 +72,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 - Ter uma página para a Central de ajuda;
 - A barra de pesquisa de dúvidas deve estar na página de Central de ajuda;
 
-
+</br>
 <span id="US03"></span>
 ### <a href="#US03">**[US03]**</a> Eu, como usuário, desejo poder trocar minha foto de perfil.
 **Autor: Erick**
@@ -90,6 +89,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 - Validar a foto escolhida pelo usuário para que ela não ultrapasse o tamanho permitido ;
 - Validar a foto escolhida pelo usuário para que ela não tenha conteúdo violento, sexual ou de apologia ao uso ou ao tráfico de drogas
 
+</br>
 <span id="US04"></span>
 ### <a href="#US04">**[US04]**</a> Eu, como usuário, desejo poder escolher outro nome de usuário (@).
 **Autor: Erick**
@@ -100,6 +100,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 - O sistema deve verificar se o nome escolhido pelo usuário está disponível ;
 - O nome de usuário deve aparecer logo abaixo da foto de perfil ;
 
+</br>
 <span id="US05"></span>
 ### <a href="#US05">**[US05]**</a> Eu, como usuário, desejo ter uma descrição de perfil e que esta seja editável.
 **Autor: Erick**
@@ -112,6 +113,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 - A descrição de perfil pode ser vazia ;
 - Bio deve ser uma outra maneira de falar "Descrição de perfil" ;
 
+</br>
 <span id="US06"></span>
 ### <a href="#US06">**[US06]**</a> Eu, como usuário, desejo ter controle sobre quais usuários podem visualizar minhas informações (dados do perfil, tweets etc).
 **Autor: Erick**
@@ -123,6 +125,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 - O usuário pode mudar, a qualquer instante, a confidencialidade do perfil dele como um todo (para "público" ou para "privado") ;
 - O usuário pode desbloquear outro usuário que estava outrora bloqueado.
 
+</br>
 <span id="US07"></span>
 ### <a href="#US07">**[US07]**</a> Eu, como usuário, desejo buscar qualquer termo na barra de pesquisa
 **Autor: Eugênio**
@@ -137,6 +140,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 - A busca pode ser por @ (nome de usuário, com ou sem @) ;
 - Analisar o texto digitado na barra de pesquisa para que não seja um código malicioso ;
 
+</br>
 <span id="US08"></span>
 ### <a href="#US08">**[US08]**</a> Eu, como usuário, desejo buscar uma hashtag na barra de pesquisa
 **Autor: Eugênio**
@@ -147,6 +151,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 - O usuário deve visulizar as hashtags com maior engajamento de forma ordenada
 - O usuário pode filtrar a localização de busca da hashtag
 
+</br>
 <span id="US09"></span>
 ### <a href="#US09">**[US09]**</a> Eu, como usuário, desejo conferir tópicos sugeridos baseados no meu interesse na barra de pesquisa
 **Autor: Eugênio**
@@ -155,6 +160,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 - O usuário deve visualizar tópicos similares sugeridos ao buscados na barra de pesquisa
 - O usuário pode clicar em um tópico sugerido e ser redirecionado para o mesmo
 
+</br>
 <span id="US10"></span>
 ### <a href="#US10">**[US10]**</a> Eu, como usuário, desejo receber notificações de interações
 **Autor: Lorrany**
@@ -164,16 +170,19 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 - O usuário deve poder ver se interação foi um retweet, uma curtida, uma menção em comentário, uma resposta a comentário ;
 - O usuário deve poder escolher silenciar essas notificações caso queria;
 
+</br>
 <span id="US11"></span>
 ### <a href="#US11">**[US11]**</a> Eu, como usuário, desejo receber notificações de sugestão de conteúdo
 **Autor: Lorrany**
 
+</br>
 #### Critérios de aceitação:
 - O usuário recebe notificações do app na tela de seu celular ;
 - O usuário deve conseguir visualizar previamente o conteúdo sugerido ;
 - O usuário deve poder escolher desativar as notificações de sugestão;
 - O usuário deve poder reclamar caso o app sugira algo que incomode.
 
+</br>
 <span id="US12"></span>
 ### <a href="#US12">**[US12]**</a> Eu, como usuário, desejo receber notificações de mensagens
 **Autor: Lorrany**
@@ -184,6 +193,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 - O usuário deve conseguir desativar a opção de visualizar previamente o conteúdo da mensagem ;
 - O usuário deve poder escolher desativar as notificações;
 
+</br>
 <span id="US13"></span>
 ### <a href="#US13">**[US13]**</a> Eu, como usuário, desejo ser capaz de twittar(compartilhar) posts através de caracteres e/ou outros tipos mídias
 **Autor: Bruno**
@@ -194,6 +204,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 - Sistema de upload simples e eficiente;
 - O sistema de upload deve possuir compatibilidade com os diversos formatos de mídia.
 
+</br>
 <span id="US14"></span>
 ### <a href="#US14">**[US14]**</a> Eu, como usuário, desejo reportar/denunciar tweets que detenham conteúdos que ferem as diretrizes do Twitter
 **Autor: Bruno**
@@ -203,7 +214,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 - Ponderações de contexto do tweet com base em fatos e vertentes do contexto.
 - Funcionalidade capaz de denunciar o conteúdo a partir do tweet base.
 
-
+</br>
 <span id="US15"></span>
 ### <a href="#US15">**[US15]**</a> Eu, como usuário, desejo Compartilhar tweets de outros usuários
 **Autor: Fernando**
@@ -212,6 +223,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 - Possibilitar o usuário ter acesso a um link chave de um detrminado tweet.
 - Opção capaz de oferecer link externo para divulgar o tweet;
 
+</br>
 <span id="US016"></span>
 ### <a href="#US016">**[US016]**</a> Eu, como usuário, desejo enviar mensagens diretas para outro usuário
 **Autor: Fernando**
@@ -221,7 +233,7 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 - O usuário pode enviar imagens ou gifs para outro usuário.
 - O usuário pode excluir a mensagem do seu perfil mas esta ainda estará disponível para o outro usuário.
 
-
+</br>
 <span id="US017"></span>
 ### <a href="#US017">**[US017]**</a> Eu, como usuário, desejo mencionar outro usuário em um tweet
 **Autor: Fernando**
@@ -233,8 +245,9 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 - Ao fazer a menção a outro usuário, este deve existir (o sistema deve verificá-lo)
 - O usuário que foi mencionado pode reportar a menção
 - O usuário mencinado pode reportar o outro usuário em relação à menção
-- Se o tweet for excluído, a menção não pode existir mais, ela deve ser excluída também, pelo sistema 
+- Se o tweet for excluído, a menção não pode existir mais, ela deve ser excluída também, pelo sistema
 
+</br>
 <span id="US018"></span>
 ### <a href="#US018">**[US018]**</a> Eu, como usuário, desejo curtir ou comentar o tweet de outro usuário
 **Autor: Fernando**
@@ -243,10 +256,9 @@ Este Backlog consiste em uma lista que descreve todas as funcionalidades desejad
 - O usuário pode dar like
 - O usuário pode interagir com outro usuário ao comentar em um tweet do mesmo
 
-
-
 ***
 ## Referências
+---
 
 1. **[Ebrary]** Young, Ralph. Requirements Engineering Handbook. Norwood, US:
 Artech House Books, 2003.
@@ -255,8 +267,9 @@ Requisitos. <a href="http://livrodeengenhariaderequisitos.blogspot.com.br/">**ht
 2019)
 
 ***
-
 ## Versionamento de edições desta página
+---
+
 | Data | Autor | Descrição | Versão |
 |------|-------|-----------|--------|
 | 20/10/2019 | Aline Laureano | Criação da página e dos textos descritivos, adição de algumas referências & inserção das US's relacionadas ao épico Cadastro e ao épico Central de ajuda com os links necessários. | 0.1 |
@@ -267,3 +280,4 @@ Requisitos. <a href="http://livrodeengenhariaderequisitos.blogspot.com.br/">**ht
 | 21/10/2019 | Fernando Aguilar | Adicionando Épicos e US sobre Interagir com outro usuário| 0.6 |
 | 22/10/2019 | Erick Giffoni | Adição dos autores de cada US | 0.6.1 |
 | 04/11/2019 | Erick Giffoni | Refatoração do Backlog conforme parecer técnico da inspeção realizada | 1.0 |
+| 25/11/2019 | Aline Laureano | Formatação no layout da página. | 1.1|
