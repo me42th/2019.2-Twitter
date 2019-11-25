@@ -93,8 +93,8 @@ Validação realizada somente nos artefatos que forem refatorados segundo a aval
 3. **[Open Access]** <a href="https://drive.google.com/file/d/1BhBFVn6zKtVn_E6iDeUUsv75rvS1f3Ek/view?usp=sharing">Melo, Silvana M. . Inspeção de software</a>
 4. **[Moodle]** Serrano, Maurício. Serrano, Milene. Aula 04: Pré-rastreabilidade.
 5. **[Moodle]** Monk, Andrew. Howard, Steve. The Rich Picture: A Tool for Reasoning About Work Context. (1998)
-6. **[Open Access]** *Inspirado em:* [Requisitos Habitica - Verificação RichPictures.](https://requisitos-habitica.netlify.com/VerificacaoRP) (acesso em: Novembro de 2019)
-7. **[Open Access]** *Inspirado em:* [Requisitos Medium - Inspeção RichPictures.](https://williamelias.github.io/Req-01-2019-medium/analise/verificacao_RichPicture/) (acesso em: Novembro de 2019)
+6. **[Open Access]** [Requisitos Habitica - Verificação RichPictures.](https://requisitos-habitica.netlify.com/VerificacaoRP) (acesso em: Novembro de 2019)
+7. **[Open Access]** [Requisitos Medium - Inspeção RichPictures.](https://williamelias.github.io/Req-01-2019-medium/analise/verificacao_RichPicture/) (acesso em: Novembro de 2019)
 
 ***
 

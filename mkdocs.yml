@@ -15,6 +15,7 @@ nav:
       - Caso de uso - Login: modelagem/use_cases_specifications/login.md
       - Cenários 1.0: modelagem/cenarios/cenarios-1_0.md
       - Cenários 0.1: modelagem/cenarios/cenarios.md
+      - Especificação Suplementar: modelagem/especificacao_suplementar.md
       - Léxicos 1.0: modelagem/lexicos/lexicos-1_0.md
       - Léxicos 0.1: modelagem/lexicos/lexicos.md
       - NFR: modelagem/NFR/nfr_diagramas.md
