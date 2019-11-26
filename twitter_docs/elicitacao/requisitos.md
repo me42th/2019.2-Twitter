@@ -53,6 +53,11 @@
 | <span id="R033"></span> **<a href="#R033">R033</a>**|	O usuário deve ser capaz de denunciar posts que contém conteudos imprórios e/ou prejudiciais. |	Entrevista do Bruno |	SHOULD | F | Usuário |
 | <span id="R034"></span> **<a href="#R034">R034</a>**|	O usuário deve ser capaz de criar uma sequência de tweets. |	Entrevista da Aline |	COULD |	F | Usuário |
 
+---
+##Referências
+---
+- **[Moodle]** Serrano, Maurício. Serrano, Milene. Aula 07: Elicitação de requisitos.
+
 ***
 ## Versionamento de edições desta página
 ---
@@ -62,4 +67,4 @@
 | 11/09/2019 | Aline Laureano | Criação da página, adição da descrição da página e da tabela de requisitos com a priorização MoSCoW. | 0.1 |
 | 04/10/2019 | Eugênio Sales | Refatoração de requisitos após inspeção | 0.2 |
 | 24/11/2019 | Lorrany Azevedo | Adição de links aos id's dos requisitos | 0.3 |
-| 25/11/2019 | Aline Laureano | Formatação no layout da página. | 0.4 |
+| 25/11/2019 | Aline Laureano | Formatação no layout da página e adição da referência. | 0.4 |

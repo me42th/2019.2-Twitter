@@ -99,6 +99,7 @@ Validação realizada somente nos artefatos que forem refatorados segundo a aval
 
 ***
 ## Referências
+---
 
 1. **[Open Access]** <a href="https://drive.google.com/file/d/1-s5edQeIR_19rp_6HCpx7FnT7ISrMjgm/view?usp=sharing">Bytech. Guideline Checklists for Fagan Inspection.</a>
 2. **[Open Access]** <a href="https://drive.google.com/file/d/1fmFCCYzj997WAo6wD6W9VizzV6lL1Zkh/view?usp=sharing">Doolan, E. P. . Experience with Fagan’s Inspection Method.</a>
@@ -111,6 +112,8 @@ Validação realizada somente nos artefatos que forem refatorados segundo a aval
 ***
 
 ## Versionamento de edições desta página
+---
+
 | Data | Autor | Descrição | Versão |
 |------|-------|-----------|--------|
 | 29/10/2019 | Aline Laureano | Criação da página e definição do layout dela em forma de template. | 0.1 |

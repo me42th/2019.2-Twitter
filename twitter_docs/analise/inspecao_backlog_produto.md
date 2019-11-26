@@ -1,3 +1,5 @@
+</br>
+</br>
 <span style="margin-left: 40%;">![Twitter Logo](../images/twitter-logo-100px.png)</span>
 
 ---
@@ -7,9 +9,11 @@
 ---
 
 ## <a href="#">**Verificação**</a>
+---
 
 ### Critérios de aceitação - _Check-list_
 
+</br>
 **Autor dos critérios:** Fernando Aguilar</br>
 
 > 1. O backlog do produto corresponde à realidade das funcionalidades desejadas para o Twitter?
@@ -21,7 +25,7 @@
 
 ### Resultados da avaliação inicial
 
-#### **[Backlog do Produto]** -
+#### **[Backlog do Produto]**
 
 _Versão do artefato:_ 0.1 </br>
 _Link para o artefato:_ <a href="../../modelagem/backlog_do_produto">**[Backlog do Produto]**</a> </br>
@@ -102,30 +106,32 @@ _Autor da avaliação técnica:_ Fernando Aguilar</br>
 | <a href="../../modelagem/backlog_do_produto/#US18">**US18**</a> | 3           | Sim                 | Nao tem defeito          | mínimo          | nenhum                                           |
 | <a href="../../modelagem/backlog_do_produto/#US18">**US18**</a> | 4           | Sim                 | Nao tem defeito          | mínimo          | nenhum                                           |
 
----
-
-## **Parecer técnico**
+#### **Parecer técnico**
 
 **Parecer do refatorador**</br>
 *Autor:* Erick Giffoni
 
-**O artefato foi refatorado**.</br>
+> **O artefato foi refatorado**.</br>
 Algumas observações :
 
-- US06 - o link para a US não está quebrado ;
-- US07 - o link para o UC não está quebrado ;
-- US08 - o link para o UC não está quebrado ;
-- US09 - o link para o UC não está quebrado ;
-- US10 - o link para o UC não está quebrado ;
-- US11 - o link para o UC não está quebrado ;
-- US12 - o link para o UC não está quebrado ;
-- US13 - o link para o UC não está quebrado ;
-- US14 - o link para o UC não está quebrado ;
-- US15 - o link para o UC não está quebrado ;</br>
+> - US06 - o link para a US não está quebrado ;
+> - US07 - o link para o UC não está quebrado ;
+> - US08 - o link para o UC não está quebrado ;
+> - US09 - o link para o UC não está quebrado ;
+> - US10 - o link para o UC não está quebrado ;
+> - US11 - o link para o UC não está quebrado ;
+> - US12 - o link para o UC não está quebrado ;
+> - US13 - o link para o UC não está quebrado ;
+> - US14 - o link para o UC não está quebrado ;
+> - US15 - o link para o UC não está quebrado ;</br>
 Consertei todos os links acima.</br>
-- US17 - adicionei outros *critérios* de aceitação .
+> - US17 - adicionei outros *critérios* de aceitação .
 
+---
 ## <a href="#">**Validação**</a>
+Validação realizada somente nos artefatos que forem refatorados segundo a avaliação técnica acima.
+
+***
 
 ### Validação por _Persona_
 
@@ -133,13 +139,14 @@ Consertei todos os links acima.</br>
 
 > A persona é um desenvolvedor que está entrando no projeto e busca pelo backlog do produto para poder se direcionar no desenvolvimento de novas funcionalidades do sistema. Ele é Junior e portanto precisa de pessoas para lhe dizerem o que fazer e como fazer;
 
-## Resultado da Validação - na visão da _Persona_
+### Resultado da Validação - na visão da _Persona_
 
 > Como nossa persona se guia pela tabela de backlog, pois esta serve para definir quais são as funcionalidades a serem implementadas no sistema, uma tabela com requisitos e rastreabilidade ajuda-o na hora de conferir se o que ele está desenvolvendo está de acordo com os padrões definidos pelos critérios de aceitação, diminuiondo assim a carga cognitiva.
 
 ---
 
 ## Referências
+---
 
 1. **[Ebrary]** Young, Ralph. Requirements Engineering Handbook. Norwood, US:
    Artech House Books, 2003.
@@ -149,6 +156,8 @@ Consertei todos os links acima.</br>
 ---
 
 ## Versionamento de edições desta página
+
+---
 
 | Data       | Autor            | Descrição         | Versão |
 | ---------- | ---------------- | ----------------- | ------ |
