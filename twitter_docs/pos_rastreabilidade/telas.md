@@ -80,9 +80,34 @@ As telas são gifs das atividades do aplicativo Twitter referentes ao resquisito
 ![Tela R026](../pos_rastreabilidade/telas/R026.gif "Tela R026")
 
 <span id="telaR029"></span>
-## **<a href="#telaR026">Tela R029</a>**
+## **<a href="#telaR029">Tela R029</a>**
 
 ![Tela R029](../pos_rastreabilidade/telas/R029.gif "Tela R029")
+
+<span id="telaR030"></span>
+## **<a href="#telaR030">Tela R030</a>**
+
+![Tela R030](../pos_rastreabilidade/telas/R030.gif "Tela R030")
+
+<span id="telaR031"></span>
+## **<a href="#telaR031">Tela R031</a>**
+
+![Tela R032](../pos_rastreabilidade/telas/r031.jpg "Tela R031")
+
+<span id="telaR032"></span>
+## **<a href="#telaR032">Tela R032</a>**
+
+![Tela R033](../pos_rastreabilidade/telas/R032.gif "Tela R032")
+
+<span id="telaR033"></span>
+## **<a href="#telaR033">Tela R033</a>**
+
+![Tela R033](../pos_rastreabilidade/telas/R033.gif "Tela R033")
+
+<span id="telaR034"></span>
+## **<a href="#telaR034">Tela R034</a>**
+
+![Tela R034](../pos_rastreabilidade/telas/R034.gif "Tela R034")
 
 ---
 
@@ -94,3 +119,4 @@ As telas são gifs das atividades do aplicativo Twitter referentes ao resquisito
 | 21/11/2019 | Lorrany Azevedo | Adição de telas | 0.4 |
 |21/11/2019|Bruno Duarte|Adicionando telas|0.5|
 |25/11/2019|Eugênio Sales|Adicionando telas da R020|0.5|
+|25/11/2019|Lorrany Azevedo|Adicionando telas da R030 a R034|0.6|
