@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../../img/favicon.ico">
+        <title>Telas - Twitter Requirements</title>
+        <link href="../../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/color-brewer.min.css">
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <script src="../../js/jquery-1.10.2.min.js" defer></script>
+        <script src="../../js/bootstrap-3.0.3.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
+
+    <body>
+
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+
+                <!-- Collapsed navigation -->
+                <div class="navbar-header">
+                    <!-- Expander button -->
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="../..">Twitter Requirements</a>
+                </div>
+
+                <!-- Expanded navigation -->
+                <div class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pŕe-rastreabilidade <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../../pre_rastreabilidade/richpicture/">RichPicture</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Elicitação <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../../elicitacao/entrevistas/entrevistas/">Entrevistas</a>
+</li>
+                                    
+<li >
+    <a href="../../elicitacao/intro/intro/">Introspecção</a>
+</li>
+                                    
+<li >
+    <a href="../../elicitacao/requisitos/">Requisitos & MoSCoW</a>
+</li>
+                                    
+<li >
+    <a href="../../elicitacao/storytelling/">Storytelling</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Modelagem <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../../modelagem/backlog_do_produto/">Backlog do produto</a>
+</li>
+                                    
+<li >
+    <a href="../../modelagem/use_cases_specifications/user_case_geral/">Caso de uso - Geral</a>
+</li>
+                                    
+<li >
+    <a href="../../modelagem/use_cases_specifications/login/">Caso de uso - Login</a>
+</li>
+                                    
+<li >
+    <a href="../../modelagem/use_cases_specifications/trending_topics/">Caso de uso - Trending Topics</a>
+</li>
+                                    
+<li >
+    <a href="../../modelagem/cenarios/cenarios-1_0/">Cenários 1.0</a>
+</li>
+                                    
+<li >
+    <a href="../../modelagem/cenarios/cenarios/">Cenários 0.1</a>
+</li>
+                                    
+<li >
+    <a href="../../modelagem/especificacao_suplementar/">Especificação Suplementar</a>
+</li>
+                                    
+<li >
+    <a href="../../modelagem/lexicos/lexicos-1_0/">Léxicos 1.0</a>
+</li>
+                                    
+<li >
+    <a href="../../modelagem/lexicos/lexicos/">Léxicos 0.1</a>
+</li>
+                                    
+<li >
+    <a href="../../modelagem/NFR/nfr_diagramas/">NFR</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Análise <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../../analise/definicao/">Definição</a>
+</li>
+                                    
+<li >
+    <a href="../../analise/inspecao_backlog_produto/">Inspeção - Backlog do Produto</a>
+</li>
+                                    
+<li >
+    <a href="../../analise/inspecao_casos_de_uso/">Inspeção - Casos de Uso</a>
+</li>
+                                    
+<li >
+    <a href="../../analise/inspecao_cenarios/">Inspeção - Cenários</a>
+</li>
+                                    
+<li >
+    <a href="../../analise/inspecao_entrevistas/">Inspeção - Entrevistas</a>
+</li>
+                                    
+<li >
+    <a href="../../analise/inspecao_lexicos/">Inspeção - Léxicos</a>
+</li>
+                                    
+<li >
+    <a href="../../analise/inspecao_moscow_requisitos/">Inspeção - MoSCoW e Requisitos</a>
+</li>
+                                    
+<li >
+    <a href="../../analise/inspecao_nfr/">Inspeção - NFR</a>
+</li>
+                                    
+<li >
+    <a href="../../analise/inspecao_rich_picture/">Inspeção - RichPicture</a>
+</li>
+                                    
+<li >
+    <a href="../../analise/inspecao_storytelling/">Inspeção - Storytelling</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown active">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pós-rastreabilidade <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../backward_from/">Matriz Backward-from</a>
+</li>
+                                    
+<li >
+    <a href="../forward_from/">Matriz Forward-from</a>
+</li>
+                                    
+<li >
+    <a href="../matriz_geral/">Matriz Geral de rastreabilidade</a>
+</li>
+                                    
+<li class="active">
+    <a href="./">Telas</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Outros artefatos <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../../outros_artefatos/5w2h/">5W2H</a>
+</li>
+                                    
+<li >
+    <a href="../../outros_artefatos/swot/">SWOT</a>
+</li>
+                                    
+<li >
+    <a href="../../outros_artefatos/PDCA/">PDCA</a>
+</li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                            <li >
+                                <a rel="next" href="../matriz_geral/">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li >
+                                <a rel="prev" href="../../outros_artefatos/5w2h/">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://github.com/Requisitos2-2019/Twitter/edit/master/docs/pos_rastreabilidade/telas.md"><i class="fa fa-github"></i> Edit on GitHub</a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+        <li class="main active"><a href="#telas">Telas</a></li>
+            <li><a href="#tela-r001">Tela R001</a></li>
+            <li><a href="#tela-r004">Tela R004</a></li>
+            <li><a href="#tela-r006">Tela R006</a></li>
+            <li><a href="#tela-r007">Tela R007</a></li>
+            <li><a href="#tela-r008">Tela R008</a></li>
+            <li><a href="#tela-r010">Tela R010</a></li>
+            <li><a href="#tela-r011">Tela R011</a></li>
+            <li><a href="#tela-r012">Tela R012</a></li>
+            <li><a href="#tela-r017">Tela R017</a></li>
+            <li><a href="#tela-r018">Tela R018</a></li>
+            <li><a href="#tela-r020">Tela R020</a></li>
+            <li><a href="#tela-r026">Tela R026</a></li>
+            <li><a href="#tela-r029">Tela R029</a></li>
+            <li><a href="#tela-r030">Tela R030</a></li>
+            <li><a href="#tela-r031">Tela R031</a></li>
+            <li><a href="#tela-r032">Tela R032</a></li>
+            <li><a href="#tela-r033">Tela R033</a></li>
+            <li><a href="#tela-r034">Tela R034</a></li>
+            <li><a href="#versionamento-de-edicoes-desta-pagina">Versionamento de edições desta página</a></li>
+    </ul>
+</div></div>
+                <div class="col-md-9" role="main">
+
+<p></br>
+</br>
+<span style="margin-left: 40%;"><img alt="Twitter Logo" src="../../images/twitter-logo-100px.png" /></span></p>
+<hr />
+<h1 id="telas">Telas</h1>
+<p>As telas são gifs das atividades do aplicativo Twitter referentes ao resquisitos levantados pela equipe na etapa de elicitação.</p>
+<p><span id="telaR001"></span></p>
+<h2 id="tela-r001"><strong><a href="#telaR001">Tela R001</a></strong></h2>
+<p><img alt="Tela R001" src="gifR001_1.gif" title="Tela R004" /></p>
+<p><span id="telaR004"></span></p>
+<h2 id="tela-r004"><strong><a href="#telaR004">Tela R004</a></strong></h2>
+<p><img alt="Tela R004" src="gifR004.gif" title="Tela R004" /></p>
+<p><span id="telaR006"></span></p>
+<h2 id="tela-r006"><strong><a href="#telaR006">Tela R006</a></strong></h2>
+<p><img alt="Tela R004" src="gifR006.gif" title="Tela R006" /></p>
+<p><span id="telaR007"></span></p>
+<h2 id="tela-r007"><strong><a href="#telaR006">Tela R007</a></strong></h2>
+<p><img alt="Tela R007" src="R007.gif" title="Tela R007" /></p>
+<p><span id="telaR008"></span></p>
+<h2 id="tela-r008"><strong><a href="#telaR008">Tela R008</a></strong></h2>
+<p><img alt="Tela R008" src="R008.gif" title="Tela R008" /></p>
+<p><span id="telaR010"></span></p>
+<h2 id="tela-r010"><strong><a href="#telaR010">Tela R010</a></strong></h2>
+<p><img alt="Tela R010" src="R010.jpg" title="Tela R010" /></p>
+<p><span id="telaR011"></span></p>
+<h2 id="tela-r011"><strong><a href="#telaR011">Tela R011</a></strong></h2>
+<p><img alt="Tela R011" src="R011.gif" title="Tela R011" /></p>
+<p><span id="telaR012"></span></p>
+<h2 id="tela-r012"><strong><a href="#telaR012">Tela R012</a></strong></h2>
+<p><img alt="Tela R012" src="R012.jpg" title="Tela R012" /></p>
+<p><span id="telaR017"></span></p>
+<h2 id="tela-r017"><strong><a href="#telaR017">Tela R017</a></strong></h2>
+<p><img alt="Tela R017" src="R017.gif" title="Tela R017" /></p>
+<p><span id="telaR018"></span></p>
+<h2 id="tela-r018"><strong><a href="#telaR018">Tela R018</a></strong></h2>
+<p><img alt="Tela R018" src="R018.gif" title="Tela R018" /></p>
+<p><span id="telaR020"></span></p>
+<h2 id="tela-r020"><strong><a href="#telaR020">Tela R020</a></strong></h2>
+<p><img alt="Tela R020" src="R020.gif" title="Tela R020" /></p>
+<p><span id="telaR026"></span></p>
+<h2 id="tela-r026"><strong><a href="#telaR026">Tela R026</a></strong></h2>
+<p><img alt="Tela R026" src="R026.gif" title="Tela R026" /></p>
+<p><span id="telaR029"></span></p>
+<h2 id="tela-r029"><strong><a href="#telaR029">Tela R029</a></strong></h2>
+<p><img alt="Tela R029" src="R029.gif" title="Tela R029" /></p>
+<p><span id="telaR030"></span></p>
+<h2 id="tela-r030"><strong><a href="#telaR030">Tela R030</a></strong></h2>
+<p><img alt="Tela R030" src="R030.gif" title="Tela R030" /></p>
+<p><span id="telaR031"></span></p>
+<h2 id="tela-r031"><strong><a href="#telaR031">Tela R031</a></strong></h2>
+<p><img alt="Tela R032" src="r031.jpg" title="Tela R031" /></p>
+<p><span id="telaR032"></span></p>
+<h2 id="tela-r032"><strong><a href="#telaR032">Tela R032</a></strong></h2>
+<p><img alt="Tela R033" src="R032.gif" title="Tela R032" /></p>
+<p><span id="telaR033"></span></p>
+<h2 id="tela-r033"><strong><a href="#telaR033">Tela R033</a></strong></h2>
+<p><img alt="Tela R033" src="R033.gif" title="Tela R033" /></p>
+<p><span id="telaR034"></span></p>
+<h2 id="tela-r034"><strong><a href="#telaR034">Tela R034</a></strong></h2>
+<p><img alt="Tela R034" src="R034.gif" title="Tela R034" /></p>
+<hr />
+<h2 id="versionamento-de-edicoes-desta-pagina">Versionamento de edições desta página</h2>
+<table>
+<thead>
+<tr>
+<th>Data</th>
+<th>Autor</th>
+<th>Descrição</th>
+<th>Versão</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>21/11/2019</td>
+<td>Lorrany</td>
+<td>Criação da página</td>
+<td>0.1</td>
+</tr>
+<tr>
+<td>21/11/2019</td>
+<td>Lorrany Azevedo</td>
+<td>Adição de telas</td>
+<td>0.4</td>
+</tr>
+<tr>
+<td>21/11/2019</td>
+<td>Bruno Duarte</td>
+<td>Adicionando telas</td>
+<td>0.5</td>
+</tr>
+<tr>
+<td>25/11/2019</td>
+<td>Eugênio Sales</td>
+<td>Adicionando telas da R020</td>
+<td>0.5</td>
+</tr>
+<tr>
+<td>25/11/2019</td>
+<td>Lorrany Azevedo</td>
+<td>Adicionando telas da R030 a R034</td>
+<td>0.6</td>
+</tr>
+</tbody>
+</table></div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>
+            var base_url = "../..",
+                shortcuts = {"search": 83, "next": 78, "help": 191, "previous": 80};
+        </script>
+        <script src="../../js/base.js" defer></script>
+        <script src="../../search/main.js" defer></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form role="form">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Keyboard Shortcuts</h4>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
