@@ -62,6 +62,11 @@ As telas são gifs das atividades do aplicativo Twitter referentes ao resquisito
 
 ![Tela R017](../pos_rastreabilidade/telas/R017.gif "Tela R017")
 
+<span id="telaR016"></span>
+## **<a href="#telaR016">Tela R016</a>**
+
+
+![Tela R016](../pos_rastreabilidade/telas/R016.gif "Tela R016")
 
 <span id="telaR018"></span>
 ## **<a href="#telaR018">Tela R018</a>**
@@ -73,6 +78,16 @@ As telas são gifs das atividades do aplicativo Twitter referentes ao resquisito
 ## **<a href="#telaR020">Tela R020</a>**
 
 ![Tela R020](../pos_rastreabilidade/telas/R020.gif "Tela R020")
+
+<span id="telaR022"></span>
+## **<a href="#telaR022">Tela R022</a>**
+
+![Tela R020](../pos_rastreabilidade/telas/R022.gif "Tela R022")
+
+<span id="telaR025"></span>
+## **<a href="#telaR026">Tela R025</a>**
+
+![Tela R026](../pos_rastreabilidade/telas/R025.gif "Tela R025")
 
 <span id="telaR026"></span>
 ## **<a href="#telaR026">Tela R026</a>**
