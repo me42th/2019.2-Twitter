@@ -1,22 +1,36 @@
+</br>
+</br>
 <span style="margin-left: 40%;">![Twitter Logo](../../images/twitter-logo-100px.png)</span>
 
 ***
 #Caso de Uso: Sistema Geral
+Tem por finalidade descrever um conjunto de ações que um sistema ou um conjunto de sistemas deve desempenhar em colaboração com um ou mais usuários externos ao sistema.
+
+Esta página apresenta:
+
+- O diagrama de Caso de Uso Sistema Geral;
+- E as especificações de cada UC do diagrama desta página.
 
 ***
 ##Diagrama
-
 ***
-**Autore(s):** Lorrany Azevedo e Aline Laureano. </br>
-**Versão:** *0.2 (última versão)*
+
+*Autore(s):* Lorrany Azevedo e Aline Laureano. </br>
+*Versão:* *0.2*
+
+> Última versão.
 
 ![Caso de uso: Sistema geral](../images/UC-SistemaGeral-v2.jpg)
 
-***
-**Autore(s):** Lorrany Azevedo e Aline Laureano. </br>
-**Versão:** *0.1*
+</br>
+</br>
+*Autore(s):* Lorrany Azevedo e Aline Laureano. </br>
+*Versão:* *0.1*
+
+> Versão inicial.
 
 ![Caso de uso: Sistema geral](../images/UC-SistemaGeral.jpg)
+</br>
 
 ***
 ##Especificações
@@ -25,8 +39,8 @@
 <span id="UC01"></span>
 ### <a href="#UC01">UC01</a> - Efetuar Login
 
-**Autore(s):** Aline Laureano. </br>
-**Versão:** 0.1
+*Autore(s):* Aline Laureano. </br>
+*Versão: 0.1*
 
 |  |  |
 |------|-------|
@@ -41,8 +55,8 @@
 <span id="UC02"></span>
 ### <a href="#UC02">UC02</a> - Efetuar Cadastro
 
-**Autore(s):** Aline Laureano. </br>
-**Versão:** 0.1
+*Autore(s):* Aline Laureano. </br>
+*Versão: 0.1*
 
 |  |  |
 |------|-------|
@@ -57,8 +71,8 @@
 <span id="UC03"></span>
 ### <a href="#UC03">UC03</a> - Navegar na Homepage
 
-**Autore(s):** Aline Laureano. </br>
-**Versão:** 0.1
+*Autore(s):* Aline Laureano. </br>
+*Versão: 0.1*
 
 |  |  |
 |------|-------|
@@ -73,8 +87,8 @@
 <span id="UC04"></span>
 ### <a href="#UC04">UC04</a> - Ver Tweet
 
-**Autore(s):** Aline Laureano. </br>
-**Versão:** 0.1
+*Autore(s):* Aline Laureano. </br>
+*Versão: 0.1*
 
 |  |  |
 |------|-------|
@@ -89,8 +103,8 @@
 <span id="UC05"></span>
 ### <a href="#UC05">UC05</a> - Gostar do Tweet
 
-**Autore(s):** Aline Laureano. </br>
-**Versão:** 0.1
+*Autore(s):* Aline Laureano. </br>
+*Versão: 0.1*
 
 |  |  |
 |------|-------|
@@ -105,8 +119,8 @@
 <span id="UC06"></span>
 ### <a href="#UC06">UC06</a> - Dar Retweet
 
-**Autore(s):** Aline Laureano. </br>
-**Versão:** 0.1
+*Autore(s):* Aline Laureano. </br>
+*Versão: 0.1*
 
 |  |  |
 |------|-------|
@@ -121,8 +135,8 @@
 <span id="UC07"></span>
 ### <a href="#UC07">UC07</a> - Comentar tweet
 
-**Autore(s):** Aline Laureano. </br>
-**Versão:** 0.1
+*Autore(s):* Aline Laureano. </br>
+*Versão: 0.1*
 
 |  |  |
 |------|-------|
@@ -137,8 +151,8 @@
 <span id="UC08"></span>
 ### <a href="#UC08">UC08</a> - Salvar tweet
 
-**Autore(s):** Aline Laureano. </br>
-**Versão:** 0.1
+*Autore(s):* Aline Laureano. </br>
+*Versão: 0.1*
 
 |  |  |
 |------|-------|
@@ -153,8 +167,8 @@
 <span id="UC09"></span>
 ### <a href="#UC09">UC09</a> - Buscar na Barra de pesquisa
 
-**Autore(s):** Aline Laureano. </br>
-**Versão:** 0.1
+*Autore(s):* Aline Laureano. </br>
+*Versão: 0.1*
 
 |  |  |
 |------|-------|
@@ -169,8 +183,8 @@
 <span id="UC10"></span>
 ### <a href="#UC10">UC10</a> - Buscar Palavra
 
-**Autore(s):** Aline Laureano. </br>
-**Versão:** 0.1
+*Autore(s):* Aline Laureano. </br>
+*Versão: 0.1*
 
 |  |  |
 |------|-------|
@@ -185,8 +199,8 @@
 <span id="UC11"></span>
 ### <a href="#UC11">UC11</a> - Buscar Hashtags
 
-**Autore(s):** Lorrany Azevedo. </br>
-**Versão:** 0.1
+*Autore(s):* Lorrany Azevedo. </br>
+*Versão: 0.1*
 
 |  |  |
 |------|-------|
@@ -201,8 +215,8 @@
 <span id="UC12"></span>
 ### <a href="#UC12">UC12</a> - Ver tópicos sugeridos
 
-**Autore(s):** Lorrany Azevedo. </br>
-**Versão:** 0.1
+*Autore(s):* Lorrany Azevedo. </br>
+*Versão: 0.1*
 
 |  |  |
 |------|-------|
@@ -217,8 +231,8 @@
 <span id="UC13"></span>
 ### <a href="#UC13">UC13</a> - Reportar conteúdo
 
-**Autore(s):** Lorrany Azevedo. </br>
-**Versão:** 0.1
+*Autore(s):* Lorrany Azevedo. </br>
+*Versão: 0.1*
 
 |  |  |
 |------|-------|
@@ -233,8 +247,8 @@
 <span id="UC14"></span>
 ### <a href="#UC14">UC14</a> - Ver notificações
 
-**Autore(s):** Lorrany Azevedo. </br>
-**Versão:** 0.1
+*Autore(s):* Lorrany Azevedo. </br>
+*Versão: 0.1*
 
 |  |  |
 |------|-------|
@@ -249,8 +263,8 @@
 <span id="UC15"></span>
 ### <a href="#UC15">UC15</a> - Interação com outros usuários
 
-**Autore(s):** Lorrany Azevedo. </br>
-**Versão:** 0.1
+*Autore(s):* Lorrany Azevedo. </br>
+*Versão: 0.1*
 
 |  |  |
 |------|-------|
@@ -265,8 +279,8 @@
 <span id="UC16"></span>
 ### <a href="#UC16">UC16</a> - Seguir outros usuários
 
-**Autore(s):** Lorrany Azevedo. </br>
-**Versão:** 0.1
+*Autore(s):* Lorrany Azevedo. </br>
+*Versão: 0.1*
 
 |  |  |
 |------|-------|
@@ -281,8 +295,8 @@
 <span id="UC17"></span>
 ### <a href="#UC17">UC17</a> - Enviar mensagens diretas
 
-**Autore(s):** Lorrany Azevedo. </br>
-**Versão:** 0.1
+*Autore(s):* Lorrany Azevedo. </br>
+*Versão: 0.1*
 
 |  |  |
 |------|-------|
@@ -297,8 +311,8 @@
 <span id="UC18"></span>
 ### <a href="#UC18">UC18</a> - Criar tweets
 
-**Autore(s):** Lorrany Azevedo. </br>
-**Versão:** 0.1
+*Autore(s):* Lorrany Azevedo. </br>
+*Versão: 0.1*
 
 |  |  |
 |------|-------|
@@ -313,8 +327,8 @@
 <span id="UC19"></span>
 ### <a href="#UC19">UC19</a> - Editar perfil
 
-**Autore(s):** Lorrany Azevedo. </br>
-**Versão:** 0.1
+*Autore(s):* Lorrany Azevedo. </br>
+*Versão: 0.1*
 
 |  |  |
 |------|-------|
@@ -329,8 +343,8 @@
 <span id="UC20"></span>
 ### <a href="#UC20">UC20</a> - Acessar central de ajuda
 
-**Autore(s):** Lorrany Azevedo. </br>
-**Versão:** 0.1
+*Autore(s):* Lorrany Azevedo. </br>
+*Versão: 0.1*
 
 |  |  |
 |------|-------|
@@ -342,9 +356,15 @@
 | **Fluxo(s) Alternativos** | [FA20]  </br> O usuário pode escolher entre uma das opções de ajuda que o twitter disponibiliza </br> O usuário pode escolher entre algumas opções de ajuda que o twitter disponibiliza entre elas tem a opção de "Como usar o Twitter" entre outras|
 | **Fluxo(s) de exceção** | [FE20] O usuário faz busca inexistente </br>Caso o usuário busque por uma dúvida que não está disponível na central de ajuda o twitter retorna uma mensagem de "Nenhum resultado encontrado" |
 
-***
+---
+##Referências
+---
+- **[Moodle]** Serrano, Maurício. Serrano, Milene. Aula 13: Modelagem de requisitos.
 
+
+---
 ### Versionamento de edições desta página
+---
 
 | Data | Autor | Descrição | Versão |
 |------|-------|-----------|--------|
@@ -352,6 +372,8 @@
 | 27/09/2019 | Lorrany Azevedo |Especificação dos requisitos UC11 até o UC20 | 0.2 |
 | 30/09/2019 | Aline Laureano |Especificação dos requisitos UC01 até o UC10 & adição dos autores e das versões das especificações. | 0.3 |
 | 18/10/2019 | Aline Laureano | Adição da versão 0.2 do diagrama de Caso de uso SISTEMA GERAL.  | 0.4 |
-| 04/11/2019 | Erick Giffoni | Adição dos id's de identificação de cada UC para ser possível acessá-las via link | 1.0 |
+| 04/11/2019 | Erick Giffoni | Adição dos id's de identificação de cada UC para ser possível acessá-las via link | 1.0|
+| 25/11/2019 | Aline Laureano | Formatação no layout da página, adição das referências e inserção do texto descritivo do título "Caso de Uso: Sistema Geral". | 1.1|
+
 
 ***

@@ -1,11 +1,15 @@
+</br>
+</br>
 <span style="margin-left: 40%;">![Twitter Logo](../images/twitter-logo-100px.png)</span>
 
 ***
 
 # Inspeção - Storytelling
-
+---
 
 ## <a href="#">**Verificação**</a>
+
+---
 
 ### Critérios de aceitação - _Check-list_
 
@@ -18,6 +22,7 @@
 > 3. O personagem do Storytelling se enquadra na persona do Twitter levantada?
 
 > 4. A estória segue uma cronologia de eventos e possui coerência?
+
 ---
 
 ### Resultados da avaliação técnica inicial
@@ -43,33 +48,34 @@ Validação realizada somente nos artefatos que forem refatorados segundo a aval
 
 ***
 #### Definição da *Persona*
-> *Autor:* Eugênio Sales</br>
+*Autor:* Eugênio Sales e Aline Laureano</br>
 
-Carlos é um repórter investigativo e decidiu postar o link para a sua nova matéria publicada e a sua opinião sobre ela no Twitter. Ele já tem uma conta que é ativamente usada no Twitter com nome de usuário @CarlosOReporter, mas postar tudo o que ele quer em um só tweet seria insuficiente. Para resolver essa situação, Carlos decidiu pesquisar na Central de Ajuda do Twitter se existia alguma forma dele encadear tweets em uma sequência. Com facilidade ele descobriu que na aba com o título “Como usar o Twitter”, na parte que explicava o que são os tweets, existe a possibilidade de você criar uma sequência de de tweets
+> Carlos é um repórter investigativo e decidiu postar o link para a sua nova matéria publicada e a sua opinião sobre ela no Twitter. Ele já tem uma conta que é ativamente usada no Twitter com nome de usuário @CarlosOReporter, mas postar tudo o que ele quer em um só tweet seria insuficiente. Para resolver essa situação, Carlos decidiu pesquisar na Central de Ajuda do Twitter se existia alguma forma dele encadear tweets em uma sequência. Com facilidade ele descobriu que na aba com o título “Como usar o Twitter”, na parte que explicava o que são os tweets, existe a possibilidade de você criar uma sequência de de tweets
 
 ***
 #### Resultado da Validação por persona - na visão da *Persona*
+*Autores:* Eugênio Sales e Aline Laureano.</br>
 
-Por fim, Carlos finalmente consegui criar uma sequência de tweets que continham: o link para a sua nova matéria publicada, fotos, vídeos e gifs exclusivos gerados no decorrer da criação desta matéria, textos e hashtags que expressam a opinião de Carlos sobre a sua matéria. Mas além disso, Carlos se mostra satisfeito com a navegação na homepage e com as notificações que aceleram o processo de verificação do conteúdo que ele gera.
+> Por fim, Carlos finalmente consegui criar uma sequência de tweets que continham: o link para a sua nova matéria publicada, fotos, vídeos e gifs exclusivos gerados no decorrer da criação desta matéria, textos e hashtags que expressam a opinião de Carlos sobre a sua matéria. Mas além disso, Carlos se mostra satisfeito com a navegação na homepage e com as notificações que aceleram o processo de verificação do conteúdo que ele gera.
 
 ***
 ### Validação por técnica
-> *Autor:* Bruno H. Sousa Duarte</br>
+*Autor:* Bruno H. Sousa Duarte.</br>
 
-Os critérios propostos para o storytelling foram revisidados e refatorados.
-
-***
+> Os critérios propostos para o storytelling foram revisidados e refatorados.
 
 ---
 
 ## Referências
+---
 
 1. **[Storytelling]**  <a href="https://www.trekksoft.com/en/blog/10-steps-to-mastering-the-art-of-storytelling"> 10 steps to master storytelling</a>
+
 ---
 
 
 ## Versionamento de edições desta página
-
+---
 
 | Data       | Autor            | Descrição         | Versão |
 | ---------- | ---------------- | ----------------- | ------ |
@@ -77,4 +83,3 @@ Os critérios propostos para o storytelling foram revisidados e refatorados.
 | 25/11/2019 | Eugênio Sales | Verficação para o storytelling | 0.2 |
 
 ***
-

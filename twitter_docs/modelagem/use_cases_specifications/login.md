@@ -1,20 +1,32 @@
+</br>
+</br>
 <span style="margin-left: 40%;">![Twitter Logo](../../images/twitter-logo-100px.png)</span>
 
 ***
-# Caso de Uso: Efetuar Login
+# Caso de Uso: Login
+Tem por finalidade descrever um conjunto de ações que um sistema ou um conjunto de sistemas deve desempenhar em colaboração com um ou mais usuários externos ao sistema.
+
+Esta página apresenta:
+
+- O diagrama de Caso de Uso Login;
+- E as especificações de cada UC do diagrama desta página.
 
 ***
 ##Diagrama
-
 ***
-**Autore(s):** Bruno Henrique, Eugênio Sales e Aline Laureano. </br>
-**Versão:** *0.2 (última versão)*
+
+*Autore(s):* Bruno Henrique, Eugênio Sales e Aline Laureano. </br>
+*Versão:* *0.2*
+
+> Última versão.
 
 <span style="margin-left: 10%;">![Login Use Case](../images/v2-UC-Login.jpg)</span>
 
-***
-**Autores:** Bruno Henrique e Eugênio Sales.</br>
-**Versão:** *0.1*
+</br>
+*Autores:* Bruno Henrique e Eugênio Sales.</br>
+*Versão:* *0.1*
+
+> Versão inicial.
 
 <span style="margin-left: 10%;">![Login Use Case](../images/UC-Login.png)</span>
 
@@ -23,8 +35,8 @@
 ***
 
 ### <a href="#">UC01</a> - Efetuar Login
-**Autores:** Bruno Henrique e Eugênio Sales.</br>
-**Versão:** *0.1*
+*Autores:* Bruno Henrique e Eugênio Sales.</br>
+*Versão:* *0.1*
 
 |  |  |
 |------|-------|
@@ -39,8 +51,8 @@
 
 ### <a href="#">UC02</a> - Efetuar Cadastro
 
-**Autore(s):** Aline Laureano. </br>
-**Versão:** *0.1*
+*Autore(s):* Aline Laureano. </br>
+*Versão:* *0.1*
 
 |  |  |
 |------|-------|
@@ -52,9 +64,16 @@
 | **Fluxo(s) Alternativos** | - |
 | **Fluxo(s) de exceção** | [FE01] Falha de conexão com a internet:</br>No passo 1 do [FP01] ocorre uma falha de conexão com a Internet. |
 
-***
+---
+##Referências
+---
+- **[Moodle]** Serrano, Maurício. Serrano, Milene. Aula 13: Modelagem de requisitos.
 
+
+***
 ## Versionamento de edições desta página
+---
+
 | Data | Autor | Descrição | Versão |
 |------|-------|-----------|--------|
 | 27/09/2019 | Bruno Henrique | Adição descrição e atores| 0.1 |
@@ -62,3 +81,4 @@
 | 27/09/2019 | Erick Giffoni | Melhorias na edição da página | 0.2.1 |
 | 30/09/2019 | Bruno Henrique | Refatorando a página | 0.2.2 |
 | 25/11/2019 | Aline Laureano | Padronização do layout desta página com as demais páginas de Casos de Uso e adição da:</br>- Versão 0.2 do diagrama;</br>- Versão 0.1 da UC02.  | 0.3 |
+| 25/11/2019 | Aline Laureano | Formatação no layout da página, adição das referências e inserção do texto descritivo do título "Caso de Uso: Login". | 0.4|

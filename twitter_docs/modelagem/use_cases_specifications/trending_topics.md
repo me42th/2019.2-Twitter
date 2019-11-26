@@ -3,20 +3,29 @@
 <span style="margin-left: 40%;">![Twitter Logo](../../images/twitter-logo-100px.png)</span>
 ***
 # Caso de Uso: Trending Topics
+Tem por finalidade descrever um conjunto de ações que um sistema ou um conjunto de sistemas deve desempenhar em colaboração com um ou mais usuários externos ao sistema.
 
+Esta página apresenta:
+
+- O diagrama de Caso de Uso Trending Topics;
+- E as especificações de cada UC do diagrama desta página.
 ***
+
 ##Diagrama
-
 ***
 
-**Autore(s):** Erick Giffoni, Fernando Aguilar e Aline Laureano. </br>
-**Versão:** *0.2 (última versão)*
+*Autore(s):* Erick Giffoni, Fernando Aguilar e Aline Laureano. </br>
+*Versão:* *0.2*
+
+ > Última versão.
 
 <span style="margin-left: 30%;">![Trending Topics Use Case](../images/v2-UC-Trending.jpg)</span>
 
-***
-**Autores:** Erick Giffoni e Fernando Aguilar.</br>
-**Versão:** *0.1*
+</br>
+*Autores:* Erick Giffoni e Fernando Aguilar.</br>
+*Versão:* *0.1*
+
+> Versão final.
 
 <span style="margin-left: 30%;">![Trending Topics Use Case](../images/TrendingTopics.png)</span>
 
@@ -25,8 +34,8 @@
 ***
 
 ### <a href="#">UC021</a> - Clicar em um Assunto
-**Autores:** Erick Giffoni e Fernando Aguilar.</br>
-**Versão:** *0.1* </br>
+*Autores:* Erick Giffoni e Fernando Aguilar.</br>
+*Versão:* *0.1* </br>
 
 |  |  |
 |------|-------|
@@ -40,8 +49,8 @@
 
 
 ### <a href="#">UC22</a> - Mudar Localização
-**Autores:** Erick Giffoni e Fernando Aguilar.</br>
-**Versão:** *0.1* </br>
+*Autores:* Erick Giffoni e Fernando Aguilar.</br>
+*Versão:* *0.1* </br>
 
 | | |
 |------|-------|
@@ -55,8 +64,8 @@
 
 ### <a href="#">UC23</a> - Reportar Trending
 
-**Autores:** Erick Giffoni, Fernando Aguilar e Aline Laureano.</br>
-**Versão:** *0.2 (última versão)* </br>
+*Autores:* Erick Giffoni e Fernando Aguilar.</br>
+*Versão:* *0.1* </br>
 
 | | |
 |------|-------|
@@ -69,8 +78,8 @@
 | Fluxo(s) de exceção | [FE23] O sistema apresenta uma mensagem de erros e [atualiza](#uc24-atualizar) a página |
 
 ### <a href="#">UC23</a> - Reportar
-**Autores:** Erick Giffoni e Fernando Aguilar.</br>
-**Versão:** *0.1* </br>
+*Autores:* Erick Giffoni e Fernando Aguilar.</br>
+*Versão:* *0.1* </br>
 
 | | |
 |------|-------|
@@ -83,8 +92,8 @@
 | Fluxo(s) de exceção | [FE23] O sistema apresenta uma mensagem de erros e [atualiza](#uc24-atualizar) a página |
 
 ### <a href="#">UC24</a> - Atualizar Trending
-**Autores:** Erick Giffoni, Fernando Aguilar e Aline Laureano.</br>
-**Versão:** *0.2 (última versão)* </br>
+*Autores:* Erick Giffoni e Fernando Aguilar.</br>
+*Versão:* *0.1* </br>
 
 | | |
 |------|-------|
@@ -97,8 +106,8 @@
 | Fluxo(s) de exceção | [FE24] O sistema apresenta uma mensagem de erros e [atualiza](#uc24-atualizar) a página |
 
 ### <a href="#">UC24</a> - Atualizar
-**Autores:** Erick Giffoni e Fernando Aguilar.</br>
-**Versão:** *0.1* </br>
+*Autores:* Erick Giffoni e Fernando Aguilar.</br>
+*Versão:* *0.1* </br>
 
 | | |
 |------|-------|
@@ -110,14 +119,20 @@
 | Fluxo(s) Alternativos | [FA24] O usuário não atualiza a tela porque o sistema faz isso automaticamente |
 | Fluxo(s) de exceção | [FE24] O sistema apresenta uma mensagem de erros e [atualiza](#uc24-atualizar) a página |
 
+---
+##Referências
+---
+- **[Moodle]** Serrano, Maurício. Serrano, Milene. Aula 13: Modelagem de requisitos.
 
 
 ***
-
 ## Versionamento de edições desta página
+---
+
 | Data | Autor | Descrição | Versão |
 |------|-------|-----------|--------|
 | 26/09/2019 | Fernando Aguilar | Criação da página | 0.1 |
 | 27/09/2019 | Erick Giffoni | - Melhorias na página </br> - Adição de mais especificações | 0.2 |
 | 27/09/2019 | Erick Giffoni e Fernando Aguilar | Adição de mais especificações | 0.3 |
 | 25/11/2019 | Aline Laureano | Padronização do layout desta página com as demais páginas de Casos de Uso e adição da:</br>- Versão 0.2 do diagrama;</br>- Versão 0.2 da UC23;</br>- Versão 0.2 da UC24.  | 0.4 |
+| 25/11/2019 | Aline Laureano | Formatação no layout da página, adição das referências e inserção do texto descritivo do título "Caso de Uso: Trending Topics". | 0.5|

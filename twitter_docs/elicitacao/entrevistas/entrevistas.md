@@ -182,6 +182,11 @@ Para ver os requisitos elicitados, visite a página [Requisitos](../requisitos.m
 
 8. Que o site tenha uma funcionalidade que sugira notícias e conteúdos novos. Que o site tenha cuidado ao exibir conteúdos violentos ou que possam ser ofensivos para algumas pessoas.
 
+---
+##Referências
+---
+- **[Moodle]** Serrano, Maurício. Serrano, Milene. Aula 07: Elicitação de requisitos.
+
 ***
 ## Versionamento de edições desta página
 ***
@@ -192,4 +197,4 @@ Para ver os requisitos elicitados, visite a página [Requisitos](../requisitos.m
 | 11/09/2019 | Aline Laureano | Adição de mais entrevistas. | 0.3 |
 | 13/09/2019 | Erick Giffoni | Correção dos títulos das entrevistas e revisão ortográfica | 0.4|
 | 12/11/2019 | Erick Giffoni | Adição de hyperlinks nos títulos e nos subtítulos | 1.0|
-| 25/11/2019 | Aline Laureano | Formatação no layout da página. | 1.1|
+| 25/11/2019 | Aline Laureano | Formatação no layout da página e adição das referências. | 1.1|

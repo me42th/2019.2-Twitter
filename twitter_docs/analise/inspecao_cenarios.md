@@ -1,3 +1,5 @@
+</br>
+</br>
 <span style="margin-left: 40%;">![Twitter Logo](../images/twitter-logo-100px.png)</span>
 
 ---
@@ -79,36 +81,34 @@ Validação realizada somente nos artefatos que forem refatorados segundo a aval
 
 ***
 #### Definição da *Persona*
-> *Autor:* Bruno H. Sousa Duarte</br>
+*Autor:* Bruno H. Sousa Duarte</br>
 
-Calebe é um jovem de 24 anos, que cursa Economia. Para passar o tempo e ficar por dentro dos memes e novidades do Brasil e no mundo, Calebe gostaria de uma rede social mais discreta e eficiente em relação a outras redes, por esses motivos decidiu usar o Twitter. Calebe era uma pessoa que tinha bastante contato com a rede social, ele era o candidato perfeito para validar e indicar cenários de como é sua interação com o aplicativo.
+> Calebe é um jovem de 24 anos, que cursa Economia. Para passar o tempo e ficar por dentro dos memes e novidades do Brasil e no mundo, Calebe gostaria de uma rede social mais discreta e eficiente em relação a outras redes, por esses motivos decidiu usar o Twitter. Calebe era uma pessoa que tinha bastante contato com a rede social, ele era o candidato perfeito para validar e indicar cenários de como é sua interação com o aplicativo.
 
 ***
 #### Resultado da Validação por persona - na visão da *Persona*
 
-Calebe gostou de ver que seu *hobbie* poderia ajudar na pesquisa de universitários e procurou mapear todos os cenários. Calebe indicou títulos e caminhos de como realizava as ações e possíveis excessões. Calebe gostou de participar da entrevista e da forma informal que os dados foram coletados e aprovou a forma não burocrática de levantar informações de usuários.
+> Calebe gostou de ver que seu *hobbie* poderia ajudar na pesquisa de universitários e procurou mapear todos os cenários. Calebe indicou títulos e caminhos de como realizava as ações e possíveis excessões. Calebe gostou de participar da entrevista e da forma informal que os dados foram coletados e aprovou a forma não burocrática de levantar informações de usuários.
 ***
 ### Validação por técnica
-> *Autor:* Bruno H. Sousa Duarte</br>
+*Autor:* Bruno H. Sousa Duarte</br>
 
-Os critérios propostos no checklist foram satisfeitos e refatorados. Além disso houve a realização de mais cenários que também seguiram o padrão solicitados.
+> Os critérios propostos no checklist foram satisfeitos e refatorados. Além disso houve a realização de mais cenários que também seguiram o padrão solicitados.
 
 ***
 ## Referências
+---
 
 1. Leite, J.C.S.P., Hadad, G.D.S., Doorn, J.H., Kaplan, G.N.: A Scenario Construction
-Process, Requirements Engineering Journal, Vol.5, N° 1, 2000, pp. 38-61
-
+Process, Requirements Engineering Journal, Vol.5, N° 1, 2000, pp. 38-61.
 2. Hsia, P.et al: Formal Approach to Scenario Analysis. IEEE Software, vol. 11 no. 2,1994. pp.33-41.
-
-3. Leite, Julio & Rossi, Gustavo & Balaguer, Federico & Maiorana, Vanesa & Kaplan, Gladys & Hadad, Graciela & Oliveros, Alejandro. (1997). Enhancing a requirements baseline with scenarios. Requirements Engineering. 2. 184-198. 10.1007/BF02745371. 
-
+3. Leite, Julio & Rossi, Gustavo & Balaguer, Federico & Maiorana, Vanesa & Kaplan, Gladys & Hadad, Graciela & Oliveros, Alejandro. (1997). Enhancing a requirements baseline with scenarios. Requirements Engineering. 2. 184-198. 10.1007/BF02745371.
 4. **[C&L]** <a href="http://pes.inf.puc-rio.br/cel/index_old.htm"> Uma ferramenta para Edição e Visualização de Cenários e Léxicos.</a>
 ---
 
 
 ## Versionamento de edições desta página
-
+---
 
 | Data       | Autor            | Descrição         | Versão |
 | ---------- | ---------------- | ----------------- | ------ |

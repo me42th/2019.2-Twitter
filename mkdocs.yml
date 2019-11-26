@@ -11,8 +11,8 @@ nav:
     - Modelagem:
       - Backlog do produto: modelagem/backlog_do_produto.md
       - Caso de uso - Geral: modelagem/use_cases_specifications/user_case_geral.md
-      - Caso de uso - Trending Topics: modelagem/use_cases_specifications/trending_topics.md
       - Caso de uso - Login: modelagem/use_cases_specifications/login.md
+      - Caso de uso - Trending Topics: modelagem/use_cases_specifications/trending_topics.md
       - Cenários 1.0: modelagem/cenarios/cenarios-1_0.md
       - Cenários 0.1: modelagem/cenarios/cenarios.md
       - Especificação Suplementar: modelagem/especificacao_suplementar.md

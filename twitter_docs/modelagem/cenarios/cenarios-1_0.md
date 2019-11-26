@@ -1,3 +1,5 @@
+</br>
+</br>
 <span style="margin-left: 40%;">![Twitter Logo](../../images/twitter-logo-100px.png)</span>
 ***
 # Cenários 1.0
@@ -7,7 +9,8 @@ Um cenário é uma estratégia reconhecida para compreender as interações entr
 
 Agora os cenários desta página se apresentam em um formato de tabela com cada ocorrência de léxico sendo um ***<a href"#">link</a>*** para a sua definição.
 ***
-# Alguns cenários para o app **<a href="../../lexicos/lexicos-1_0/#lxTwitter">Twitter</a>**
+## Alguns cenários para o app **<a href="../../lexicos/lexicos-1_0/#lxTwitter">Twitter</a>**
+***
 ### **<a href="../../lexicos/lexicos-1_0/#lxTrending">Trending</a>** Topics
 **Autor** : Erick Giffoni </br>
 **Versão:** 0.2 </br>
@@ -196,7 +199,11 @@ Agora os cenários desta página se apresentam em um formato de tabela com cada 
 |**Exceção:**|- Sem acesso a Internet;</br>- Baixa nos Servidores da Aplicação |
 |**Episódios:**|- Usuário ver determinada postagem;</br>- O usuário clica na postagem</br>- O sistema lista as funcionalidades<br/>- O usuário denuncia a postagem<br/>- O sistema avaliará de acordo com as diretrizes internas do Twitter|
 
-***
+---
+##Referências
+---
+- **[Moodle]** Serrano, Maurício. Serrano, Milene. Aula 10: Cenários e Léxicos.
+
 
 ***
 ## Versionamento de edições desta página
@@ -205,3 +212,4 @@ Agora os cenários desta página se apresentam em um formato de tabela com cada 
 | 11/10/2019 | Aline Laureano | Criação da página, adição da descrição da página & dos cenários em formato de tabela com alguns links para os léxicos. | 0.1 |
 | 15/10/2019 | Aline Laureano | Adição dos links para os léxicos. | 0.2 |
 |13/11/2019|Bruno Duarte|Adicionando mais cenários|0.3|
+| 25/11/2019 | Aline Laureano | Formatação no layout da página e adição da referência. | 0.4 |

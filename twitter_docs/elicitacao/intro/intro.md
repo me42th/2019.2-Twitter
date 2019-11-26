@@ -54,6 +54,7 @@ A introspecção é uma técnica de elicitação de requisitos em que o individu
 
 1. **[Open Access]** Elicitação de requisitos. <a href=https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF>**https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF**</a> (último acesso:
 2019)
+2. **[Moodle]** Serrano, Maurício. Serrano, Milene. Aula 07: Elicitação de requisitos.
 
 ---
 ## Versionamento de edições desta página

@@ -1,8 +1,10 @@
+</br>
+</br>
 <span style="margin-left: 40%;">![Twitter Logo](../images/twitter-logo-100px.png)</span>
 
 ***
 
-# Inspeção Entrevistas 
+# Inspeção Entrevistas
 
 ***
 ## <a href="#">**Verificação**</a>
@@ -56,7 +58,7 @@ Validação realizada somente nos artefatos que forem refatorados segundo a aval
 #### Definição da *Persona*
 > *Autor:* Lorrany dos Santos Azevedo</br>
 
-Luiza é uma jovem de 22 anos, estudante de publicidade e trabalha realizando freelancer. Para facilitar a divulgação do seu trabalho Luiza precisa utilizar redes sociais onde um grande número de pessoas é alcançado de forma rápida e fácil, para isto Luiza decidiu usar o Twitter. Pensando em atender melhor os seus usuários o Twitter realizou entrevistas com os mesmos e Luiza foi uma das participantes. 
+Luiza é uma jovem de 22 anos, estudante de publicidade e trabalha realizando freelancer. Para facilitar a divulgação do seu trabalho Luiza precisa utilizar redes sociais onde um grande número de pessoas é alcançado de forma rápida e fácil, para isto Luiza decidiu usar o Twitter. Pensando em atender melhor os seus usuários o Twitter realizou entrevistas com os mesmos e Luiza foi uma das participantes.
 
 Após o processo de entrevista Luiza deu seu feedback a respeito da mesma.
 
@@ -88,7 +90,7 @@ software</a>
 | 29/10/2019 | Aline Laureano | Criação da página e definição do layout dela em forma de template. | 0.1 |
 | 31/10/2019 | Erick Giffoni | Adição de duas novas colunas para o template da verificação técnica :</br>- Classificação do defeito</br>- Tipo do defeito | 0.1 |
 | 31/10/2019 | Erick Giffoni | Adição de três referências teóricas | 0.1 |
-| 02/11/2019 | Lorrany Azevedo | Adição das perguntas dos critérios de aceitação | 0.1 | 
+| 02/11/2019 | Lorrany Azevedo | Adição das perguntas dos critérios de aceitação | 0.1 |
 | 02/11/2019 | Lorrany Azevedo | Adição da inspeção realizada na parte de entrevistas | 0.1 |
 | 02/11/2019 | Lorrany Azevedo | Adição de referêcia teórica | 0.1 |
 | 24/11/2019 | Lorrany Azevedo | Adição de validação | 0.1 |

@@ -1,3 +1,5 @@
+</br>
+</br>
 <span style="margin-left: 40%;">![Twitter Logo](../../images/twitter-logo-100px.png)</span>
 ***
 # Léxicos 1.0
@@ -17,10 +19,11 @@ Cada símbolo tem um nome, uma noção e um impacto, sendo que : </br>
 
 Símbolos também possuem uma classificação, que pode ser : estado ; verbo ; objeto ; sujeito.
 ***
-# Alguns léxicos para o app **<a href="#lxTwitter">Twitter</a>**
+## Alguns léxicos para o app **<a href="#lxTwitter">Twitter</a>**
+---
 
 <span id="lxTrending"></span>
-## **<a href="#lxTrending">Trending</a>**
+### **<a href="#lxTrending">Trending</a>**
 
 **Autor** : Erick Giffoni</br>
 **Versão:** 0.2 </br>
@@ -35,7 +38,7 @@ Símbolos também possuem uma classificação, que pode ser : estado ; verbo ; o
 
 
 <span id="lxTweet"></span>
-## **<a href="#lxTweet">Tweet</a>**
+### **<a href="#lxTweet">Tweet</a>**
 **Autor** : Erick Giffoni</br>
 **Versão:** 0.2 </br>
 
@@ -49,7 +52,7 @@ Símbolos também possuem uma classificação, que pode ser : estado ; verbo ; o
 
 
 <span id="lxEfetuarLogin"></span>
-## **<a href="#lxEfetuarLogin">Efetuar login</a>**
+### **<a href="#lxEfetuarLogin">Efetuar login</a>**
 **Autor** : Bruno Duarte </br>
 **Versão:** 0.2 </br>
 
@@ -62,7 +65,7 @@ Símbolos também possuem uma classificação, que pode ser : estado ; verbo ; o
 |**Sinônimo(s):**|	**<a href="#lxEfetuarLogin">logar</a>**, acessar, entrar. |
 
 <span id="lxInteracoesComPostagens"></span>
-## **<a href="#lxInteracoesComPostagens">Interações com Postagens</a>**
+### **<a href="#lxInteracoesComPostagens">Interações com Postagens</a>**
 **Autor** : Bruno Duarte </br>
 **Versão:** 0.2 </br>
 
@@ -76,7 +79,7 @@ Símbolos também possuem uma classificação, que pode ser : estado ; verbo ; o
 
 
 <span id="lxNotificacoes"></span>
-## **<a href="#lxNotificacoes">Notificações</a>**
+### **<a href="#lxNotificacoes">Notificações</a>**
 **Autor** : Eugênio Sales </br>
 **Versão:** 0.2 </br>
 
@@ -90,7 +93,7 @@ Símbolos também possuem uma classificação, que pode ser : estado ; verbo ; o
 
 
 <span id="lxSeguidor"></span>
-## **<a href="#lxSeguidor">Seguidor</a>**
+### **<a href="#lxSeguidor">Seguidor</a>**
 **Autor** : Eugênio Sales </br>
 **Versão:** 0.2 </br>
 
@@ -104,7 +107,7 @@ Símbolos também possuem uma classificação, que pode ser : estado ; verbo ; o
 
 
 <span id="lxDirectMessage"></span>
-## **<a href="#lxDirectMessage">Direct Message</a>**
+### **<a href="#lxDirectMessage">Direct Message</a>**
 **Autor** : Lorrany Azevedo </br>
 **Versão:** 0.2 </br>
 
@@ -118,7 +121,7 @@ Símbolos também possuem uma classificação, que pode ser : estado ; verbo ; o
 
 
 <span id="lxTweetar"></span>
-## **<a href="#lxTweetar">Tweetar</a>**
+### **<a href="#lxTweetar">Tweetar</a>**
 **Autor** : Lorrany Azevedo </br>
 **Versão:** 0.2 </br>
 
@@ -132,7 +135,7 @@ Símbolos também possuem uma classificação, que pode ser : estado ; verbo ; o
 
 
 <span id="lxPerfil"></span>
-## **<a href="#lxPerfil">Perfil</a>**
+### **<a href="#lxPerfil">Perfil</a>**
 **Autor** : Fernando Aguilar </br>
 **Versão:** 0.2 </br>
 
@@ -146,7 +149,7 @@ Símbolos também possuem uma classificação, que pode ser : estado ; verbo ; o
 
 
 <span id="lxParaVoce"></span>
-## **<a href="#lxParaVoce">Para Você</a>**
+### **<a href="#lxParaVoce">Para Você</a>**
 **Autor** : Fernando Aguilar </br>
 **Versão:** 0.2 </br>
 
@@ -160,7 +163,7 @@ Símbolos também possuem uma classificação, que pode ser : estado ; verbo ; o
 
 
 <span id="lxTwitter"></span>
-## **<a href="#lxTwitter">Twitter</a>**
+### **<a href="#lxTwitter">Twitter</a>**
 **Autor** : Aline Laureano </br>
 **Versão:** 0.2 </br>
 
@@ -174,7 +177,7 @@ Símbolos também possuem uma classificação, que pode ser : estado ; verbo ; o
 
 
 <span id="lxHashtag"></span>
-## **<a href="#lxHashtag">Hashtag</a>**
+### **<a href="#lxHashtag">Hashtag</a>**
 **Autor** : Aline Laureano </br>
 **Versão:** 0.2 </br>
 
@@ -188,7 +191,7 @@ Símbolos também possuem uma classificação, que pode ser : estado ; verbo ; o
 
 
 <span id="#search"></span>
-## **<a href="#search">Pesquisar</a>**
+### **<a href="#search">Pesquisar</a>**
 **Autor** : Bruno Duarte</br>
 **Versão:** 0.1 </br>
 
@@ -202,7 +205,7 @@ Símbolos também possuem uma classificação, que pode ser : estado ; verbo ; o
 
 
 <span id="#report"></span>
-## **<a href="#reportar">Reportar</a>**
+### **<a href="#reportar">Reportar</a>**
 **Autor** : Bruno Duarte</br>
 **Versão:** 0.1 </br>
 
@@ -217,7 +220,7 @@ Símbolos também possuem uma classificação, que pode ser : estado ; verbo ; o
 
 
 <span id="#share"></span>
-## **<a href="#share">Compartilhar</a>**
+### **<a href="#share">Compartilhar</a>**
 **Autor** : Bruno Duarte</br>
 **Versão:** 0.1 </br>
 
@@ -231,7 +234,7 @@ Símbolos também possuem uma classificação, que pode ser : estado ; verbo ; o
 
 
 <span id="#favoritar"></span>
-## **<a href="#search">Gostar</a>**
+### **<a href="#search">Gostar</a>**
 **Autor** : Bruno Duarte</br>
 **Versão:** 0.1 </br>
 
@@ -242,11 +245,19 @@ Símbolos também possuem uma classificação, que pode ser : estado ; verbo ; o
 |**Classificação:**|Verbo |
 |**Impacto(s):**|	- O usuário que publicou será notificado </br>- O sistema recomendará posts semelhantes|
 |**Sinônimo(s):**|facoritar, curtir, like |
+
+---
+##Referências
+---
+- **[Moodle]** Serrano, Maurício. Serrano, Milene. Aula 10: Cenários e Léxicos.
+
 ***
 ## Versionamento de edições desta página
+---
+
 | Data | Autor | Descrição | Versão |
 |------|-------|-----------|--------|
 | 11/10/2019 | Aline Laureano | Criação da página, adição da descrição da página & dos léxicos em formato de tabela com alguns links entre eles. | 0.1 |
 | 15/10/2019 | Aline Laureano | Adição dos links entre os léxicos & edição na descrição da página. | 0.2 |
 |13/11/2019|Bruno Duarte|Adicionando mais léxicos|0.3|
-|||||
+| 25/11/2019 | Aline Laureano | Formatação no layout da página e adição da referência. | 0.4 |

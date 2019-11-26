@@ -1,3 +1,5 @@
+</br>
+</br>
 <span style="margin-left: 40%;">![Twitter Logo](../images/twitter-logo-100px.png)</span>
 
 ---
@@ -46,21 +48,20 @@ Validação realizada somente nos artefatos que forem refatorados segundo a aval
 
 ***
 #### Definição da *Persona*
-> *Autor:* Eugênio Sales</br>
+ *Autor:* Eugênio Sales</br>
 
-Nogueira é um jovem de 20 anos, que cursa Psicologia. Como estudante, Nogueira tinha interesse em realizar pesquisas com usuários do Twitter para identificar padrões de comportamento. Como insumo de sua pesquisa, Nogueira fez uma conta no twitter e selecionou usuários que possuíam grande número de seguidores para coletar e obeservar ações dos seguidores dessas celebridades.
+> Nogueira é um jovem de 20 anos, que cursa Psicologia. Como estudante, Nogueira tinha interesse em realizar pesquisas com usuários do Twitter para identificar padrões de comportamento. Como insumo de sua pesquisa, Nogueira fez uma conta no twitter e selecionou usuários que possuíam grande número de seguidores para coletar e obeservar ações dos seguidores dessas celebridades.
 
 ***
 #### Resultado da Validação por persona - na visão da *Persona*
 
-Nogueira, devido ao grande número de adeptos do Twitter e o alto engajamento que o twitter gera junto aos adeptos, conseguiu verificar e retirar insights muito peculiares sobre o padrão de comportamento dessas pessoas para concluir sua pesquisa.
+> Nogueira, devido ao grande número de adeptos do Twitter e o alto engajamento que o twitter gera junto aos adeptos, conseguiu verificar e retirar insights muito peculiares sobre o padrão de comportamento dessas pessoas para concluir sua pesquisa.
 ***
 ### Validação por técnica
-> *Autor:* Bruno H. Sousa Duarte</br>
+*Autor:* Bruno H. Sousa Duarte</br>
 
-Os critérios propostos no checklist para os caso de uso foram revisidados e refatorados.
+> Os critérios propostos no checklist para os caso de uso foram revisidados e refatorados.
 
-***
 
 ---
 

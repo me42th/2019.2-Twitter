@@ -20,6 +20,12 @@ Trata-se de uma técnica que tem por finalidade contar uma história que envolva
 <p>Para resolver essa situação, Carlos decidiu pesquisar na Central de Ajuda do Twitter se existia alguma forma dele encadear tweets em uma sequência. Com facilidade ele descobriu que na aba com o título “Como usar o Twitter”, na parte que explicava o que são os tweets, existe a possibilidade de você criar uma sequência de de tweets.</p>
 <p>Por fim, Carlos finalmente consegui criar uma sequência de tweets que continham: o link para a sua nova matéria publicada, fotos, vídeos e gifs exclusivos gerados no decorrer da criação desta matéria, textos e hashtags que expressam a opinião de Carlos sobre a sua matéria.</p>
 
+---
+##Referências
+---
+- **[Moodle]** Serrano, Maurício. Serrano, Milene. Aula 07: Elicitação de requisitos.
+
+
 ***
 ## Versionamento de edições desta página
 ---
@@ -27,4 +33,4 @@ Trata-se de uma técnica que tem por finalidade contar uma história que envolva
 | Data | Autor | Descrição | Versão |
 |------|-------|-----------|--------|
 | 11/09/2019 | Aline Laureano | Criação da página, adição da descrição da página e da Storytelling 01. | 0.1 |
-| 25/11/2019 | Aline Laureano | Formatação no layout da página. | 0.2 |
+| 25/11/2019 | Aline Laureano | Formatação no layout da página e adição da referência. | 0.2 |

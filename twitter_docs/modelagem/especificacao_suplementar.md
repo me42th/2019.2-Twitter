@@ -5,7 +5,6 @@
 ***
 # Especificação Suplementar
 
-***
 *Autor do documento:* Aline Laureano</br>
 *Versão:* 0.1</br>
 
