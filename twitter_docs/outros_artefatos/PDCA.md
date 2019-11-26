@@ -1,10 +1,12 @@
+</br>
+</br>
 <span style="margin-left: 40%;">![Twitter Logo](../images/twitter-logo-100px.png)</span>
 
 ***
 
 # Sobe o PDCA
 
-O conceito de PDCA baseia-se no método científico, desenvolvido a partir do trabalho de Francis Bacon (Novum Organum, 1620). O método científico pode ser escrito como "hipótese" - "experimento" - "avaliação" ou o Planejar, Executar e Verificar. Shewhart descreveu fabricação sob "controle", sob controle estatístico, como um processo de três etapas de especificação, produção e inspeção. 
+O conceito de PDCA baseia-se no método científico, desenvolvido a partir do trabalho de Francis Bacon (Novum Organum, 1620). O método científico pode ser escrito como "hipótese" - "experimento" - "avaliação" ou o Planejar, Executar e Verificar. Shewhart descreveu fabricação sob "controle", sob controle estatístico, como um processo de três etapas de especificação, produção e inspeção.
 
 # Etapas
 - Planejar
@@ -40,7 +42,7 @@ Tomar ações corretivas sobre as diferenças significativas entre os resultados
 
 Nesta etapa é preciso tomar as providências estipuladas nas avaliações e relatórios sobre os processos. Se necessário, o gestor deve traçar novos planos para a melhoria do procedimento, visando sempre a correção máxima de falhas e o aprimoramento dos processos da empresa.
 
-“A atuação é corretiva, ou seja, caso a operação realizada não esteja de acordo com o planejado, deve-se atuar corretivamente com planos de ação para a correção de rumo visando atingir a meta estabelecida.” 
+“A atuação é corretiva, ou seja, caso a operação realizada não esteja de acordo com o planejado, deve-se atuar corretivamente com planos de ação para a correção de rumo visando atingir a meta estabelecida.”
 
 ***
 

@@ -1,25 +1,36 @@
+</br>
+</br>
 <span style="margin-left: 40%;">![Twitter Logo](../../images/twitter-logo-100px.png)</span>
 ***
 
 # NFR Framework
 
 <p>Diagramas desenvolvidos:</p>
-  - <a href="#nfr_geral">**Diagrama Geral;**</a>
-  - <a href="#nfr_seguranca">**Diagrama de Segurança;**</a>
-  - <a href="#nfr_usabilidade">**Diagrama de Usabilidade;**</a>
-  - <a href="#nfr_performance">**Diagrama de Desempenho ou Performance;**</a>
+  - <a href="#nfr_geral1.0">**NFR do Twitter;**</a>
+  - <a href="#nfr-seguranca">**Diagrama de Segurança;**</a>
+  - <a href="#diagrama-usabilidade">**Diagrama de Usabilidade;**</a>
+  - <a href="#performance">**Diagrama de Desempenho ou de Performance;**</a>
 
 ***
 
-## **Diagrama Geral**
+## **NFR do Twitter**
 **Autor(es): Todo o grupo**
 
-> - Junção dos NFR'S de segurança, usabilidade e desempenho
+> - Junção dos diagramas de segurança, de usabilidade e de desempenho
 
-### Modelagem
+### Versão 1.0
 
+<span id="nfr_geral1.0"></span>
 <span id="nfr_geral"></span>
-![NFR geral](images/geral.png)
+[![NFR 1.0](images/NFR-Geral.png)](images/NFR-Geral.png)
+Clique na imagem para vê-la separadamente.
+
+***
+### Versão 0.1
+
+
+[![NFR geral](images/geral.png)](images/geral.png)
+Clique na imagem para vê-la separadamente.
 
 ***
 
@@ -47,10 +58,19 @@
 > - **Redundância:**
 >     - Backup do banco de dados.
 
-### Modelagem
+### Versão 1.0
 
+<span id="nfr-seguranca"></span>
 <span id="nfr_seguranca"></span>
-![NFR Twitter Segurança](images/NFR-Seguranca.png)
+[![1.0](images/NFR-Seguranca1-0.png)](images/NFR-Seguranca1-0.png)
+Clique na imagem para vê-la separadamente.
+
+***
+### Versão 0.1
+
+
+[![NFR Twitter Segurança](images/NFR-Seguranca.png)](images/NFR-Seguranca.png)
+Clique na imagem para vê-la separadamente.
 
 ***
 
@@ -69,14 +89,23 @@
 >         - Aplicar o design da aplicação em todas as áreas delas;
 >         - Utilizar uma paleta de cores para o design da aplicação.
 
-### Modelagem
+### Versão 1.0
 
+<span id="diagrama-usabilidade"></span>
 <span id="nfr_usabilidade"></span>
-![NFR Twitter Usabilidade](images/NFR-Usabilidade.jpg)
+[![usabilidade](images/NFR-Usabilidade1-0.png)](images/NFR-Usabilidade1-0.png)
+Clique na imagem para vê-la separadamente.
+
+***
+### Versão 0.1
+
+
+[![NFR Twitter Usabilidade](images/NFR-Usabilidade.jpg)](images/NFR-Usabilidade.jpg)
+Clique na imagem para vê-la separadamente.
 
 ***
 
-## **Diagrama de Desempenho ou Performance**
+## **Diagrama de Desempenho ou de Performance**
 **Autor(es): Bruno e Eugênio**
 > - **Espaço:**
 >     - Datacenters.
@@ -85,14 +114,31 @@
 >         - Usar formato descompactado;
 >         - Usar indexação.
 
-## Modelagem
+### Versão 1.0
 
+<san id="performance"></span>
 <span id="nfr_performance"></span>
-![NFR Twitter Performance](images/NFR-Performance.png)
+[![perf](images/NFR-Performance1-0.png)](images/NFR-Performance1-0.png)
+
+Clique na imagem para vê-la separadamente.
+***
+### Versão 0.1
+
+[![NFR Twitter Performance](images/NFR-Performance.png)](images/NFR-Performance.png)
+
+Clique na imagem para vê-la separadamente.
+
+---
+##Referências
+---
+- **[Moodle]** Serrano, Maurício. Serrano, Milene. Aula 17: Modelagem de Requisitos - GORE.
+
+
 
 ***
 
 ## Versionamento de edições desta página
+---
 | Data | Autor | Descrição | Versão |
 |------|-------|-----------|--------|
 | 20/10/2019 | Fernando Aguilar | Criação da página e ajuste para a adição do diagrama de segurança. | 0.1 |
@@ -102,3 +148,5 @@
 | 21/10/2019 | Lorrany Azevedo | Ajuste da página para a adição do diagrama Geral. | 0.5 |
 | 22/10/2019 | Aline Laureano | Padronização do layout da página e adição dos links internos para os diagramas. | 0.6 |
 | 22/10/2019 | Erick Giffoni | Adição dos autores de cada diagrama | 0.6.1 |
+| 24/11/2019 | Erick Giffoni | Adição dos diagramas e do NFR refatorados</br>Formatação da página | 1.0 |
+| 25/11/2019 | Aline Laureano | Formatação no layout da página e adição da referência. | 1.1 |

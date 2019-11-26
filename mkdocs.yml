@@ -5,35 +5,43 @@ nav:
       - RichPicture: pre_rastreabilidade/richpicture.md
     - Elicitação:
       - Entrevistas: elicitacao/entrevistas/entrevistas.md
-      - Storytelling: elicitacao/storytelling.md
+      - Introspecção: elicitacao/intro/intro.md
       - Requisitos & MoSCoW: elicitacao/requisitos.md
+      - Storytelling: elicitacao/storytelling.md
     - Modelagem:
+      - Backlog do produto: modelagem/backlog_do_produto.md
+      - Caso de uso - Geral: modelagem/use_cases_specifications/user_case_geral.md
+      - Caso de uso - Login: modelagem/use_cases_specifications/login.md
+      - Caso de uso - Trending Topics: modelagem/use_cases_specifications/trending_topics.md
       - Cenários 1.0: modelagem/cenarios/cenarios-1_0.md
       - Cenários 0.1: modelagem/cenarios/cenarios.md
+      - Especificação Suplementar: modelagem/especificacao_suplementar.md
       - Léxicos 1.0: modelagem/lexicos/lexicos-1_0.md
       - Léxicos 0.1: modelagem/lexicos/lexicos.md
-      - Caso de uso - Geral: modelagem/use_cases_specifications/user_case_geral.md
-      - Caso de uso - Trending Topics: modelagem/use_cases_specifications/trending_topics.md
-      - Caso de uso - Login: modelagem/use_cases_specifications/login.md
-      - Backlog do produto: modelagem/backlog_do_produto.md
       - NFR: modelagem/NFR/nfr_diagramas.md
     - Análise:
       - Definição: analise/definicao.md
-      - Inspeção RichPicture - Template: analise/inspecao_rich_picture.md
-      - Inspeção - MoSCoW e Requisitos: analise/inspecao_moscow_requisitos.md
-      - Inspeção - Entrevistas: analise/inspecao_entrevistas.md
       - Inspeção - Backlog do Produto: analise/inspecao_backlog_produto.md
-      - Inspeção - NFR: analise/inspecao_nfr.md
+      - Inspeção - Casos de Uso: analise/inspecao_casos_de_uso.md
       - Inspeção - Cenários: analise/inspecao_cenarios.md
+      - Inspeção - Entrevistas: analise/inspecao_entrevistas.md
       - Inspeção - Léxicos: analise/inspecao_lexicos.md
+      - Inspeção - MoSCoW e Requisitos: analise/inspecao_moscow_requisitos.md
+      - Inspeção - NFR: analise/inspecao_nfr.md
+      - Inspeção - RichPicture: analise/inspecao_rich_picture.md
+      - Inspeção - Storytelling: analise/inspecao_storytelling.md
+
     - Pós-rastreabilidade:
-      - Matriz Forward-from: pos_rastreabilidade/forward_from.md
       - Matriz Backward-from: pos_rastreabilidade/backward_from.md
+      - Matriz Forward-from: pos_rastreabilidade/forward_from.md
       - Matriz Geral de rastreabilidade: pos_rastreabilidade/matriz_geral.md
+      - Telas: pos_rastreabilidade/telas.md
     - Outros artefatos:
-      - PDCA: outros_artefatos/PDCA.md
       - 5W2H: outros_artefatos/5w2h.md
       - SWOT: outros_artefatos/swot.md
+      - PDCA: outros_artefatos/PDCA.md
+
+
 
 repo_url: https://github.com/Requisitos2-2019/Twitter/
 

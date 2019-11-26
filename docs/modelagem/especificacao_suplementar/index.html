@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../../img/favicon.ico">
+        <title>Especificação Suplementar - Twitter Requirements</title>
+        <link href="../../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/color-brewer.min.css">
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <script src="../../js/jquery-1.10.2.min.js" defer></script>
+        <script src="../../js/bootstrap-3.0.3.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
+
+    <body>
+
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+
+                <!-- Collapsed navigation -->
+                <div class="navbar-header">
+                    <!-- Expander button -->
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="../..">Twitter Requirements</a>
+                </div>
+
+                <!-- Expanded navigation -->
+                <div class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pŕe-rastreabilidade <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../../pre_rastreabilidade/richpicture/">RichPicture</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Elicitação <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../../elicitacao/entrevistas/entrevistas/">Entrevistas</a>
+</li>
+                                    
+<li >
+    <a href="../../elicitacao/intro/intro/">Introspecção</a>
+</li>
+                                    
+<li >
+    <a href="../../elicitacao/requisitos/">Requisitos & MoSCoW</a>
+</li>
+                                    
+<li >
+    <a href="../../elicitacao/storytelling/">Storytelling</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown active">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Modelagem <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../backlog_do_produto/">Backlog do produto</a>
+</li>
+                                    
+<li >
+    <a href="../use_cases_specifications/user_case_geral/">Caso de uso - Geral</a>
+</li>
+                                    
+<li >
+    <a href="../use_cases_specifications/login/">Caso de uso - Login</a>
+</li>
+                                    
+<li >
+    <a href="../use_cases_specifications/trending_topics/">Caso de uso - Trending Topics</a>
+</li>
+                                    
+<li >
+    <a href="../cenarios/cenarios-1_0/">Cenários 1.0</a>
+</li>
+                                    
+<li >
+    <a href="../cenarios/cenarios/">Cenários 0.1</a>
+</li>
+                                    
+<li class="active">
+    <a href="./">Especificação Suplementar</a>
+</li>
+                                    
+<li >
+    <a href="../lexicos/lexicos-1_0/">Léxicos 1.0</a>
+</li>
+                                    
+<li >
+    <a href="../lexicos/lexicos/">Léxicos 0.1</a>
+</li>
+                                    
+<li >
+    <a href="../NFR/nfr_diagramas/">NFR</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Análise <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../../analise/definicao/">Definição</a>
+</li>
+                                    
+<li >
+    <a href="../../analise/inspecao_backlog_produto/">Inspeção - Backlog do Produto</a>
+</li>
+                                    
+<li >
+    <a href="../../analise/inspecao_casos_de_uso/">Inspeção - Casos de Uso</a>
+</li>
+                                    
+<li >
+    <a href="../../analise/inspecao_cenarios/">Inspeção - Cenários</a>
+</li>
+                                    
+<li >
+    <a href="../../analise/inspecao_entrevistas/">Inspeção - Entrevistas</a>
+</li>
+                                    
+<li >
+    <a href="../../analise/inspecao_lexicos/">Inspeção - Léxicos</a>
+</li>
+                                    
+<li >
+    <a href="../../analise/inspecao_moscow_requisitos/">Inspeção - MoSCoW e Requisitos</a>
+</li>
+                                    
+<li >
+    <a href="../../analise/inspecao_nfr/">Inspeção - NFR</a>
+</li>
+                                    
+<li >
+    <a href="../../analise/inspecao_rich_picture/">Inspeção - RichPicture</a>
+</li>
+                                    
+<li >
+    <a href="../../analise/inspecao_storytelling/">Inspeção - Storytelling</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pós-rastreabilidade <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../../pos_rastreabilidade/backward_from/">Matriz Backward-from</a>
+</li>
+                                    
+<li >
+    <a href="../../pos_rastreabilidade/forward_from/">Matriz Forward-from</a>
+</li>
+                                    
+<li >
+    <a href="../../pos_rastreabilidade/matriz_geral/">Matriz Geral de rastreabilidade</a>
+</li>
+                                    
+<li >
+    <a href="../../pos_rastreabilidade/telas/">Telas</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Outros artefatos <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li >
+    <a href="../../outros_artefatos/5w2h/">5W2H</a>
+</li>
+                                    
+<li >
+    <a href="../../outros_artefatos/swot/">SWOT</a>
+</li>
+                                    
+<li >
+    <a href="../../outros_artefatos/PDCA/">PDCA</a>
+</li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                            <li >
+                                <a rel="next" href="../cenarios/cenarios/">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li >
+                                <a rel="prev" href="../lexicos/lexicos-1_0/">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://github.com/Requisitos2-2019/Twitter/edit/master/docs/modelagem/especificacao_suplementar.md"><i class="fa fa-github"></i> Edit on GitHub</a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+        <li class="main active"><a href="#especificacao-suplementar">Especificação Suplementar</a></li>
+            <li><a href="#sumario">Sumário</a></li>
+            <li><a href="#sobre-o-documento">Sobre o documento:</a></li>
+            <li><a href="#requisitos-nao-funcionais">Requisitos não-funcionais:</a></li>
+            <li><a href="#referencias">Referências</a></li>
+            <li><a href="#versionamento-de-edicoes-desta-pagina">Versionamento de edições desta página</a></li>
+    </ul>
+</div></div>
+                <div class="col-md-9" role="main">
+
+<p></br>
+</br>
+<span style="margin-left: 40%;"><img alt="Twitter Logo" src="../../images/twitter-logo-100px.png" /></span></p>
+<hr />
+<h1 id="especificacao-suplementar">Especificação Suplementar</h1>
+<p><em>Autor do documento:</em> Aline Laureano</br>
+<em>Versão:</em> 0.1</br></p>
+<hr />
+<h2 id="sumario">Sumário</h2>
+<ul>
+<li><strong><a href="#sobre">Sobre o documento:</a></strong><ul>
+<li><a href="#visaogeral">Visão geral</a>;</li>
+<li><a href="#finalidade">Finalidade</a>;</li>
+<li><a href="#escopo">Escopo do Twitter</a>;</li>
+</ul>
+</li>
+<li><strong><a href="#req_nao_funcionais">Requisitos não-funcionais:</a></strong><ul>
+<li><a href="#1confiabilidade">1 - Confiabilidade</a>;</li>
+<li><a href="#2desempenho">2 - Desempenho</a>;</li>
+<li><a href="#3funcionalidade">3 - Funcionalidade</a>;</li>
+<li><a href="#4suportabilidade">4 - Suportabilidade</a>;</li>
+<li><a href="#5usabilidade">5 - Usabilidade</a>;</li>
+</ul>
+</li>
+<li><strong><a href="#referencias">Referências</a></strong></li>
+</ul>
+<hr />
+<p><span id="sobre"></span></p>
+<h2 id="sobre-o-documento">Sobre o documento:</h2>
+<p><span id="visaogeral"></span></p>
+<h3 id="visao-geral">Visão Geral</h3>
+<p>O que mais influencia o sucesso de um software é a definição de bons requisitos não-funcionais que atendam às necessidades do seu domínio de atuação. Logo, definir requisitos não-funcionais é essencial para se desenvolver um software de qualidade.</p>
+<p>O presente documento busca esclarecer a quais são os requisitos não-funcionais presentes no Twitter.</p>
+<p><span id="finalidade"></span></p>
+<h3 id="finalidade">Finalidade</h3>
+<p>A finalidade desse documento é apresentar os requisitos não-funcionais do sistema do Twitter, através de:</p>
+<ul>
+<li>Técnicas de elicitação e modelagem trabalhadas neste projeto;</li>
+<li>E seguindo o modelo para classificação de atributos de qualidade de software, FURPS+.</li>
+</ul>
+<p><span id="escopo"></span></p>
+<h3 id="escopo-do-twitter">Escopo do Twitter</h3>
+<p>Segundo a página <a href="https://about.twitter.com/pt.html"><em>Sobre</em></a> do próprio Twitter:</p>
+<blockquote>
+<p>"<strong>O Twitter é</strong></p>
+<p>o lugar certo para saber mais sobre o que está acontecendo no mundo e sobre o que as pessoas estão falando agora."</p>
+</blockquote>
+<p>E para atingir essa finalidade, o Twitter consiste em uma rede social e um servidor para microblogging, que permite aos usuários enviar e receber atualizações pessoais de outros contatos, por meio das suas plataformas.</p>
+<hr />
+<p><span id="req_nao_funcionais"></span></p>
+<h2 id="requisitos-nao-funcionais">Requisitos não-funcionais:</h2>
+<p><span id="1confiabilidade"></span></p>
+<h3 id="1-confiabilidade">1 - Confiabilidade</h3>
+<ul>
+<li>
+<p><strong>Garantia de segurança mínima no armazenamento de dados:</strong></p>
+<ul>
+<li>O Twitter segue critérios mínimos para a segurança do armazenamento de dados dos seus usuários.</li>
+</ul>
+</li>
+<li>
+<p><strong>Garantia de atualização de informações pessoais:</strong></p>
+<ul>
+<li>O usuário do Twitter dever poder alterar os seus dados pessoais caso desejar.</li>
+</ul>
+</li>
+<li>
+<p><strong>Garantia de disponibilidade:</strong></p>
+<ul>
+<li>O Twitter está disponível aos seus usuários tanto na plataforma Web quanto na Mobile durante 24 horas por dia, caso eles tenham acesso à Internet.</li>
+</ul>
+</li>
+</ul>
+<p><span id="2desempenho"></span></p>
+<h3 id="2-desempenho">2 - Desempenho</h3>
+<p>O tempo de resposta do sistema deverá ser o mínimo possível. Para garantir este desempenho, essa necessidade deverá ter uma verificação mais acurada para que sejam geradas soluções que resolvam esta questão de desempenho na fase de implementação do Twitter.</p>
+<p><span id="3funcionalidade"></span></p>
+<h3 id="3-funcionalidade">3 - Funcionalidade</h3>
+<p>As funcionalidades do Twitter podem ser vistas nos seguintes artefatos deste projeto:</p>
+<ul>
+<li><a href="../../elicitacao/requisitos/">Requisitos &amp; MoSCoW</a>;</li>
+<li><a href="../backlog_do_produto/">Backlog do Produto</a>;</li>
+<li><a href="../use_cases_specifications/user_case_geral/">Caso de Uso - Geral</a>;</li>
+<li><a href="../use_cases_specifications/login/">Caso de Uso - Login</a>;</li>
+<li><a href="../use_cases_specifications/trending_topics/">Caso de Uso - Trending Topics</a>;</li>
+<li><a href="../../pos_rastreabilidade/backward_from/">Matriz Backward-from</a>;</li>
+<li><a href="../../pos_rastreabilidade/forward_from/">Matriz Forward-from</a>;</li>
+<li><a href="../../pos_rastreabilidade/matriz_geral/">Matriz Geral de rastreabilidade</a>;</li>
+</ul>
+<p><span id="4suportabilidade"></span></p>
+<h3 id="4-suportabilidade">4 - Suportabilidade</h3>
+<p>O Twitter está disponível para uso em uma plataforma Web e nas principais plataformas Mobile do mercado através dos sistemas operacionais mobile Android e IOS.</p>
+<p><span id="5usabilidade"></span></p>
+<h3 id="5-usabilidade">5 - Usabilidade</h3>
+<ul>
+<li>
+<p><strong>Facilidade de uso</strong></p>
+<ul>
+<li>O usuário do Twitter é capaz de utilizá-lo através de ações simples, o que torna quase desnecessário o usuário ter um treinamento prévio para a realização da maioria das ações disponíveis.</li>
+</ul>
+</li>
+<li>
+<p><strong>Central de ajuda</strong></p>
+<ul>
+<li>Caso o usuário sinta alguma dificuldade na utilização do Twitter, ele fornece em sua plataforma uma central de ajuda ao usuário capaz de sanar qualquer dúvidas que surgirem.</li>
+</ul>
+</li>
+<li>
+<p><strong>Feedback instantâneo</strong></p>
+<ul>
+<li>O Twitter tem como prioridade os resultados instantâneos inclusive para as ações realizadas pelos usuários, que sempre vão receber feedback visuais como respostas para as ações que eles executarem.</li>
+</ul>
+</li>
+</ul>
+<hr />
+<p><span id="referencias"></span></p>
+<h2 id="referencias">Referências</h2>
+<ol>
+<li><strong>[Open Access]</strong> <a href="https://about.twitter.com/pt.html">Twitter - Sobre.</a> (acesso em: Novembro de 2019)</li>
+<li><strong>[Open Access]</strong> <a href="https://twitter.com/pt/privacy">Twitter - Política de privacidade.</a> (acesso em: Novembro de 2019)</li>
+<li><strong>[Open Access]</strong> <a href="https://requisitos-habitica.netlify.com/EspecificacaoSuplementar">Requisitos Habitica - Especificação Suplementar.</a> (acesso em: Novembro de 2019)</li>
+<li><strong>[Open Access]</strong> <a href="https://williamelias.github.io/Req-01-2019-medium/modelagem/especificacao_suplementar/">Requisitos Medium - Especificação Suplementar.</a> (acesso em: Novembro de 2019)</li>
+<li><strong>[Open Access]</strong> <a href="https://requisitos-2017-2-nubank.github.io/Nubank/siki/esp-suplementar.html">Requisitos NuBank - Especificação Suplementar.</a> (acesso em: Novembro de 2019)</li>
+<li><strong>[Moodle]</strong> Serrano, Maurício. Serrano, Milene. Aula 011: Casos de Uso e Especificação Suplementar.</li>
+</ol>
+<hr />
+<h2 id="versionamento-de-edicoes-desta-pagina">Versionamento de edições desta página</h2>
+<table>
+<thead>
+<tr>
+<th>Data</th>
+<th>Autor</th>
+<th>Descrição</th>
+<th>Versão</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>24/11/2019</td>
+<td>Aline Laureano</td>
+<td>Criação da página, adição do documento de Especificação Suplementar.</td>
+<td>0.1</td>
+</tr>
+<tr>
+<td>25/11/2019</td>
+<td>Aline Laureano</td>
+<td>Formatação no layout da página, adição do sumário com os links internos e adição das referências.</td>
+<td>0.2</td>
+</tr>
+</tbody>
+</table></div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>
+            var base_url = "../..",
+                shortcuts = {"search": 83, "next": 78, "help": 191, "previous": 80};
+        </script>
+        <script src="../../js/base.js" defer></script>
+        <script src="../../search/main.js" defer></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form role="form">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Keyboard Shortcuts</h4>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>

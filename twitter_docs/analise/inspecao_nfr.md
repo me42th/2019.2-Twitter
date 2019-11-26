@@ -1,3 +1,5 @@
+</br>
+</br>
 <span style="margin-left: 40%;">![Twitter Logo](../images/twitter-logo-100px.png)</span>
 
 ---
@@ -43,15 +45,14 @@ _Autor da avaliação técnica:_ Fernando Aguilar</br>
 
 ---
 
-## **Parecer técnico**
-
 ## <a href="#">**Validação**</a>
+---
 
 ### Validação por _Persona_
 
 #### Definição da _Persona_
 
-> A persona é um analista que está utilizando o diagrama para interpretar os requisitos não funcionais do sistema. Ele é responsável por definir a arquitetura e priorizar quais são as decisões mais importantes a serem tomadas na hora de definir os requisitos. 
+> A persona é um analista que está utilizando o diagrama para interpretar os requisitos não funcionais do sistema. Ele é responsável por definir a arquitetura e priorizar quais são as decisões mais importantes a serem tomadas na hora de definir os requisitos.
 
 ## Resultado da Validação - na visão da _Persona_
 
@@ -60,6 +61,7 @@ _Autor da avaliação técnica:_ Fernando Aguilar</br>
 ---
 
 ## Referências
+---
 
 1. **[Ebrary]** Young, Ralph. Requirements Engineering Handbook. Norwood, US:
    Artech House Books, 2003.
@@ -69,6 +71,7 @@ _Autor da avaliação técnica:_ Fernando Aguilar</br>
 ---
 
 ## Versionamento de edições desta página
+---
 
 | Data       | Autor            | Descrição         | Versão |
 | ---------- | ---------------- | ----------------- | ------ |

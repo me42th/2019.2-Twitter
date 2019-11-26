@@ -1,3 +1,5 @@
+</br>
+</br>
 <span style="margin-left: 40%;">![Twitter Logo](../images/twitter-logo-100px.png)</span>
 
 ***
@@ -261,9 +263,9 @@ Essa coluna diz respeito a quem o requisito levantado se refere, ou seja, há tr
 
 *Autor:* Erick Giffoni </br>
 
-A partir da verificação feita acima, o artefato <a href="../../elicitacao/requisitos/#tabela-de-requisitos">**[MoSCoW e Requisitos]**</a> foi refatorado.
+> A partir da verificação feita acima, o artefato <a href="../../elicitacao/requisitos/#tabela-de-requisitos">**[MoSCoW e Requisitos]**</a> foi refatorado.
 
-Assim, com o artefato refatorado, considerando as devidas mudanças sugeridas, declaro que ele está tecnicamente **validado**.
+> Assim, com o artefato refatorado, considerando as devidas mudanças sugeridas, declaro que ele está tecnicamente **validado**.
 
 ***
 ### Validação por *Persona*
@@ -292,16 +294,18 @@ Para a validação do MoSCoW e Requisitos, Maria Júlia foi submetida a usar o T
 
 ***
 ## Referências
+---
 
 1. **[Open Access]** <a href="https://drive.google.com/file/d/1-s5edQeIR_19rp_6HCpx7FnT7ISrMjgm/view?usp=sharing">Bytech. Guideline Checklists for Fagan Inspection.</a>
 2. **[Open Access]** <a href="https://drive.google.com/file/d/1fmFCCYzj997WAo6wD6W9VizzV6lL1Zkh/view?usp=sharing">Doolan, E. P. . Experience with Fagan’s Inspection Method.</a>
 3. **[Open Access]** <a href="https://drive.google.com/file/d/1BhBFVn6zKtVn_E6iDeUUsv75rvS1f3Ek/view?usp=sharing">Melo, Silvana M. . Inspeção de software</a>
 4. **[Open Access]** <a href="https://drive.google.com/file/d/1m-6qzJzPaVCdTLUl2s7LHWtcQkwzpE3q/view?usp=sharing">Serrano, Maurício. Serrano, Milene. Elicitação de requisitos.</a>
-5. **[Fonte da referência]** Referência 2 (Formato ABNT)
 
 ***
 
 ## Versionamento de edições desta página
+---
+
 | Data | Autor | Descrição | Versão |
 |------|-------|-----------|--------|
 | 01/11/2019 | Erick Giffoni | Criação da página de acordo com o template feito pela Aline. | 0.1 |
@@ -310,3 +314,4 @@ Para a validação do MoSCoW e Requisitos, Maria Júlia foi submetida a usar o T
 | 02/11/2019 | Erick Giffoni | Conclusão do check-list | 1.0 |
 | 05/11/2019 | Erick Giffoni | Adição da validação técnica | 2.0 |
 | 05/11/2019 | Erick Giffoni | Adição da validação por persona | 3.0 |
+| 22/11/2019 | Aline Laureano | Exclusão da referência que era só um template.  | 4.0 |
